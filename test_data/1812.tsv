@@ -1,0 +1,1723 @@
+	word	tupled_annos	first_resolve	manual_resolve	resolve_type	ontological_resolve	notes
+0	debvoir	('O', 'O')	O	O			
+1	kennise	('O', 'O')	O	O			
+2	te	('O', 'O')	O	O			
+3	laten	('O', 'O')	O	O			
+4	toecomen	('O', 'B-Translocation')	('O', 'B-Translocation')	B-Translocation	M		
+5	,	('O', 'O')	O	O			
+6	Even	('O', 'O')	O	O			
+7	als	('O', 'O')	O	O			
+8	wij	('O', 'O')	O	O			
+9	bij	('O', 'O')	O	O			
+10	die	('O', 'O')	O	O			
+11	van	('O', 'O')	O	O			
+12	den	('O', 'O')	O	O			
+13	20„e	('O', 'O')	O	O			
+14	xb	('O', 'O')	O	O			
+15	:	('O', 'O')	O	O			
+16	haer	('O', 'O')	O	O			
+17	nopende	('O', 'O')	O	O			
+18	de	('O', 'O')	O	O			
+19	zijde	('O', 'O')	O	O			
+20	Leverantie	('B-Trade', 'B-Trade')	B-Trade	B-Trade	A		
+21	voor	('O', 'O')	O	O			
+22	dit	('O', 'O')	O	O			
+23	9	('O', 'O')	O	O			
+24	Jaer	('O', 'O')	O	O			
+25	hebben	('O', 'O')	O	O			
+26	gedaen	('O', 'O')	O	O			
+27	,	('O', 'O')	O	O			
+28	en	('O', 'O')	O	O			
+29	g'ordonneerd	('B-Request', 'B-ForceToAct')	('B-Request', 'B-ForceToAct')	B-Request	M		
+30	,	('O', 'O')	O	O			
+31	die	('O', 'O')	O	O			
+32	des	('O', 'O')	O	O			
+33	mogelijk	('O', 'O')	O	O			
+34	in	('O', 'O')	O	O			
+35	de	('O', 'O')	O	O			
+36	moolen	('O', 'O')	O	O			
+37	te	('O', 'O')	O	O			
+38	helpen	('O', 'O')	O	O			
+39	,	('O', 'O')	O	O			
+40	ook	('O', 'O')	O	O			
+41	gequalificeerd	('O', 'O')	O	O			
+42	,	('O', 'O')	O	O			
+43	soo	('O', 'O')	O	O			
+44	dat	('O', 'O')	O	O			
+45	niet	('O', 'O')	O	O			
+46	Lucken	('O', 'O')	O	O			
+47	wilde	('O', 'O')	O	O			
+48	;	('O', 'O')	O	O			
+49	en	('O', 'O')	O	O			
+50	mier	('O', 'O')	O	O			
+51	sahit	('O', 'O')	O	O			
+52	inhamet	('O', 'O')	O	O			
+53	halsterrig	('O', 'O')	O	O			
+54	en	('O', 'O')	O	O			
+55	oneanderlijk	('O', 'O')	O	O			
+56	op	('O', 'O')	O	O			
+57	de	('O', 'O')	O	O			
+58	zijde	('O', 'O')	O	O			
+59	Leverantie	('O', 'B-Trade')	('O', 'B-Trade')	B-Trade	M		
+60	aendrong	('O', 'B-ForceToAct')	('O', 'B-ForceToAct')	B-ForceToAct	M		
+61	die	('O', 'O')	O	O			
+62	te	('O', 'O')	O	O			
+63	ontfangen	('B-Getting', 'B-Getting')	B-Getting	B-Getting	A		
+64	,	('O', 'O')	O	O			
+65	sampt	('O', 'O')	O	O			
+66	bij	('O', 'O')	O	O			
+67	die	('O', 'O')	O	O			
+68	van	('O', 'O')	O	O			
+69	den	('O', 'O')	O	O			
+70	29„e	('O', 'O')	O	O			
+71	daer	('O', 'O')	O	O			
+72	aen	('O', 'O')	O	O			
+73	volgende	('O', 'O')	O	O			
+74	en	('O', 'O')	O	O			
+75	15„e	('O', 'O')	O	O			
+76	Jan	('O', 'O')	O	O			
+77	:	('O', 'O')	O	O			
+78	haer	('O', 'O')	O	O			
+79	indagtigd	('O', 'O')	O	O			
+80	,	('O', 'O')	O	O			
+81	want	('O', 'O')	O	O			
+82	dat	('O', 'O')	O	O			
+83	was	('O', 'O')	O	O			
+84	al	('O', 'O')	O	O			
+85	meede	('O', 'O')	O	O			
+86	vergecten	('O', 'O')	O	O			
+87	,	('O', 'O')	O	O			
+88	niet	('O', 'O')	O	O			
+89	tegenstaende	('O', 'O')	O	O			
+90	haer	('O', 'O')	O	O			
+91	op	('O', 'O')	O	O			
+92	den	('O', 'O')	O	O			
+93	15„e	('O', 'O')	O	O			
+94	maij	('O', 'O')	O	O			
+95	daer	('O', 'O')	O	O			
+96	over	('O', 'O')	O	O			
+97	gebruijkte	('O', 'O')	O	O			
+98	breeder	('O', 'O')	O	O			
+99	resonnementen	('O', 'O')	O	O			
+100	,	('O', 'O')	O	O			
+101	miet	('O', 'O')	O	O			
+102	sahit	('O', 'O')	O	O			
+103	inhamed	('O', 'O')	O	O			
+104	op	('O', 'O')	O	O			
+105	ontfangst	('B-Getting', 'B-Getting')	B-Getting	B-Getting	A		
+106	van	('O', 'O')	O	O			
+107	dat	('O', 'O')	O	O			
+108	„	('O', 'O')	O	O			
+109	schrijvens	('O', 'O')	O	O			
+110	,	('O', 'O')	O	O			
+111	dato	('O', 'O')	O	O			
+112	29„e	('O', 'O')	O	O			
+113	xb	('O', 'O')	O	O			
+114	:	('O', 'O')	O	O			
+115	te	('O', 'O')	O	O			
+116	laten	('O', 'O')	O	O			
+117	versoecken	('B-Request', 'O')	('B-Request', 'O')	B-Request	M		
+118	,	('O', 'O')	O	O			
+119	dat	('O', 'O')	O	O			
+120	hij	('O', 'O')	O	O			
+121	ten	('O', 'O')	O	O			
+122	Eersten	('O', 'O')	O	O			
+123	zomee	('O', 'O')	O	O			
+124	conconerenordre	('B-ForceToAct', 'B-Buying')	('B-ForceToAct', 'B-Buying')	B-ForceToAct	M		
+125	geliefde	('I-ForceToAct', 'O')	('I-ForceToAct', 'O')	I-ForceToAct	M		
+126	te	('I-ForceToAct', 'O')	('I-ForceToAct', 'O')	I-ForceToAct	M		
+127	stellen	('I-ForceToAct', 'O')	('I-ForceToAct', 'O')	I-ForceToAct	M		
+128	,	('O', 'O')	O	O			
+129	aen	('O', 'O')	O	O			
+130	wie	('O', 'O')	O	O			
+131	dat	('O', 'O')	O	O			
+132	men	('O', 'O')	O	O			
+133	,	('O', 'O')	O	O			
+134	de	('O', 'O')	O	O			
+135	gestipuleerde	('O', 'O')	O	O			
+136	recognitie	('O', 'O')	O	O			
+137	goederen	('O', 'O')	O	O			
+138	nu	('O', 'O')	O	O			
+139	geeven	('B-Giving', 'B-Giving')	B-Giving	B-Giving	A		
+140	bal	('O', 'O')	O	O			
+141	,	('O', 'O')	O	O			
+142	en	('O', 'O')	O	O			
+143	niet	('O', 'O')	O	O			
+144	verpligt	('O', 'B-ForceToAct')	('O', 'B-ForceToAct')	B-ForceToAct	M		
+145	,	('O', 'O')	O	O			
+146	als	('O', 'O')	O	O			
+147	pro	('O', 'O')	O	O			
+148	dato	('O', 'O')	O	O			
+149	soo	('O', 'O')	O	O			
+150	Lange	('O', 'O')	O	O			
+151	aen	('B-HavingInPossession', 'B-HavingInPossession')	B-HavingInPossession	B-HavingInPossession	A		
+152	tehouden	('I-HavingInPossession', 'I-HavingInPossession')	I-HavingInPossession	I-HavingInPossession	A		
+153	,	('O', 'O')	O	O			
+154	sulx	('O', 'O')	O	O			
+155	thans	('O', 'O')	O	O			
+156	de	('O', 'O')	O	O			
+157	zijde	('O', 'O')	O	O			
+158	buijten	('O', 'O')	O	O			
+159	belastinge	('O', 'B-FinancialTransaction')	('O', 'B-FinancialTransaction')	B-FinancialTransaction	M		
+160	daer	('O', 'O')	O	O			
+161	van	('O', 'O')	O	O			
+162	overgaet	('B-Translocation', 'O')	('B-Translocation', 'O')	B-Translocation	M		
+163	,	('O', 'O')	O	O			
+164	en	('O', 'O')	O	O			
+165	na	('O', 'O')	O	O			
+166	deesen	('O', 'O')	O	O			
+167	dat	('O', 'O')	O	O			
+168	bedragen	('O', 'O')	O	O			
+169	,	('O', 'O')	O	O			
+170	eerst	('O', 'O')	O	O			
+171	het	('O', 'O')	O	O			
+172	comptoir	('O', 'O')	O	O			
+173	generael	('O', 'O')	O	O			
+174	aengereekend	('B-FinancialTransaction', 'B-FinancialTransaction')	B-FinancialTransaction	B-FinancialTransaction	A		
+175	;	('O', 'I-FinancialTransaction')	('O', 'I-FinancialTransaction')	I-FinancialTransaction	M		
+176	en	('O', 'I-FinancialTransaction')	('O', 'I-FinancialTransaction')	I-FinancialTransaction	M		
+177	ten	('B-FinancialTransaction', 'I-FinancialTransaction')	('B-FinancialTransaction', 'I-FinancialTransaction')	I-FinancialTransaction	AM		
+178	Lasten	('I-FinancialTransaction', 'I-FinancialTransaction')	I-FinancialTransaction	I-FinancialTransaction	A		
+179	gebragt	('I-FinancialTransaction', 'I-FinancialTransaction')	I-FinancialTransaction	I-FinancialTransaction	A		
+180	sal	('O', 'O')	O	O			
+181	kunnen	('O', 'O')	O	O			
+182	werden	('O', 'O')	O	O			
+183	,	('O', 'O')	O	O			
+184	met	('O', 'O')	O	O			
+185	ons	('O', 'O')	O	O			
+186	wijders	('O', 'O')	O	O			
+187	voor	('O', 'O')	O	O			
+188	soo	('O', 'O')	O	O			
+189	veel	('O', 'O')	O	O			
+190	t	('O', 'O')	O	O			
+191	comp	('O', 'O')	O	O			
+192	:	('O', 'O')	O	O			
+193	s	('O', 'O')	O	O			
+194	spahan	('O', 'O')	O	O			
+195	belangd	('O', 'O')	O	O			
+196	,	('O', 'O')	O	O			
+197	aen	('O', 'O')	O	O			
+198	de	('O', 'O')	O	O			
+199	verwisselde	('O', 'B-Translocation')	('O', 'B-Translocation')	O	M		
+200	en	('O', 'O')	O	O			
+201	nu	('O', 'O')	O	O			
+202	in	('O', 'O')	O	O			
+203	Copia	('O', 'O')	O	O			
+204	overgaende	('B-Translocation', 'B-Translocation')	B-Translocation	B-Translocation	A		
+205	brieven	('O', 'O')	O	O			
+206	te	('O', 'O')	O	O			
+207	gedraagen	('O', 'O')	O	O			
+208	,	('O', 'O')	O	O			
+209	gelijk	('O', 'O')	O	O			
+210	ook	('O', 'O')	O	O			
+211	in	('O', 'O')	O	O			
+212	alle	('O', 'O')	O	O			
+213	onderdanigh	('O', 'O')	O	O			
+214	„	('O', 'O')	O	O			
+215	t	('O', 'O')	O	O			
+216	,	('O', 'O')	O	O			
+217	met	('O', 'O')	O	O			
+218	die	('O', 'O')	O	O			
+219	nu	('O', 'O')	O	O			
+220	na	('O', 'O')	O	O			
+221	de	('O', 'O')	O	O			
+222	westerse	('O', 'O')	O	O			
+223	Comp	('O', 'O')	O	O			
+224	=	('O', 'O')	O	O			
+225	e	('O', 'O')	O	O			
+226	ver	('O', 'O')	O	O			
+227	werdenff	('O', 'O')	O	O			
+228	erersonden	('B-Translocation', 'B-Translocation')	B-Translocation	B-Translocation	A		
+229	,	('O', 'O')	O	O			
+230	geschied	('O', 'O')	O	O			
+231	,	('O', 'O')	O	O			
+232	en	('O', 'O')	O	O			
+233	bestaet	('O', 'O')	O	O			
+234	het	('O', 'O')	O	O			
+235	affgeladene	('B-Transportation', 'B-Transportation')	B-Transportation	B-Transportation	A		
+236	ede	('B-Transportation', 'O')	('B-Transportation', 'O')	O	M		These rows are not present in the newer version of transcriptions....
+237	te	('B-Transportation', 'O')	('B-Transportation', 'O')	O	M		
+238	tegenwoordig	('B-Transportation', 'O')	('B-Transportation', 'O')	O	M		
+239	in	('B-Transportation', 'O')	('B-Transportation', 'O')	O	M		
+240	de	('B-Transportation', 'O')	('B-Transportation', 'O')	O	M		
+241	2	('B-Transportation', 'O')	('B-Transportation', 'O')	O	M		
+242	meerged	('O', 'O')	O	O			
+243	„	('O', 'O')	O	O			
+244	te	('O', 'O')	O	O			
+245	scheepen	('O', 'O')	O	O			
+246	,	('O', 'O')	O	O			
+247	in	('O', 'O')	O	O			
+248	het	('O', 'O')	O	O			
+249	volgende	('O', 'O')	O	O			
+250	teweeten	('O', 'O')	O	O			
+251	\n	\n	\n	\n			
+252	„	('O', 'O')	O	O			
+253	de	('O', 'O')	O	O			
+254	de	('O', 'O')	O	O			
+255	geslipuleerde	('O', 'O')	O	O			
+256	revognitie	('O', 'O')	O	O			
+257	penningen	('O', 'O')	O	O			
+258	.	('O', 'O')	O	O			
+259	\n	\n	\n	\n			
+260	wat	('O', 'O')	O	O			
+261	bij	('O', 'O')	O	O			
+262	de	('O', 'O')	O	O			
+263	bediendens	('O', 'O')	O	O			
+264	tot	('O', 'O')	O	O			
+265	pahan	('O', 'O')	O	O			
+266	,	('O', 'O')	O	O			
+267	weegens	('O', 'O')	O	O			
+268	de	('O', 'O')	O	O			
+269	Leverantie	('O', 'B-Trade')	('O', 'B-Trade')	B-Trade	M		
+270	van	('O', 'O')	O	O			
+271	dat	('O', 'O')	O	O			
+272	gebp	('O', 'O')	O	O			
+273	in	('O', 'O')	O	O			
+274	,	('O', 'O')	O	O			
+275	voorhet	('O', 'O')	O	O			
+276	aenstaende	('O', 'O')	O	O			
+277	jaer	('O', 'O')	O	O			
+278	hebben	('O', 'O')	O	O			
+279	\n	\n	\n	\n			
+280	voor	('O', 'B-Transportation')	('O', 'B-Transportation')	B-Translocation	M		Need to think about this (and following cases) where 'voor [PLACE]' indicates a transportation event
+281	s	('O', 'I-Transportation')	('O', 'I-Transportation')	I-Translocation	M		
+282	vaderland	('O', 'I-Transportation')	('O', 'I-Transportation')	I-Translocation	M		
+283	Jn	('O', 'O')	O	O			
+284	de	('O', 'O')	O	O			
+285	prins	('O', 'O')	O	O			
+286	Lugenuss	('O', 'O')	O	O			
+287	.	('O', 'O')	O	O			
+288	22140	('O', 'O')	O	O			
+289	lb	('O', 'O')	O	O			
+290	kirmanse	('O', 'O')	O	O			
+291	2vol	('O', 'O')	O	O			
+292	in	('O', 'O')	O	O			
+293	246	('O', 'O')	O	O			
+294	balen	('O', 'O')	O	O			
+295	27000	('O', 'O')	O	O			
+296	„	('O', 'O')	O	O			
+297	zijde	('O', 'O')	O	O			
+298	in	('O', 'O')	O	O			
+299	180	('O', 'O')	O	O			
+300	voor	('O', 'B-Transportation')	('O', 'B-Transportation')	B-Translocation	M		
+301	batavia	('O', 'I-Transportation')	('O', 'I-Transportation')	I-Translocation	M		
+302	Totx	('O', 'O')	O	O			
+303	paerden	('O', 'O')	O	O			
+304	vaer	('O', 'O')	O	O			
+305	van	('O', 'O')	O	O			
+306	dat	('O', 'O')	O	O			
+307	er	('O', 'O')	O	O			
+308	4	('O', 'O')	O	O			
+309	voor	('O', 'O')	O	O			
+310	bengalen	('O', 'O')	O	O			
+311	zijn	('O', 'O')	O	O			
+312	.	('O', 'O')	O	O			
+313	3000	('O', 'O')	O	O			
+314	„	('O', 'O')	O	O			
+315	disse	('O', 'O')	O	O			
+316	bocke	('O', 'O')	O	O			
+317	vellen	('O', 'O')	O	O			
+318	38	('O', 'O')	O	O			
+319	„	('O', 'O')	O	O			
+320	phelpen	('O', 'O')	O	O			
+321	116	('O', 'O')	O	O			
+322	lb	('O', 'O')	O	O			
+323	thuijn	('O', 'O')	O	O			
+324	Laden	('O', 'O')	O	O			
+325	1000	('O', 'O')	O	O			
+326	„	('O', 'O')	O	O			
+327	kraek	('O', 'O')	O	O			
+328	amandelen	('O', 'O')	O	O			
+329	9	('O', 'O')	O	O			
+330	600	('O', 'O')	O	O			
+331	„	('O', 'O')	O	O			
+332	pistasjes	('O', 'O')	O	O			
+333	6600	('O', 'O')	O	O			
+334	„	('O', 'O')	O	O			
+335	gemeene	('O', 'O')	O	O			
+336	amandelen	('O', 'O')	O	O			
+337	2500	('O', 'O')	O	O			
+338	„	('O', 'O')	O	O			
+339	rosijnen	('O', 'O')	O	O			
+340	.	('O', 'O')	O	O			
+341	4000	('O', 'O')	O	O			
+342	„	('O', 'O')	O	O			
+343	kismis	('O', 'O')	O	O			
+344	702	('O', 'O')	O	O			
+345	„	('O', 'O')	O	O			
+346	pruijmen	('O', 'O')	O	O			
+347	50	('O', 'O')	O	O			
+348	„	('O', 'O')	O	O			
+349	geconfijte	('O', 'O')	O	O			
+350	moernagelen	('O', 'O')	O	O			
+351	50	('O', 'O')	O	O			
+352	„	('O', 'O')	O	O			
+353	pruijmellen	('O', 'O')	O	O			
+354	100	('O', 'O')	O	O			
+355	stx	('O', 'O')	O	O			
+356	glase	('O', 'O')	O	O			
+357	lampen	('O', 'O')	O	O			
+358	130	('O', 'O')	O	O			
+359	„	('O', 'O')	O	O			
+360	divse	('O', 'O')	O	O			
+361	glaswercken	('O', 'O')	O	O			
+362	60	('O', 'O')	O	O			
+363	kassen	('O', 'O')	O	O			
+364	rosewater	('O', 'O')	O	O			
+365	17	('O', 'O')	O	O			
+366	„	('O', 'O')	O	O			
+367	1	('O', 'O')	O	O			
+368	clarst	('O', 'O')	O	O			
+369	zijn	('O', 'O')	O	O			
+370	het	('O', 'O')	O	O			
+371	affgescheepte	('B-Transportation', 'B-Transportation')	B-Transportation	B-Transportation			
+372	in	('O', 'O')	O	O			
+373	Engeen	('O', 'O')	O	O			
+374	beloopt	('O', 'O')	O	O			
+375	.	('O', 'O')	O	O			
+376	.	('O', 'O')	O	O			
+377	.	('O', 'O')	O	O			
+378	ƒ153179	('O', 'O')	O	O			
+379	.	('O', 'O')	O	O			
+380	17	('O', 'O')	O	O			
+381	.	('O', 'O')	O	O			
+382	8	('O', 'O')	O	O			
+383	.	('O', 'O')	O	O			
+384	In't	('O', 'O')	O	O			
+385	schip	('O', 'O')	O	O			
+386	abbekerk	('O', 'O')	O	O			
+387	C	('O', 'O')	O	O			
+388	voor	('O', 'B-Transportation')	('O', 'B-Transportation')	B-Translocation	M		
+389	Ceijlon	('O', 'I-Transportation')	('O', 'I-Transportation')	I-Translocation	M		
+390	9000	('O', 'O')	O	O			
+391	p	('O', 'O')	O	O			
+392	„	('O', 'O')	O	O			
+393	s	('O', 'O')	O	O			
+394	goude	('O', 'O')	O	O			
+395	Europeaense	('O', 'O')	O	O			
+396	ducaten	('O', 'O')	O	O			
+397	200	('O', 'O')	O	O			
+398	lb	('O', 'O')	O	O			
+399	kraak	('O', 'O')	O	O			
+400	amasdelen	('O', 'O')	O	O			
+401	1400	('O', 'O')	O	O			
+402	„	('O', 'O')	O	O			
+403	gemeene	('O', 'O')	O	O			
+404	d	('O', 'O')	O	O			
+405	„	('O', 'O')	O	O			
+406	o	('O', 'O')	O	O			
+407	10	('O', 'O')	O	O			
+408	kassen	('O', 'O')	O	O			
+409	rosewater	('O', 'O')	O	O			
+410	204	('O', 'O')	O	O			
+411	lb	('O', 'O')	O	O			
+412	veruijmen	('O', 'O')	O	O			
+413	35	('O', 'O')	O	O			
+414	kassen	('O', 'O')	O	O			
+415	,	('O', 'O')	O	O			
+416	als	('O', 'O')	O	O			
+417	25	('O', 'O')	O	O			
+418	d	('O', 'O')	O	O			
+419	„	('O', 'O')	O	O			
+420	o	('O', 'O')	O	O			
+421	clareten	('O', 'O')	O	O			
+422	10	('O', 'O')	O	O			
+423	„	('O', 'O')	O	O			
+424	ordinarie	('O', 'O')	O	O			
+425	costende	('O', 'O')	O	O			
+426	.	('O', 'O')	O	O			
+427	.	('O', 'O')	O	O			
+428	ƒ	('O', 'O')	O	O			
+429	38830:12:00	('O', 'O')	O	O			
+430	:	('O', 'O')	O	O			
+431	8	('O', 'O')	O	O			
+432	.	('O', 'O')	O	O			
+433	voor	('O', 'B-Transportation')	('O', 'B-Transportation')	B-Translocation	M		
+434	Cormandel	('O', 'I-Transportation')	('O', 'I-Transportation')	I-Translocation	M		
+435	100	('O', 'O')	O	O			
+436	lb	('O', 'O')	O	O			
+437	kraek	('O', 'O')	O	O			
+438	amandel	('O', 'O')	O	O			
+439	en	('O', 'O')	O	O			
+440	700	('O', 'O')	O	O			
+441	„	('O', 'O')	O	O			
+442	gemeene	('O', 'O')	O	O			
+443	d	('O', 'O')	O	O			
+444	„	('O', 'O')	O	O			
+445	o	('O', 'O')	O	O			
+446	50	('O', 'O')	O	O			
+447	„	('O', 'O')	O	O			
+448	sruijmen	('O', 'O')	O	O			
+449	36	('O', 'O')	O	O			
+450	kassen	('O', 'O')	O	O			
+451	wijn	('O', 'O')	O	O			
+452	,	('O', 'O')	O	O			
+453	als	('O', 'O')	O	O			
+454	10	('O', 'O')	O	O			
+455	d	('O', 'O')	O	O			
+456	„	('O', 'O')	O	O			
+457	os	('O', 'O')	O	O			
+458	clareten	('O', 'O')	O	O			
+459	26	('O', 'O')	O	O			
+460	„	('O', 'O')	O	O			
+461	ordinarie	('O', 'O')	O	O			
+462	wijn	('O', 'O')	O	O			
+463	belopen	('O', 'O')	O	O			
+464	„	('O', 'O')	O	O			
+465	901	('O', 'O')	O	O			
+466	:	('O', 'O')	O	O			
+467	6	('O', 'O')	O	O			
+468	:	('O', 'O')	O	O			
+469	8	('O', 'O')	O	O			
+470	.	('O', 'O')	O	O			
+471	Voor	('O', 'B-Transportation')	('O', 'B-Transportation')	B-Translocation	M		
+472	mallabaer	('O', 'I-Transportation')	('O', 'I-Transportation')	I-Translocation	M		
+473	13000	('O', 'O')	O	O			
+474	p	('O', 'O')	O	O			
+475	„	('O', 'O')	O	O			
+476	s	('O', 'O')	O	O			
+477	goude	('O', 'O')	O	O			
+478	ducaten	('O', 'O')	O	O			
+479	10	('O', 'O')	O	O			
+480	kassen	('O', 'O')	O	O			
+481	roservater	('O', 'O')	O	O			
+482	110	('O', 'O')	O	O			
+483	lb	('O', 'O')	O	O			
+484	hasenoten	('O', 'O')	O	O			
+485	—	('O', 'O')	O	O			
+486	40	('O', 'O')	O	O			
+487	„	('O', 'O')	O	O			
+488	wal	('O', 'O')	O	O			
+489	nooten	('O', 'O')	O	O			
+490	120	('O', 'O')	O	O			
+491	„	('O', 'O')	O	O			
+492	pruijmellen	('O', 'O')	O	O			
+493	172	('O', 'O')	O	O			
+494	„	('O', 'O')	O	O			
+495	kraek	('O', 'O')	O	O			
+496	amandelen	('O', 'O')	O	O			
+497	425	('O', 'O')	O	O			
+498	„	('O', 'O')	O	O			
+499	gemeene	('O', 'O')	O	O			
+500	d	('O', 'O')	O	O			
+501	„	('O', 'O')	O	O			
+502	o	('O', 'O')	O	O			
+503	82	('O', 'O')	O	O			
+504	„	('O', 'O')	O	O			
+505	pruijmen	('O', 'O')	O	O			
+506	22	('O', 'O')	O	O			
+507	kassen	('O', 'O')	O	O			
+508	wijn	('O', 'O')	O	O			
+509	als	('O', 'O')	O	O			
+510	18	('O', 'O')	O	O			
+511	d	('O', 'O')	O	O			
+512	„	('O', 'O')	O	O			
+513	o	('O', 'O')	O	O			
+514	clareten	('O', 'O')	O	O			
+515	4„o	('O', 'O')	O	O			
+516	ord	('O', 'O')	O	O			
+517	„	('O', 'O')	O	O			
+518	o	('O', 'O')	O	O			
+519	wijn	('O', 'O')	O	O			
+520	monteerende	('O', 'O')	O	O			
+521	„	('O', 'O')	O	O			
+522	84016	('O', 'O')	O	O			
+523	:	('O', 'O')	O	O			
+524	p	('O', 'O')	O	O			
+525	:	('O', 'O')	O	O			
+526	8	('O', 'O')	O	O			
+527	Het	('O', 'O')	O	O			
+528	geladene	('B-Transportation', 'B-Transportation')	B-Transportation	B-Transportation	A		
+529	in	('O', 'O')	O	O			
+530	abbekerk	('O', 'O')	O	O			
+531	beloopt	('O', 'O')	O	O			
+532	In	('O', 'O')	O	O			
+533	t	('O', 'O')	O	O			
+534	versondene	('B-Transportation', 'B-Transportation')	B-Transportation	B-Transportation	A		
+535	tesamen	('O', 'O')	O	O			
+536	.	('O', 'O')	O	O			
+537	.	('O', 'O')	O	O			
+538	.	('O', 'O')	O	O			
+539	.	('O', 'O')	O	O			
+540	.	('O', 'O')	O	O			
+541	.	('O', 'O')	O	O			
+542	.	('O', 'O')	O	O			
+543	.	('O', 'O')	O	O			
+544	p	('O', 'O')	O	O			
+545	296927	('O', 'O')	O	O			
+546	.	('O', 'O')	O	O			
+547	17:-	('O', 'O')	O	O			
+548	.	('O', 'O')	O	O			
+549	\n	\n	\n	\n			
+550	_	('O', 'O')	O	O			
+551	:	('O', 'O')	O	O			
+552	2ƒ43747:19:8	('O', 'O')	O	O			
+553	.	('O', 'O')	O	O			
+554	\n	\n	\n	\n			
+555	t	('O', 'O')	O	O			
+556	geladene	('B-Transportation', 'B-Transportation')	B-Transportation	B-Transportation	A		
+557	in	('O', 'O')	O	O			
+558	dese	('O', 'O')	O	O			
+559	2	('O', 'O')	O	O			
+560	bodems	('O', 'O')	O	O			
+561	.	('O', 'O')	O	O			
+562	\n	\n	\n	\n			
+563	Sulx	('O', 'O')	O	O			
+564	dat	('O', 'O')	O	O			
+565	 '	('O', 'O')	O	O			
+566	er	('O', 'O')	O	O			
+567	buijten	('O', 'O')	O	O			
+568	de	('O', 'O')	O	O			
+569	Chirase	('O', 'O')	O	O			
+570	wijnen	('O', 'O')	O	O			
+571	die	('O', 'O')	O	O			
+572	men	('O', 'O')	O	O			
+573	van	('O', 'O')	O	O			
+574	ginderna	('O', 'O')	O	O			
+575	herrew	('O', 'O')	O	O			
+576	=	('O', 'O')	O	O			
+577	s	('O', 'O')	O	O			
+578	door	('O', 'O')	O	O			
+579	gebrek	('O', 'O')	O	O			
+580	van	('O', 'O')	O	O			
+581	Last	('O', 'O')	O	O			
+582	beesten	('O', 'O')	O	O			
+583	niet	('O', 'O')	O	O			
+584	tijdelijk	('O', 'O')	O	O			
+585	heeft	('O', 'O')	O	O			
+586	van	('O', 'O')	O	O			
+587	batavia	('O', 'O')	O	O			
+588	mauquend	('O', 'O')	O	O			
+589	:	('O', 'O')	O	O			
+590	kunnen	('O', 'O')	O	O			
+591	affkrijgen	('B-Transportation', 'B-Transportation')	B-Transportation	B-Transportation	A		
+592	,	('O', 'O')	O	O			
+593	met	('O', 'O')	O	O			
+594	het	('O', 'O')	O	O			
+595	affgescheepte	('B-Transportation', 'B-Transportation')	B-Transportation	B-Transportation	A		
+596	voor	('O', 'O')	O	O			
+597	batavia	('O', 'O')	O	O			
+598	niet	('O', 'O')	O	O			
+599	dan	('O', 'O')	O	O			
+600	4	('O', 'O')	O	O			
+601	kx	('O', 'O')	O	O			
+602	hengs	('O', 'O')	O	O			
+603	tpaerden	('O', 'O')	O	O			
+604	6	('O', 'O')	O	O			
+605	p	('O', 'O')	O	O			
+606	„	('O', 'O')	O	O			
+607	s	('O', 'O')	O	O			
+608	wvolle	('O', 'O')	O	O			
+609	alcatijven	('O', 'O')	O	O			
+610	,	('O', 'O')	O	O			
+611	en	('O', 'O')	O	O			
+612	120	('O', 'O')	O	O			
+613	p	('O', 'O')	O	O			
+614	„	('O', 'O')	O	O			
+615	s	('O', 'O')	O	O			
+616	muscovische	('O', 'O')	O	O			
+617	jugten	('O', 'O')	O	O			
+618	komen	('O', 'O')	O	O			
+619	te	('O', 'O')	O	O			
+620	gebreeken,/	('O', 'O')	O	O			
+621	ter	('O', 'O')	O	O			
+622	oorsake	('O', 'O')	O	O			
+623	d	('O', 'O')	O	O			
+624	:o	('O', 'O')	O	O			
+625	alcatijven	('O', 'O')	O	O			
+626	,	('O', 'O')	O	O			
+627	niet	('O', 'O')	O	O			
+628	affgeweeven	('O', 'O')	O	O			
+629	,	('O', 'O')	O	O			
+630	ende	('O', 'O')	O	O			
+631	Jugten	('O', 'O')	O	O			
+632	uijt	('O', 'O')	O	O			
+633	de	('O', 'O')	O	O			
+634	bovenlanden	('O', 'O')	O	O			
+635	nog	('O', 'O')	O	O			
+636	niet	('O', 'O')	O	O			
+637	waren	('O', 'O')	O	O			
+638	affgecomen	('B-Getting', 'B-Arriving')	('B-Getting', 'B-Arriving')	B-Getting	M		Classic example of something that is both a getting and an arriving event. Opting for getting since it seems to hold more semantic value.
+639	,	('O', 'O')	O	O			
+640	terwijl	('O', 'O')	O	O			
+641	het	('O', 'O')	O	O			
+642	al	('O', 'O')	O	O			
+643	versondene	('B-Transportation', 'B-Transportation')	B-Transportation	B-Transportation	A		
+644	van	('O', 'O')	O	O			
+645	dit	('O', 'O')	O	O			
+646	mousson	('O', 'O')	O	O			
+647	met	('O', 'O')	O	O			
+648	deese	('O', 'O')	O	O			
+649	en	('O', 'O')	O	O			
+650	de	('O', 'O')	O	O			
+651	2	('O', 'O')	O	O			
+652	vorige	('O', 'O')	O	O			
+653	bodems	('O', 'O')	O	O			
+654	sommeerd	('O', 'O')	O	O			
+655	ƒ794585	('O', 'O')	O	O			
+656	.	('O', 'O')	O	O			
+657	18	('O', 'O')	O	O			
+658	.	('O', 'O')	O	O			
+659	—	('O', 'O')	O	O			
+660	.	('O', 'O')	O	O			
+661	en	('O', 'O')	O	O			
+662	den	('O', 'O')	O	O			
+663	almogende	('O', 'O')	O	O			
+664	gebeeden	('O', 'O')	O	O			
+665	blijffd	('O', 'O')	O	O			
+666	,	('O', 'O')	O	O			
+667	haer	('O', 'O')	O	O			
+668	van	('O', 'O')	O	O			
+669	hier	('O', 'O')	O	O			
+670	vfesonden	('B-Transportation', 'B-Transportation')	B-Transportation	B-Transportation	A		
+671	.	('O', 'O')	O	O			
+672	—	('O', 'O')	O	O			
+673	.	('O', 'O')	O	O			
+674	.	('O', 'O')	O	O			
+675	een	('O', 'O')	O	O			
+676	spoedige	('O', 'O')	O	O			
+677	en	('O', 'O')	O	O			
+678	behoude	('O', 'O')	O	O			
+679	reijse	('O', 'B-Voyage')	('O', 'B-Voyage')	B-Voyage	M		
+680	te	('O', 'O')	O	O			
+681	willen	('O', 'O')	O	O			
+682	verleenen	('O', 'B-Giving')	('O', 'B-Giving')	B-Giving	M		
+683	deese	('O', 'O')	O	O			
+684	in	('O', 'O')	O	O			
+685	dus	('O', 'O')	O	O			
+686	verreklaer	('O', 'O')	O	O			
+687	en	('O', 'O')	O	O			
+688	in	('O', 'B-Repairing')	('O', 'B-Repairing')	B-Repairing	M		
+689	gereeth	('O', 'I-Repairing')	('O', 'I-Repairing')	I-Repairing	M		
+690	„	('O', 'I-Repairing')	('O', 'I-Repairing')	I-Repairing	M		
+691	t	('O', 'I-Repairing')	('O', 'I-Repairing')	I-Repairing	M		
+692	gebragt	('O', 'I-Repairing')	('O', 'I-Repairing')	I-Repairing	M		
+693	weesende	('O', 'O')	O	O			
+694	soo	('O', 'O')	O	O			
+695	wierd	('O', 'O')	O	O			
+696	ons	('O', 'O')	O	O			
+697	op	('O', 'O')	O	O			
+698	den	('O', 'O')	O	O			
+699	15„e	('O', 'O')	O	O			
+700	feb	('O', 'O')	O	O			
+701	:	('O', 'O')	O	O			
+702	p	('O', 'O')	O	O			
+703	„	('O', 'O')	O	O			
+704	r	('O', 'O')	O	O			
+705	Coopmans	('O', 'O')	O	O			
+706	boode	('O', 'O')	O	O			
+707	,	('O', 'O')	O	O			
+708	een	('O', 'O')	O	O			
+709	brief	('O', 'O')	O	O			
+710	dspalan	('O', 'O')	O	O			
+711	,	('O', 'O')	O	O			
+712	door	('O', 'O')	O	O			
+713	den	('O', 'O')	O	O			
+714	onderaop9	('O', 'O')	O	O			
+715	van	('O', 'O')	O	O			
+716	den	('O', 'O')	O	O			
+717	ondercoopm	('O', 'O')	O	O			
+718	=	('O', 'O')	O	O			
+719	r	('O', 'O')	O	O			
+720	en	('O', 'O')	O	O			
+721	spahans	('O', 'O')	O	O			
+722	secunde	('O', 'O')	O	O			
+723	Willem	('O', 'O')	O	O			
+724	brooks	('O', 'O')	O	O			
+725	toe	('O', 'O')	O	O			
+726	„	('O', 'O')	O	O			
+727	gesonden	('B-Transportation', 'B-Transportation')	B-Transportation	B-Transportation	A		
+728	.	('O', 'O')	O	O			
+729	„	('O', 'O')	O	O			
+730	gebragt	('B-Getting', 'B-Transportation')	('B-Getting', 'B-Transportation')	B-Getting	M		Classic example of something that is both a getting and an arriving event. Opting for getting since it seems to hold more semantic value.
+731	,	('O', 'B-Getting')	('O', 'B-Getting')	O	M		
+732	zijnde	('O', 'O')	O	O			
+733	van	('O', 'O')	O	O			
+734	den	('O', 'O')	O	O			
+735	24„e	('O', 'O')	O	O			
+736	Januarij	('O', 'O')	O	O			
+737	,	('O', 'O')	O	O			
+738	en	('O', 'O')	O	O			
+739	een	('O', 'O')	O	O			
+740	antwoord	('O', 'O')	O	O			
+741	opden	('O', 'O')	O	O			
+742	onsen	('O', 'O')	O	O			
+743	van	('O', 'O')	O	O			
+744	den	('O', 'O')	O	O			
+745	20„en	('O', 'O')	O	O			
+746	decemb	('O', 'O')	O	O			
+747	:	('O', 'O')	O	O			
+748	,	('O', 'O')	O	O			
+749	beneevens	('O', 'O')	O	O			
+750	een	('O', 'O')	O	O			
+751	Ledige	('O', 'O')	O	O			
+752	en	('O', 'O')	O	O			
+753	wel	('O', 'O')	O	O			
+754	geresonneerde	('O', 'O')	O	O			
+755	verantwoordinge	('O', 'O')	O	O			
+756	op	('O', 'O')	O	O			
+757	het	('O', 'O')	O	O			
+758	geene	('O', 'O')	O	O			
+759	dat	('O', 'O')	O	O			
+760	men	('O', 'O')	O	O			
+761	hem	('O', 'O')	O	O			
+762	bij	('O', 'O')	O	O			
+763	het	('O', 'O')	O	O			
+764	wegens	('O', 'O')	O	O			
+765	t	('O', 'O')	O	O			
+766	aan	('O', 'O')	O	O			
+767	hem	('O', 'O')	O	O			
+768	een	('O', 'O')	O	O			
+769	ppahanse	('O', 'O')	O	O			
+770	schrijvens	('O', 'O')	O	O			
+771	van	('O', 'O')	O	O			
+772	den	('O', 'O')	O	O			
+773	5	('O', 'O')	O	O			
+774	„	('O', 'O')	O	O			
+775	 '	('O', 'O')	O	O			
+776	gb	('O', 'O')	O	O			
+777	:	('O', 'O')	O	O			
+778	ten	('B-BeingInConflict', 'O')	('B-BeingInConflict', 'O')	B-BeingInConflict	M		This document repeatedly uses similar terminology ('ten laste leggen') to indicate a conflict, according to one annotator team. Should consult a historian. 
+779	Lasten	('I-BeingInConflict', 'O')	('I-BeingInConflict', 'O')	I-BeingInConflict	M		
+780	Leij	('I-BeingInConflict', 'O')	('I-BeingInConflict', 'O')	I-BeingInConflict	M		
+781	,	('O', 'O')	O	O			
+782	dog	('O', 'O')	O	O			
+783	dewijl	('O', 'O')	O	O			
+784	d	('O', 'O')	O	O			
+785	„	('O', 'O')	O	O			
+786	o	('O', 'O')	O	O			
+787	missive	('O', 'O')	O	O			
+788	in	('O', 'O')	O	O			
+789	Copia	('O', 'O')	O	O			
+790	is	('O', 'O')	O	O			
+791	overgaende	('B-Translocation', 'B-Translocation')	B-Translocation	B-Translocation	A		
+792	,	('O', 'O')	O	O			
+793	sullen	('O', 'O')	O	O			
+794	w	('O', 'O')	O	O			
+795	 '	('O', 'O')	O	O			
+796	ons	('O', 'O')	O	O			
+797	daer	('O', 'O')	O	O			
+798	aen	('O', 'O')	O	O			
+799	onder	('O', 'O')	O	O			
+800	t	('O', 'O')	O	O			
+801	welneemen	('O', 'O')	O	O			
+802	van	('O', 'O')	O	O			
+803	uhoog	('O', 'O')	O	O			
+804	Ed	('O', 'O')	O	O			
+805	„	('O', 'O')	O	O			
+806	e	('O', 'O')	O	O			
+807	agtb	('O', 'O')	O	O			
+808	:	('O', 'O')	O	O			
+809	gedragen	('O', 'O')	O	O			
+810	,	('O', 'O')	O	O			
+811	niet	('O', 'O')	O	O			
+812	alleen	('O', 'O')	O	O			
+813	te	('O', 'O')	O	O			
+814	seggen	('O', 'O')	O	O			
+815	,	('O', 'O')	O	O			
+816	dat	('O', 'O')	O	O			
+817	de	('O', 'O')	O	O			
+818	onreedelijke	('O', 'B-Mismanagement')	('O', 'B-Mismanagement')	B-Mismanagement	M		
+819	wijse	('O', 'I-Mismanagement')	('O', 'I-Mismanagement')	I-Mismanagement	M		
+820	op	('O', 'O')	O	O			
+821	welke	('O', 'O')	O	O			
+822	daturen	('O', 'O')	O	O			
+823	dese	('O', 'O')	O	O			
+824	persoon	('O', 'O')	O	O			
+825	bij	('O', 'O')	O	O			
+826	arrive	('O', 'B-Arriving')	('O', 'B-Arriving')	B-Arriving	M		
+827	heeft	('O', 'O')	O	O			
+828	comen	('O', 'O')	O	O			
+829	tehandelen	('O', 'O')	O	O			
+830	,	('O', 'O')	O	O			
+831	en	('O', 'O')	O	O			
+832	noghandeld	('O', 'O')	O	O			
+833	,	('O', 'O')	O	O			
+834	en	('O', 'O')	O	O			
+835	in	('O', 'O')	O	O			
+836	t	('O', 'O')	O	O			
+837	vervolg	('O', 'O')	O	O			
+838	getragt	('O', 'O')	O	O			
+839	verdagt	('O', 'O')	O	O			
+840	te	('O', 'O')	O	O			
+841	maken	('O', 'O')	O	O			
+842	,	('O', 'O')	O	O			
+843	daer	('O', 'O')	O	O			
+844	uijt	('O', 'O')	O	O			
+845	seer	('O', 'O')	O	O			
+846	Evidend	('O', 'O')	O	O			
+847	consteerd	('O', 'O')	O	O			
+848	en	('O', 'O')	O	O			
+849	niet	('O', 'O')	O	O			
+850	te	('O', 'O')	O	O			
+851	defereeren	('O', 'O')	O	O			
+852	\n	\n	\n	\n			
+853	deselfs	('O', 'O')	O	O			
+854	verantwoordinge	('O', 'O')	O	O			
+855	N	('O', 'O')	O	O			
+856	H	('O', 'O')	O	O			
+857	Lasten	('B-BeingInConflict', 'O')	('B-BeingInConflict', 'O')	B-BeingInConflict	M		This document repeatedly uses similar terminology ('ten laste leggen') to indicate a conflict, according to one annotator team. Should consult a historian. 
+858	gelegde	('I-BeingInConflict', 'O')	('I-BeingInConflict', 'O')	I-BeingInConflict	M		
+859	.	('O', 'O')	O	O			
+860	\n	\n	\n	\n			
+861	rereptie	('B-Getting', 'O')	('B-Getting', 'O')	B-Getting	M		
+862	van	('O', 'O')	O	O			
+863	een	('O', 'O')	O	O			
+864	brief	('O', 'O')	O	O			
+865	uijt	('O', 'O')	O	O			
+866	—	('O', 'O')	O	O			
+867	omanbrooks	('O', 'O')	O	O			
+868	herw	('O', 'O')	O	O			
+869	„	('O', 'O')	O	O			
+870	ts	('O', 'O')	O	O			
+871	aen	('O', 'O')	O	O			
+872	„	('O', 'O')	O	O			
+873	\n	\n	\n	\n			
+874	ook	('O', 'O')	O	O			
+875	wat	('O', 'O')	O	O			
+876	Cap	('O', 'O')	O	O			
+877	„	('O', 'O')	O	O			
+878	l	('O', 'O')	O	O			
+879	,	('O', 'O')	O	O			
+880	dit	('O', 'O')	O	O			
+881	moussan	('O', 'O')	O	O			
+882	\n	\n	\n	\n			
+883	Comt	('O', 'O')	O	O			
+884	,	('O', 'O')	O	O			
+885	van	('O', 'O')	O	O			
+886	de	('O', 'O')	O	O			
+887	gedagten	('O', 'O')	O	O			
+888	die	('O', 'O')	O	O			
+889	wij	('O', 'O')	O	O			
+890	daer	('O', 'O')	O	O			
+891	over	('O', 'O')	O	O			
+892	bij	('O', 'O')	O	O			
+893	den	('O', 'O')	O	O			
+894	onsen	('O', 'O')	O	O			
+895	van	('O', 'O')	O	O			
+896	den	('O', 'O')	O	O			
+897	12„e	('O', 'O')	O	O			
+898	xl	('O', 'O')	O	O			
+899	:	('O', 'O')	O	O			
+900	hadden	('O', 'O')	O	O			
+901	,	('O', 'O')	O	O			
+902	mitsg	('O', 'O')	O	O			
+903	„	('O', 'O')	O	O			
+904	s	('O', 'O')	O	O			
+905	dat	('O', 'O')	O	O			
+906	ons	('O', 'O')	O	O			
+907	voorneemen	('O', 'O')	O	O			
+908	tendeerd	('O', 'O')	O	O			
+909	,	('O', 'O')	O	O			
+910	om	('O', 'O')	O	O			
+911	sulcke	('O', 'O')	O	O			
+912	connosele	('B-BeingInConflict', 'O')	('B-BeingInConflict', 'O')	B-BeingInConflict	M		
+913	kreegelheeden	('I-BeingInConflict', 'O')	('I-BeingInConflict', 'O')	I-BeingInConflict	M		
+914	,	('O', 'O')	O	O			
+915	als	('O', 'O')	O	O			
+916	men	('O', 'O')	O	O			
+917	tegen	('O', 'O')	O	O			
+918	voordagte	('O', 'O')	O	O			
+919	oudercoopman	('O', 'O')	O	O			
+920	heeft	('O', 'O')	O	O			
+921	aengelegd	('O', 'O')	O	O			
+922	,	('O', 'O')	O	O			
+923	geen	('O', 'O')	O	O			
+924	verdere	('O', 'O')	O	O			
+925	stoff	('O', 'O')	O	O			
+926	te	('O', 'O')	O	O			
+927	geeven	('O', 'O')	O	O			
+928	,	('O', 'O')	O	O			
+929	t	('O', 'O')	O	O			
+930	hier	('O', 'O')	O	O			
+931	bij	('O', 'O')	O	O			
+932	te	('O', 'O')	O	O			
+933	laten	('O', 'B-AlteringARelationship')	('O', 'B-AlteringARelationship')	B-AlteringARelationship	M		
+934	berusten	('O', 'I-AlteringARelationship')	('O', 'I-AlteringARelationship')	I-AlteringARelationship	M		
+935	,	('O', 'O')	O	O			
+936	en	('O', 'O')	O	O			
+937	onder	('O', 'O')	O	O			
+938	het	('O', 'O')	O	O			
+939	renoveeren	('B-HavingInternalState+', 'B-HavingInternalState+')	B-HavingInternalState+	B-HavingInternalState+	A		
+940	van	('O', 'O')	O	O			
+941	een	('O', 'O')	O	O			
+942	goede	('O', 'O')	O	O			
+943	zegt	('O', 'O')	O	O			
+944	debenoudens	('O', 'O')	O	O			
+945	bij	('O', 'O')	O	O			
+946	het	('O', 'O')	O	O			
+947	huijshoudinge	('O', 'O')	O	O			
+948	en	('O', 'O')	O	O			
+949	minnelijk	('O', 'O')	O	O			
+950	gedrag	('O', 'O')	O	O			
+951	bij	('O', 'O')	O	O			
+952	eerste	('O', 'O')	O	O			
+953	afftegane	('B-Translocation', 'B-Transportation')	('B-Translocation', 'B-Transportation')	B-Translocation	M	T	
+954	„	('O', 'O')	O	O			
+955	sschrijvens	('O', 'O')	O	O			
+956	,	('O', 'O')	O	O			
+957	van	('O', 'O')	O	O			
+958	hier	('O', 'O')	O	O			
+959	na	('O', 'O')	O	O			
+960	derrew	('O', 'O')	O	O			
+961	„	('O', 'O')	O	O			
+962	s	('O', 'O')	O	O			
+963	ook	('O', 'O')	O	O			
+964	ordre	('O', 'O')	O	O			
+965	op	('O', 'O')	O	O			
+966	geene	('O', 'O')	O	O			
+967	en	('O', 'O')	O	O			
+968	deese	('O', 'O')	O	O			
+969	kleenigheeden	('O', 'O')	O	O			
+970	te	('O', 'O')	O	O			
+971	stellen	('O', 'O')	O	O			
+972	,	('O', 'O')	O	O			
+973	waer	('O', 'O')	O	O			
+974	na	('O', 'O')	O	O			
+975	,	('O', 'O')	O	O			
+976	en	('O', 'O')	O	O			
+977	dit	('O', 'O')	O	O			
+978	ontfangene	('B-Getting', 'B-Getting')	B-Getting	B-Getting	A		
+979	schrijvens	('O', 'O')	O	O			
+980	,	('O', 'O')	O	O			
+981	ons	('O', 'O')	O	O			
+982	al	('O', 'O')	O	O			
+983	verder	('O', 'O')	O	O			
+984	op	('O', 'O')	O	O			
+985	den	('O', 'O')	O	O			
+986	18„e	('O', 'O')	O	O			
+987	daer	('O', 'O')	O	O			
+988	aen	('O', 'O')	O	O			
+989	p	('O', 'O')	O	O			
+990	=	('O', 'O')	O	O			
+991	r	('O', 'O')	O	O			
+992	addresse	('O', 'O')	O	O			
+993	der	('O', 'O')	O	O			
+994	Engelsche	('O', 'O')	O	O			
+995	is	('O', 'O')	O	O			
+996	toegebragt	('B-Getting', 'B-Arriving')	('B-Getting', 'B-Arriving')	B-Getting	M		Classic example of something that is both a getting and an arriving event. Opting for getting since it seems to hold more semantic value. I do feel like Transportation is more close to the word used though.
+997	,	('O', 'O')	O	O			
+998	een	('O', 'O')	O	O			
+999	Vaderlands	('O', 'O')	O	O			
+1000	pacquet	('O', 'O')	O	O			
+1001	met	('O', 'O')	O	O			
+1002	brieven	('O', 'O')	O	O			
+1003	,	('O', 'O')	O	O			
+1004	insluijtende	('O', 'B-BeingAtAPlace')	('O', 'B-BeingAtAPlace')	O	M		
+1005	behalven	('O', 'O')	O	O			
+1006	een	('O', 'O')	O	O			
+1007	cinculair	('O', 'O')	O	O			
+1008	briefje	('O', 'O')	O	O			
+1009	van	('O', 'O')	O	O			
+1010	p	('O', 'O')	O	O			
+1011	„	('O', 'O')	O	O			
+1012	mo	('O', 'O')	O	O			
+1013	gb	('O', 'O')	O	O			
+1014	:	('O', 'O')	O	O			
+1015	1709	('O', 'O')	O	O			
+1016	.	('O', 'O')	O	O			
+1017	en	('O', 'O')	O	O			
+1018	Extract	('O', 'O')	O	O			
+1019	uijt	('O', 'O')	O	O			
+1020	den	('O', 'O')	O	O			
+1021	Eijsch	('O', 'B-ForceToAct')	('O', 'B-ForceToAct')	B-Request	M		More consistent with other annotations I have seen in other documents
+1022	van	('O', 'O')	O	O			
+1023	retouren	('O', 'O')	O	O			
+1024	voor	('O', 'O')	O	O			
+1025	dit	('O', 'O')	O	O			
+1026	Lopende	('O', 'O')	O	O			
+1027	Jaer	('O', 'O')	O	O			
+1028	,	('O', 'O')	O	O			
+1029	soo	('O', 'O')	O	O			
+1030	veel	('O', 'O')	O	O			
+1031	persien	('O', 'O')	O	O			
+1032	concerneerd	('O', 'O')	O	O			
+1033	,	('O', 'O')	O	O			
+1034	nog	('O', 'O')	O	O			
+1035	vijff	('O', 'O')	O	O			
+1036	pacquetten	('O', 'B-Transportation')	('O', 'B-Transportation')	B-Transportation	M		clear case of 'evokes' 
+1037	voor	('O', 'I-Transportation')	('O', 'I-Transportation')	O	M		
+1038	de	('O', 'O')	O	O			
+1039	westerse	('O', 'O')	O	O			
+1040	comptoiren	('O', 'O')	O	O			
+1041	,	('O', 'O')	O	O			
+1042	als	('O', 'O')	O	O			
+1043	ceijlon	('O', 'O')	O	O			
+1044	,	('O', 'O')	O	O			
+1045	Wat	('O', 'O')	O	O			
+1046	geschriften	('O', 'O')	O	O			
+1047	daer	('O', 'O')	O	O			
+1048	van	('O', 'O')	O	O			
+1049	Cormandel	('O', 'O')	O	O			
+1050	,	('O', 'O')	O	O			
+1051	bengalen	('O', 'O')	O	O			
+1052	,	('O', 'O')	O	O			
+1053	bouratte	('O', 'O')	O	O			
+1054	en	('O', 'O')	O	O			
+1055	cochim	('O', 'O')	O	O			
+1056	,	('O', 'O')	O	O			
+1057	die	('O', 'O')	O	O			
+1058	wij	('O', 'O')	O	O			
+1059	bij	('O', 'O')	O	O			
+1060	deese	('O', 'O')	O	O			
+1061	geleegendheijd	('O', 'O')	O	O			
+1062	versenden	('B-Transportation', 'B-Transportation')	B-Transportation	B-Transportation	A		
+1063	,	('O', 'O')	O	O			
+1064	alhoewel	('O', 'O')	O	O			
+1065	wij	('O', 'O')	O	O			
+1066	vertrouwende	('O', 'O')	O	O			
+1067	vrunden	('O', 'B-BeingInARelationship')	('O', 'B-BeingInARelationship')	B-BeingInARelationship	M		
+1068	van	('O', 'O')	O	O			
+1069	derselver	('O', 'O')	O	O			
+1070	teneur	('O', 'O')	O	O			
+1071	al	('O', 'O')	O	O			
+1072	sullen	('O', 'O')	O	O			
+1073	weesen	('O', 'O')	O	O			
+1074	gediend	('O', 'O')	O	O			
+1075	,	('O', 'O')	O	O			
+1076	gemerkt	('O', 'O')	O	O			
+1077	die	('O', 'O')	O	O			
+1078	voor	('O', 'O')	O	O			
+1079	deese	('O', 'O')	O	O			
+1080	directie	('O', 'O')	O	O			
+1081	,	('O', 'O')	O	O			
+1082	ons	('O', 'O')	O	O			
+1083	al	('O', 'O')	O	O			
+1084	over	('O', 'O')	O	O			
+1085	,	('O', 'O')	O	O			
+1086	mallabaer	('O', 'O')	O	O			
+1087	zijn	('O', 'O')	O	O			
+1088	toegecomen	('B-Transportation', 'B-Translocation')	('B-Transportation', 'B-Translocation')	B-Translocation	M	T	
+1089	,	('O', 'O')	O	O			
+1090	gelijk	('O', 'O')	O	O			
+1091	voorwaerts	('O', 'O')	O	O			
+1092	genoteerd	('O', 'O')	O	O			
+1093	gensteerd	('O', 'O')	O	O			
+1094	geworden	('O', 'O')	O	O			
+1095	is	('O', 'O')	O	O			
+1096	,	('O', 'O')	O	O			
+1097	intusschen	('O', 'O')	O	O			
+1098	dat	('O', 'O')	O	O			
+1099	den	('O', 'O')	O	O			
+1100	ondercoopman	('O', 'O')	O	O			
+1101	Coorte	('O', 'O')	O	O			
+1102	tot	('O', 'O')	O	O			
+1103	hoeden	('O', 'O')	O	O			
+1104	ondercoopman	('O', 'O')	O	O			
+1105	sood	('O', 'O')	O	O			
+1106	dato	('O', 'O')	O	O			
+1107	nog	('O', 'O')	O	O			
+1108	niet	('O', 'O')	O	O			
+1109	vernomen	('O', 'O')	O	O			
+1110	werdende	('O', 'O')	O	O			
+1111	,	('O', 'O')	O	O			
+1112	nu	('O', 'O')	O	O			
+1113	tot	('B-StartingConflict', 'O')	('B-StartingConflict', 'O')	B-StartingConflict	M		This document repeatedly uses similar terminology ('ten laste leggen') to indicate a conflict, according to one annotator team. Should consult a historian. 
+1114	een	('B-StartingConflict', 'O')	('I-StartingConflict', 'O')	I-StartingConflict	M		
+1115	Last	('I-StartingConflict', 'O')	('I-StartingConflict', 'O')	I-StartingConflict	M		
+1116	Comt	('I-StartingConflict', 'O')	('I-StartingConflict', 'O')	I-StartingConflict	M		
+1117	,	('O', 'O')	O	O			
+1118	en	('O', 'O')	O	O			
+1119	tot	('O', 'O')	O	O			
+1120	de	('O', 'O')	O	O			
+1121	naest	('O', 'O')	O	O			
+1122	van	('O', 'O')	O	O			
+1123	deese	('O', 'O')	O	O			
+1124	directie	('O', 'O')	O	O			
+1125	de	('O', 'O')	O	O			
+1126	naestvolgende	('O', 'O')	O	O			
+1127	scheepen	('O', 'O')	O	O			
+1128	sal	('O', 'O')	O	O			
+1129	moeten	('O', 'O')	O	O			
+1130	inwagten	('O', 'O')	O	O			
+1131	,	('O', 'O')	O	O			
+1132	en	('O', 'O')	O	O			
+1133	hier	('O', 'O')	O	O			
+1134	overblijven	('B-BeingAtAPlace', 'B-BeingAtAPlace')	B-BeingAtAPlace	B-BeingAtAPlace	A		
+1135	,	('O', 'O')	O	O			
+1136	dat	('O', 'O')	O	O			
+1137	wij	('O', 'O')	O	O			
+1138	Liever	('O', 'O')	O	O			
+1139	anders	('O', 'O')	O	O			
+1140	\n	\n	\n	\n			
+1141	nog	('O', 'O')	O	O			
+1142	niet	('O', 'O')	O	O			
+1143	te	('O', 'B-BeingAtAPlace')	('O', 'B-BeingAtAPlace')	B-BeingAtAPlace	M		
+1144	voorschijn	('O', 'I-BeingAtAPlace')	('O', 'I-BeingAtAPlace')	I-BeingAtAPlace	M		
+1145	besending	('O', 'B-Transportation')	('O', 'B-Transportation')	B-Transportation	M		
+1146	zal	('O', 'O')	O	O			
+1147	moeten	('O', 'O')	O	O			
+1148	blijven	('B-BeingAtAPlace', 'B-BeingAtAPlace')	B-BeingAtAPlace	B-BeingAtAPlace	A		
+1149	\n	\n	\n	\n			
+1150	voorde	('O', 'O')	O	O			
+1151	woesterse	('O', 'O')	O	O			
+1152	comp	('O', 'O')	O	O			
+1153	=	('O', 'O')	O	O			
+1154	es	('O', 'O')	O	O			
+1155	zijn	('O', 'O')	O	O			
+1156	.	('O', 'O')	O	O			
+1157	\n	\n	\n	\n			
+1158	ontfangst	('O', 'B-Getting')	('O', 'B-Getting')	B-Getting	M		
+1159	van	('O', 'O')	O	O			
+1160	een	('O', 'O')	O	O			
+1161	pacquet	('O', 'O')	O	O			
+1162	vaderlandsche	('O', 'O')	O	O			
+1163	papieren	('O', 'O')	O	O			
+1164	,	('O', 'O')	O	O			
+1165	en	('O', 'O')	O	O			
+1166	p	('O', 'O')	O	O			
+1167	:	('O', 'O')	O	O			
+1168	r	('O', 'O')	O	O			
+1169	Wiens	('O', 'O')	O	O			
+1170	addaes	('O', 'O')	O	O			
+1171	\n	\n	\n	\n			
+1172	aff	('B-Transportation', 'B-Transportation')	B-Transportation	B-Transportation	A		
+1173	tegaene	('I-Transportation', 'I-Transportation')	I-Transportation	I-Transportation	A		
+1174	,	('O', 'O')	O	O			
+1175	hrijvens	('B-None', 'O')	('B-None', 'O')	O	A		
+1176	sullen	('O', 'O')	O	O			
+1177	recommandeeren	('O', 'O')	O	O			
+1178	engelasten	('B-Request', 'O')	('B-Request', 'O')	B-Request	M		
+1179	.	('O', 'O')	O	O			
+1180	\n	\n	\n	\n			
+1181	hadden	('O', 'O')	O	O			
+1182	gesien	('O', 'O')	O	O			
+1183	,	('O', 'O')	O	O			
+1184	in	('O', 'O')	O	O			
+1185	opsigt	('O', 'O')	O	O			
+1186	hij	('O', 'O')	O	O			
+1187	meeste	('O', 'O')	O	O			
+1188	ziekelijck	('B-HavingAMedicalCondition', 'B-HavingAMedicalCondition')	B-HavingAMedicalCondition	B-HavingAMedicalCondition	A		
+1189	en	('O', 'O')	O	O			
+1190	daer	('O', 'O')	O	O			
+1191	bij	('O', 'O')	O	O			
+1192	natgierig	('B-HavingAMedicalCondition', 'B-HavingAMedicalCondition')	B-HavingAMedicalCondition	B-HavingAMedicalCondition	A		
+1193	(	('O', 'O')	O	O			
+1194	t	('O', 'O')	O	O			
+1195	welk	('O', 'O')	O	O			
+1196	eijgentz	('O', 'O')	O	O			
+1197	:	('O', 'O')	O	O			
+1198	zijn	('O', 'O')	O	O			
+1199	jndispositie	('B-HavingInternalState-', 'B-HavingAMedicalCondition')	('B-HavingInternalState-', 'B-HavingAMedicalCondition')	B-HavingInternalState-	M		I chose HavingInternalState- because it seems like a broader concept in which HavingAMedicalCondition could fall (this is not explicitly modelled in the ontology because relationships between states is not explicitly managed). 
+1200	was	('O', 'O')	O	O			
+1201	,	('O', 'O')	O	O			
+1202	waer	('O', 'O')	O	O			
+1203	door	('O', 'O')	O	O			
+1204	hij	('O', 'O')	O	O			
+1205	despahanse	('O', 'O')	O	O			
+1206	brief	('O', 'O')	O	O			
+1207	van	('O', 'O')	O	O			
+1208	den	('O', 'O')	O	O			
+1209	13„e	('O', 'O')	O	O			
+1210	feb	('O', 'O')	O	O			
+1211	:	('O', 'O')	O	O			
+1212	1710	('O', 'O')	O	O			
+1213	.	('O', 'O')	O	O			
+1214	niet	('O', 'O')	O	O			
+1215	teekenen	('O', 'O')	O	O			
+1216	kon	('O', 'O')	O	O			
+1217	,	('O', 'O')	O	O			
+1218	en	('O', 'O')	O	O			
+1219	wel	('O', 'O')	O	O			
+1220	seeven	('O', 'O')	O	O			
+1221	Etmalen	('O', 'O')	O	O			
+1222	geduurd	('O', 'O')	O	O			
+1223	hadde	('O', 'O')	O	O			
+1224	,	('O', 'O')	O	O			
+1225	dE	('O', 'O')	O	O			
+1226	Comp	('O', 'O')	O	O			
+1227	:	('O', 'O')	O	O			
+1228	van	('O', 'O')	O	O			
+1229	wijnig	('O', 'O')	O	O			
+1230	nutte	('O', 'O')	O	O			
+1231	weesen	('O', 'O')	O	O			
+1232	kan	('O', 'O')	O	O			
+1233	,	('O', 'O')	O	O			
+1234	maer	('O', 'O')	O	O			
+1235	d	('O', 'O')	O	O			
+1236	 '	('O', 'O')	O	O			
+1237	affreekening	('O', 'B-Buying')	('O', 'B-Buying')	B-Buying	M		
+1238	der	('O', 'O')	O	O			
+1239	Wol	('O', 'O')	O	O			
+1240	die	('O', 'O')	O	O			
+1241	ons	('O', 'O')	O	O			
+1242	dus	('O', 'O')	O	O			
+1243	Lange	('O', 'O')	O	O			
+1244	onts	('O', 'O')	O	O			
+1245	Lond	('O', 'O')	O	O			
+1246	,	('O', 'O')	O	O			
+1247	hebben	('O', 'O')	O	O			
+1248	wij	('O', 'O')	O	O			
+1249	ten	('O', 'O')	O	O			
+1250	Laesten	('O', 'O')	O	O			
+1251	op	('O', 'O')	O	O			
+1252	Eergisteren	('O', 'O')	O	O			
+1253	ontfangen	('B-Getting', 'B-Getting')	B-Getting	B-Getting	A		
+1254	,	('O', 'O')	O	O			
+1255	soo	('O', 'O')	O	O			
+1256	dat	('O', 'O')	O	O			
+1257	de	('O', 'O')	O	O			
+1258	nu	('O', 'O')	O	O			
+1259	overgaende	('B-Transportation', 'B-Transportation')	B-Transportation	B-Transportation	A		
+1260	niet	('O', 'O')	O	O			
+1261	bij	('O', 'O')	O	O			
+1262	Calculatie	('O', 'O')	O	O			
+1263	,	('O', 'O')	O	O			
+1264	maer	('O', 'O')	O	O			
+1265	onder	('O', 'O')	O	O			
+1266	hare	('O', 'O')	O	O			
+1267	waere	('O', 'O')	O	O			
+1268	Costende	('O', 'O')	O	O			
+1269	versonden	('B-Transportation', 'B-Transportation')	B-Transportation	B-Transportation	A		
+1270	avend	('O', 'O')	O	O			
+1271	,	('O', 'O')	O	O			
+1272	belopende	('O', 'O')	O	O			
+1273	de	('O', 'O')	O	O			
+1274	man	('O', 'O')	O	O			
+1275	van	('O', 'O')	O	O			
+1276	6	('O', 'O')	O	O			
+1277	lx	('O', 'O')	O	O			
+1278	=	('O', 'O')	O	O			
+1279	s	('O', 'O')	O	O			
+1280	m	('O', 'O')	O	O			
+1281	as	('O', 'O')	O	O			
+1282	8	('O', 'O')	O	O			
+1283	.	('O', 'O')	O	O			
+1284	13¾.	('O', 'O')	O	O			
+1285	ruijm	('O', 'O')	O	O			
+1286	,	('O', 'O')	O	O			
+1287	off	('O', 'O')	O	O			
+1288	ƒ	('O', 'O')	O	O			
+1289	3:13:13½.	('O', 'O')	O	O			
+1290	ruijm	('O', 'O')	O	O			
+1291	,	('O', 'O')	O	O			
+1292	t	('O', 'O')	O	O			
+1293	welk	('O', 'O')	O	O			
+1294	m	('O', 'O')	O	O			
+1295	=	('O', 'O')	O	O			
+1296	as	('O', 'O')	O	O			
+1297	-	('O', 'O')	O	O			
+1298	3/0	('O', 'O')	O	O			
+1299	off	('O', 'O')	O	O			
+1300	ƒ	('O', 'O')	O	O			
+1301	—	('O', 'O')	O	O			
+1302	.	('O', 'O')	O	O			
+1303	5	('O', 'O')	O	O			
+1304	:	('O', 'O')	O	O			
+1305	3	('O', 'O')	O	O			
+1306	¾	('O', 'O')	O	O			
+1307	ruijm	('O', 'O')	O	O			
+1308	,	('O', 'O')	O	O			
+1309	veel	('O', 'O')	O	O			
+1310	met	('O', 'O')	O	O			
+1311	die	('O', 'O')	O	O			
+1312	van't	('O', 'O')	O	O			
+1313	8	('O', 'O')	O	O			
+1314	duurder	('O', 'B-Increasing')	('O', 'B-Increasing')	B-Increasing	M		
+1315	is	('O', 'O')	O	O			
+1316	,	('O', 'O')	O	O			
+1317	dan	('O', 'O')	O	O			
+1318	die	('O', 'O')	O	O			
+1319	van	('O', 'O')	O	O			
+1320	a	('O', 'O')	O	O			
+1321	=	('O', 'O')	O	O			
+1322	o	('O', 'O')	O	O			
+1323	pass	('O', 'O')	O	O			
+1324	„	('O', 'O')	O	O			
+1325	o	('O', 'O')	O	O			
+1326	,	('O', 'O')	O	O			
+1327	en	('O', 'O')	O	O			
+1328	niet	('O', 'O')	O	O			
+1329	8	('O', 'O')	O	O			
+1330	stp	('O', 'O')	O	O			
+1331	„	('O', 'O')	O	O			
+1332	s	('O', 'O')	O	O			
+1333	8	('O', 'O')	O	O			
+1334	penn	('O', 'O')	O	O			
+1335	:	('O', 'O')	O	O			
+1336	gelijck	('O', 'O')	O	O			
+1337	de	('O', 'O')	O	O			
+1338	kirmanse	('O', 'O')	O	O			
+1339	bediendens	('O', 'O')	O	O			
+1340	eerst	('O', 'O')	O	O			
+1341	gisten	('O', 'O')	O	O			
+1342	,	('O', 'O')	O	O			
+1343	en	('O', 'O')	O	O			
+1344	uhoog	('O', 'O')	O	O			
+1345	Ed	('O', 'O')	O	O			
+1346	„	('O', 'O')	O	O			
+1347	e	('O', 'O')	O	O			
+1348	agtb	('O', 'O')	O	O			
+1349	:	('O', 'O')	O	O			
+1350	sub	('O', 'O')	O	O			
+1351	dato	('O', 'O')	O	O			
+1352	primo	('O', 'O')	O	O			
+1353	aug	('O', 'O')	O	O			
+1354	=	('O', 'O')	O	O			
+1355	o	('O', 'O')	O	O			
+1356	in	('O', 'O')	O	O			
+1357	alle	('O', 'O')	O	O			
+1358	submissie	('O', 'O')	O	O			
+1359	bedeeld	('O', 'O')	O	O			
+1360	en	('O', 'O')	O	O			
+1361	voor	('O', 'O')	O	O			
+1362	oogen	('O', 'O')	O	O			
+1363	gebragt	('O', 'O')	O	O			
+1364	is	('O', 'O')	O	O			
+1365	,	('O', 'O')	O	O			
+1366	onder	('O', 'O')	O	O			
+1367	verdere	('O', 'O')	O	O			
+1368	aankundigingh	('O', 'O')	O	O			
+1369	van	('O', 'O')	O	O			
+1370	die	('O', 'O')	O	O			
+1371	van	('O', 'O')	O	O			
+1372	kirman	('O', 'O')	O	O			
+1373	,	('O', 'O')	O	O			
+1374	datse	('O', 'O')	O	O			
+1375	nog	('O', 'O')	O	O			
+1376	een	('O', 'O')	O	O			
+1377	parthijtje	('O', 'O')	O	O			
+1378	van	('O', 'O')	O	O			
+1379	28	('O', 'O')	O	O			
+1380	.	('O', 'O')	O	O			
+1381	–	('O', 'O')	O	O			
+1382	.	('O', 'O')	O	O			
+1383	balen	('O', 'O')	O	O			
+1384	inhoudende	('O', 'O')	O	O			
+1385	2520	('O', 'O')	O	O			
+1386	.	('O', 'O')	O	O			
+1387	–	('O', 'O')	O	O			
+1388	.	('O', 'O')	O	O			
+1389	lb	('O', 'O')	O	O			
+1390	hadden	('O', 'O')	O	O			
+1391	uijtgeseth	('B-Trade', 'O')	('B-Trade', 'O')	B-Trade	M		
+1392	,	('O', 'O')	O	O			
+1393	dog	('O', 'O')	O	O			
+1394	gelijk	('O', 'O')	O	O			
+1395	die	('O', 'O')	O	O			
+1396	veelheijd	('O', 'O')	O	O			
+1397	niet	('O', 'O')	O	O			
+1398	voor	('O', 'O')	O	O			
+1399	d	('O', 'O')	O	O			
+1400	 '	('O', 'O')	O	O			
+1401	aenstaende	('O', 'O')	O	O			
+1402	maand	('O', 'O')	O	O			
+1403	hier	('B-Getting', 'B-BeingAtAPlace')	('B-Getting', 'B-BeingAtAPlace')	B-BeingAtAPlace	M		
+1404	kan	('I-Getting', 'I-BeingAtAPlace')	('I-Getting', 'I-BeingAtAPlace')	B-BeingAtAPlace	M		
+1405	weesen	('I-Getting', 'I-BeingAtAPlace')	('I-Getting', 'I-BeingAtAPlace')	B-BeingAtAPlace	M		
+1406	,	('O', 'O')	O	O			
+1407	oversuden	('O', 'O')	O	O			
+1408	.	('O', 'O')	O	O			
+1409	en	('O', 'O')	O	O			
+1410	dat	('O', 'O')	O	O			
+1411	de	('O', 'O')	O	O			
+1412	scheepen	('O', 'O')	O	O			
+1413	in	('O', 'O')	O	O			
+1414	gereetheijt	('O', 'B-Repairing')	('O', 'B-Repairing')	B-Repairing	M		
+1415	zijn	('O', 'I-Repairing')	('O', 'I-Repairing')	I-Repairing	M		
+1416	gebragt	('O', 'I-Repairing')	('O', 'I-Repairing')	I-Repairing	M		
+1417	,	('O', 'O')	O	O			
+1418	mitsg	('O', 'O')	O	O			
+1419	:	('O', 'O')	O	O			
+1420	s	('O', 'O')	O	O			
+1421	haer	('O', 'O')	O	O			
+1422	tijd	('O', 'O')	O	O			
+1423	wel	('O', 'O')	O	O			
+1424	sullen	('O', 'O')	O	O			
+1425	benodigen	('O', 'O')	O	O			
+1426	,	('O', 'O')	O	O			
+1427	om	('O', 'O')	O	O			
+1428	tijdig	('O', 'O')	O	O			
+1429	op	('O', 'O')	O	O			
+1430	batavia	('O', 'O')	O	O			
+1431	te	('B-Translocation', 'B-BeingAtAPlace')	('B-Translocation', 'B-BeingAtAPlace')	B-BeingAtAPlace	M		
+1432	weesen	('I-Translocation', 'I-BeingAtAPlace')	('I-Translocation', 'I-BeingAtAPlace')	B-BeingAtAPlace	M		
+1433	,	('O', 'O')	O	O			
+1434	hebben	('O', 'O')	O	O			
+1435	wij	('O', 'O')	O	O			
+1436	niet	('O', 'O')	O	O			
+1437	derven	('O', 'O')	O	O			
+1438	besluijten	('O', 'O')	O	O			
+1439	,	('O', 'O')	O	O			
+1440	die	('O', 'O')	O	O			
+1441	daer	('O', 'O')	O	O			
+1442	na	('O', 'O')	O	O			
+1443	op	('O', 'B-BeingAtAPlace')	O	O	M		 'op te houden' = vertragen?
+1444	tehouden	('O', 'I-BeingAtAPlace')	O	O	M		
+1445	,	('O', 'O')	O	O			
+1446	en	('O', 'O')	O	O			
+1447	haer	('O', 'O')	O	O			
+1448	reijse	('B-Voyage', 'B-Voyage')	B-Voyage	B-Voyage	A		
+1449	te	('O', 'O')	O	O			
+1450	doen	('O', 'O')	O	O			
+1451	vertragen	('O', 'O')	O	O			
+1452	,	('O', 'O')	O	O			
+1453	wes	('O', 'O')	O	O			
+1454	die	('O', 'O')	O	O			
+1455	op	('O', 'B-Translocation')	('O', 'B-Translocation')	B-Translocation	M		
+1456	weg	('O', 'I-Translocation')	('O', 'I-Translocation')	I-Translocation	M		
+1457	zijnde	('O', 'I-Translocation')	('O', 'I-Translocation')	I-Translocation	M		
+1458	wol	('O', 'O')	O	O			
+1459	niet	('O', 'O')	O	O			
+1460	voor	('O', 'O')	O	O			
+1461	de	('O', 'O')	O	O			
+1462	naeste	('O', 'O')	O	O			
+1463	besendinge	('B-Transportation', 'B-Transportation')	B-Transportation	B-Transportation	A		
+1464	staet	('O', 'O')	O	O			
+1465	te	('O', 'O')	O	O			
+1466	volgen	('O', 'O')	O	O			
+1467	en	('O', 'O')	O	O			
+1468	aff	('B-Transportation', 'B-Leaving')	('B-Transportation', 'B-Leaving')	B-Leaving	M		
+1469	te	('I-Transportation', 'I-Leaving')	('I-Transportation', 'I-Leaving')	I-Leaving	M		
+1470	gaen	('I-Transportation', 'I-Leaving')	('I-Transportation', 'I-Leaving')	I-Leaving	M		
+1471	.	('O', 'O')	O	O			
+1472	Waer	('O', 'O')	O	O			
+1473	meede	('O', 'O')	O	O			
+1474	P	('O', 'O')	O	O			
+1475	„	('O', 'O')	O	O			
+1476	a	('O', 'O')	O	O			
+1477	&	('O', 'O')	O	O			
+1478	„	('O', 'O')	O	O			
+1479	a	('O', 'O')	O	O			
+1480	(	('O', 'O')	O	O			
+1481	onderstond	('O', 'O')	O	O			
+1482	)	('O', 'O')	O	O			
+1483	hoog	('O', 'O')	O	O			
+1484	Edele	('O', 'O')	O	O			
+1485	gebiedende	('O', 'O')	O	O			
+1486	\n	\n	\n	\n			
+1487	wat	('O', 'O')	O	O			This text does not follow from previous region in current HTR: marginalium: \wat quantiteit er nog op weg is, waar na de scheepen niet durven ophouden' oid. 
+1488	quantiteijt	('O', 'O')	O	O			
+1489	er	('O', 'O')	O	O			
+1490	nog	('O', 'B-Translocation')	('O', 'B-Translocation')	O	M		
+1491	op	('B-Transportation', 'I-Translocation')	('B-Transportation', 'I-Translocation')	B-Transportation	AM		
+1492	weg	('I-Transportation', 'I-Translocation')	('I-Transportation', 'I-Translocation')	I-Transportation	A		
+1493	is	('I-Transportation', 'I-Translocation')	('I-Transportation', 'I-Translocation')	I-Transportation	A		
+1494	,	('O', 'O')	O	O			
+1495	waer	('O', 'O')	O	O			
+1496	na	('O', 'O')	O	O			
+1497	de	('O', 'O')	O	O			
+1498	scheepen	('O', 'O')	O	O			
+1499	niet	('O', 'O')	O	O			
+1500	derven	('O', 'O')	O	O			
+1501	\n	\n	\n	\n			
+1502	tot	('O', 'O')	O	O			Marginalium that come BEFORE the marginalium above
+1503	wat	('O', 'O')	O	O			
+1504	prijs	('O', 'O')	O	O			
+1505	de	('O', 'O')	O	O			
+1506	deesen	('O', 'O')	O	O			
+1507	7	('O', 'O')	O	O			
+1508	Jaerse	('O', 'O')	O	O			
+1509	beloopt	('O', 'O')	O	O			
+1510	,	('O', 'O')	O	O			
+1511	en	('O', 'O')	O	O			
+1512	hoe	('O', 'O')	O	O			
+1513	vorige	('O', 'O')	O	O			
+1514	diffoneerd	('O', 'O')	O	O			
+1515	.	('O', 'O')	O	O			
+1516	\n	\n	\n	\n			
+1517	ontfangst	('B-Getting', 'B-Getting')	B-Getting	B-Getting	A		Marginalium that comes BEFORE Marginalium above
+1518	der	('O', 'O')	O	O			
+1519	reek	('O', 'B-Buying')	('O', 'B-Buying')	O	M		Because this is a marginalium I think this annotation was a mistake, but maybe 'reek' means something I don't know about
+1520	:	('O', 'I-Buying')	('O', 'I-Buying')	O	M		
+1521	van	('O', 'O')	O	O			
+1522	des	('O', 'O')	O	O			
+1523	irmanse	('O', 'O')	O	O			
+1524	wvol	('O', 'O')	O	O			
+1525	.	('O', 'O')	O	O			
+1526	\n	\n	\n	\n			
+1527	heeren	('O', 'O')	O	O			Now we have the start of the last page.....
+1528	(	('O', 'O')	O	O			
+1529	Lager	('O', 'O')	O	O			
+1530	)	('O', 'O')	O	O			
+1531	uw	('O', 'O')	O	O			
+1532	hoog	('O', 'O')	O	O			
+1533	Edele	('O', 'O')	O	O			
+1534	agtb	('O', 'O')	O	O			
+1535	=	('O', 'O')	O	O			
+1536	re	('O', 'O')	O	O			
+1537	onderdanige	('O', 'O')	O	O			
+1538	en	('O', 'O')	O	O			
+1539	getrouwe	('O', 'O')	O	O			
+1540	dienaren	('O', 'O')	O	O			
+1541	(	('O', 'O')	O	O			
+1542	was	('O', 'O')	O	O			
+1543	geteekent	('O', 'O')	O	O			
+1544	)	('O', 'O')	O	O			
+1545	W	('O', 'O')	O	O			
+1546	:	('O', 'O')	O	O			
+1547	m	('O', 'O')	O	O			
+1548	backer	('O', 'O')	O	O			
+1549	Jacobsz	('O', 'O')	O	O			
+1550	:	('O', 'O')	O	O			
+1551	,	('O', 'O')	O	O			
+1552	Jan	('O', 'O')	O	O			
+1553	Oets	('O', 'O')	O	O			
+1554	,	('O', 'O')	O	O			
+1555	matth	('O', 'O')	O	O			
+1556	„	('O', 'O')	O	O			
+1557	s	('O', 'O')	O	O			
+1558	van	('O', 'O')	O	O			
+1559	Iongeren	('O', 'O')	O	O			
+1560	,	('O', 'O')	O	O			
+1561	adriaan	('O', 'O')	O	O			
+1562	Van	('O', 'O')	O	O			
+1563	biesum	('O', 'O')	O	O			
+1564	,	('O', 'O')	O	O			
+1565	N	('O', 'O')	O	O			
+1566	„	('O', 'O')	O	O			
+1567	o	('O', 'O')	O	O			
+1568	van	('O', 'O')	O	O			
+1569	Hoorn	('O', 'O')	O	O			
+1570	(	('O', 'O')	O	O			
+1571	in	('O', 'O')	O	O			
+1572	margine	('O', 'O')	O	O			
+1573	)	('O', 'O')	O	O			
+1574	gamron	('O', 'O')	O	O			
+1575	den	('O', 'O')	O	O			
+1576	26„e	('O', 'O')	O	O			
+1577	februarij	('O', 'O')	O	O			
+1578	a	('O', 'O')	O	O			
+1579	„	('O', 'O')	O	O			
+1580	o	('O', 'O')	O	O			
+1581	1711	('O', 'O')	O	O			
+1582	.	('O', 'O')	O	O			
+1583	(	('O', 'O')	O	O			
+1584	en	('O', 'O')	O	O			
+1585	daer	('O', 'O')	O	O			
+1586	onder	('O', 'O')	O	O			
+1587	)	('O', 'O')	O	O			
+1588	P	('O', 'O')	O	O			
+1589	:	('O', 'O')	O	O			
+1590	S	('O', 'O')	O	O			
+1591	:	('O', 'O')	O	O			
+1592	28	('O', 'O')	O	O			
+1593	kassen	('O', 'O')	O	O			
+1594	Chiraese	('O', 'O')	O	O			
+1595	Claretwijn	('O', 'O')	O	O			
+1596	,	('O', 'O')	O	O			
+1597	zoo	('O', 'O')	O	O			
+1598	Even	('O', 'O')	O	O			
+1599	komende	('O', 'O')	O	O			
+1600	aen	('B-Getting', 'B-Arriving')	('B-Getting', 'B-Arriving')	B-Getting	M		Classic example of something that is both a getting and an arriving event. Opting for getting since it seems to hold more semantic value. I do feel like Transportation is more close to the word used though.
+1601	telanden	('I-Getting', 'I-Arriving')	('I-Getting', 'I-Arriving')	I-Getting	M		
+1602	,	('O', 'O')	O	O			
+1603	hebben	('O', 'O')	O	O			
+1604	niet	('O', 'O')	O	O			
+1605	mogen	('O', 'O')	O	O			
+1606	affwesen	('O', 'O')	O	O			
+1607	,	('O', 'O')	O	O			
+1608	nog	('O', 'O')	O	O			
+1609	in	('O', 'O')	O	O			
+1610	Vugeen	('O', 'O')	O	O			
+1611	voor	('O', 'O')	O	O			
+1612	de	('B-None', 'O')	('B-None', 'O')	O	A		 'None' annotation probably some inception difficulty in deleting an annotation
+1613	hooffd	('I-None', 'O')	('I-None', 'O')	O	A		
+1614	plaets	('I-None', 'O')	('I-None', 'O')	O	A		
+1615	tescheepen	('B-Transportation', 'B-Transportation')	B-Transportation	B-Transportation	A		
+1616	,	('O', 'O')	O	O			
+1617	des	('O', 'O')	O	O			
+1618	t	('O', 'O')	O	O			
+1619	versondene	('B-Transportation', 'B-Transportation')	B-Transportation	B-Transportation	A		
+1620	nu	('O', 'O')	O	O			
+1621	Loord	('O', 'O')	O	O			
+1622	 '	('O', 'O')	O	O			
+1623	„	('O', 'O')	O	O			
+1624	met	('O', 'O')	O	O			
+1625	ƒ153741:6:—.	('O', 'O')	O	O			
+1626	,	('O', 'O')	O	O			
+1627	dat	('O', 'O')	O	O			
+1628	van	('O', 'O')	O	O			
+1629	de	('O', 'O')	O	O			
+1630	2	('O', 'O')	O	O			
+1631	bodems	('O', 'O')	O	O			
+1632	ƒ	('O', 'O')	O	O			
+1633	297489	('O', 'O')	O	O			
+1634	.	('O', 'O')	O	O			
+1635	5	('O', 'O')	O	O			
+1636	.	('O', 'O')	O	O			
+1637	8	('O', 'O')	O	O			
+1638	,	('O', 'O')	O	O			
+1639	en	('O', 'O')	O	O			
+1640	de	('O', 'O')	O	O			
+1641	vier	('O', 'O')	O	O			
+1642	te	('O', 'O')	O	O			
+1643	samen	('O', 'O')	O	O			
+1644	ƒ	('O', 'O')	O	O			
+1645	795147	('O', 'O')	O	O			
+1646	.	('O', 'O')	O	O			
+1647	6	('O', 'O')	O	O			
+1648	.	('O', 'O')	O	O			
+1649	8	('O', 'O')	O	O			
+1650	.	('O', 'O')	O	O			
+1651	\n	\n	\n	\n			
+1652	Gamron	('O', 'O')	O	O			
+1653	Aan	('O', 'O')	O	O			
+1654	d	('O', 'O')	O	O			
+1655	 '	('O', 'O')	O	O			
+1656	Edele	('O', 'O')	O	O			
+1657	Heer	('O', 'O')	O	O			
+1658	Willem	('O', 'O')	O	O			
+1659	backer	('O', 'O')	O	O			
+1660	Jacobsz	('O', 'O')	O	O			
+1661	,	('O', 'O')	O	O			
+1662	directeur	('O', 'O')	O	O			
+1663	over	('O', 'O')	O	O			
+1664	s	('O', 'O')	O	O			
+1665	Comp	('O', 'O')	O	O			
+1666	„	('O', 'O')	O	O			
+1667	s	('O', 'O')	O	O			
+1668	aansienlijkke	('O', 'O')	O	O			
+1669	belangen	('O', 'O')	O	O			
+1670	in	('O', 'O')	O	O			
+1671	t	('O', 'O')	O	O			
+1672	Rijk	('O', 'O')	O	O			
+1673	van	('O', 'O')	O	O			
+1674	Persia	('O', 'O')	O	O			
+1675	,	('O', 'O')	O	O			
+1676	mitsg	('O', 'O')	O	O			
+1677	„	('O', 'O')	O	O			
+1678	s	('O', 'O')	O	O			
+1679	den	('O', 'O')	O	O			
+1680	Raad	('O', 'O')	O	O			
+1681	.	('O', 'O')	O	O			
+1682	\n	\n	\n	\n			
+1683	Bij	('O', 'O')	O	O			
+1684	ons	('O', 'O')	O	O			
+1685	Laetst	('O', 'O')	O	O			
+1686	gedienstig	('O', 'O')	O	O			
+1687	schrijvens	('O', 'O')	O	O			
+1688	van	('O', 'O')	O	O			
+1689	den	('O', 'O')	O	O			
+1690	19	('O', 'O')	O	O			
+1691	„	('O', 'O')	O	O			
+1692	 '	('O', 'O')	O	O			
+1693	der	('O', 'O')	O	O			
+1694	verweeken	('O', 'O')	O	O			
+1695	maand	('O', 'O')	O	O			
+1696	9b	('O', 'O')	O	O			
+1697	:	('O', 'O')	O	O			
+1698	copielyk	('O', 'O')	O	O			
+1699	neevens	('O', 'O')	O	O			
+1700	desen	('O', 'O')	O	O			
+1701	Leggende	('B-BeingAtAPlace', 'O')	('B-BeingAtAPlace', 'O')	B-BeingAtAPlace	M		
+1702	,	('O', 'O')	O	O			
+1703	\n	\n	\n	\n			
+1704	_	('O', 'O')	O	O			
+1705	„	('O', 'O')	O	O			
+1706	te	('O', 'O')	O	O			
+1707	Edele	('O', 'O')	O	O			
+1708	,	('O', 'O')	O	O			
+1709	Erntfeste	('O', 'O')	O	O			
+1710	,	('O', 'O')	O	O			
+1711	manh=	('O', 'O')	O	O			
+1712	Wel	('O', 'O')	O	O			
+1713	wijse	('O', 'O')	O	O			
+1714	:/	('O', 'O')	O	O			
+1715	voorsienige	('O', 'O')	O	O			
+1716	,	('O', 'O')	O	O			
+1717	en	('O', 'O')	O	O			
+1718	seer	('O', 'O')	O	O			
+1719	Genereuse	('O', 'O')	O	O			
+1720	Heer	('O', 'O')	O	O			
+1721	\n	\n	\n	\n			

@@ -1,0 +1,1916 @@
+	word	tupled_annos	first_resolve	manual_resolve	resolve_type	ontological_resolve	#events_annotated	notes	
+0	Batavia	('O', 'O', 'O', 'O')	O	O			0		
+1	\n	\n	\n	\n	\n	\n	\n		
+2	Aan	('O', 'O', 'O', 'O')	O	O			0		
+3	zijn	('O', 'O', 'O', 'O')	O	O			0		
+4	Hoogedelheid	('O', 'O', 'O', 'O')	O	O			0		
+5	der	('O', 'O', 'O', 'O')	O	O			0		
+6	Hoogedelen	('O', 'O', 'O', 'O')	O	O			0		
+7	Groot	('O', 'O', 'O', 'O')	O	O			0		
+8	achtbaaren	('O', 'O', 'O', 'O')	O	O			0		
+9	Heer	('O', 'O', 'O', 'O')	O	O			0		
+10	M	('O', 'O', 'O', 'O')	O	O			0		
+11	:	('O', 'O', 'O', 'O')	O	O			0		
+12	r	('O', 'O', 'O', 'O')	O	O			0		
+13	Willem	('O', 'O', 'O', 'O')	O	O			0		
+14	Arnold	('O', 'O', 'O', 'O')	O	O			0		
+15	Alling	('O', 'O', 'O', 'O')	O	O			0		
+16	,	('O', 'O', 'O', 'O')	O	O			0		
+17	Gouverneur	('O', 'O', 'O', 'O')	O	O			0		
+18	Generaal	('O', 'O', 'O', 'O')	O	O			0		
+19	,	('O', 'O', 'O', 'O')	O	O			0		
+20	benevens	('O', 'O', 'O', 'O')	O	O			0		
+21	de	('O', 'O', 'O', 'O')	O	O			0		
+22	Weledele	('O', 'O', 'O', 'O')	O	O			0		
+23	Gestrenge	('O', 'O', 'O', 'O')	O	O			0		
+24	Heeren	('O', 'O', 'O', 'O')	O	O			0		
+25	Raaden	('O', 'O', 'O', 'O')	O	O			0		
+26	van	('O', 'O', 'O', 'O')	O	O			0		
+27	Nederlandsch	('O', 'O', 'O', 'O')	O	O			0		
+28	Indie	('O', 'O', 'O', 'O')	O	O			0		
+29	\n	\n	\n	\n	\n	\n	\n		
+30	Hoogedele	('O', 'O', 'O', 'O')	O	O			0		
+31	Groot	('O', 'O', 'O', 'O')	O	O			0		
+32	Achtbaere	('O', 'O', 'O', 'O')	O	O			0		
+33	Heer	('O', 'O', 'O', 'O')	O	O			0		
+34	Wel	('O', 'O', 'O', 'O')	O	O			0		
+35	Edele	('O', 'O', 'O', 'O')	O	O			0		
+36	gestrenge	('O', 'O', 'O', 'O')	O	O			0		
+37	Heeren	('O', 'O', 'O', 'O')	O	O			0		
+38	.	('O', 'O', 'O', 'O')	O	O			0		
+39	\n	\n	\n	\n	\n	\n	\n		
+40	Bij	('O', 'O', 'O', 'O')	O	O			0		
+41	onzen	('O', 'O', 'O', 'O')	O	O			0		
+42	thans	('O', 'O', 'O', 'O')	O	O			0		
+43	overgaanden	('B-Translocation', 'B-Translocation', 'B-Transportation', 'B-Translocation')	B-Translocation	B-Translocation	A		4		
+44	Eisch	('B-Request', 'B-Request', 'O', 'B-Request')	B-Request	B-Request	A		3		
+45	hebben	('O', 'O', 'O', 'O')	O	O			0		
+46	wij	('O', 'O', 'O', 'O')	O	O			0		
+47	1200	('O', 'O', 'O', 'O')	O	O			0		
+48	lasten	('O', 'O', 'O', 'O')	O	O			0		
+49	rijst	('O', 'O', 'O', 'O')	O	O			0		
+50	gesteld	('B-Request', 'O', 'B-Request', 'O')	('B-Request', 'O', 'B-Request', 'O')	B-Request	M		2		
+51	,	('O', 'O', 'O', 'O')	O	O			0		
+52	en	('O', 'O', 'O', 'O')	O	O			0		
+53	wij	('O', 'O', 'O', 'O')	O	O			0		
+54	gebruken	('O', 'O', 'O', 'O')	O	O			0		
+55	de	('O', 'O', 'O', 'O')	O	O			0		
+56	vrijheid	('O', 'O', 'O', 'O')	O	O			0		
+57	de	('O', 'O', 'O', 'O')	O	O			0		
+58	volstrekte	('O', 'O', 'O', 'O')	O	O			0		
+59	noodzaakelijkheid	('O', 'O', 'O', 'O')	O	O			0		
+60	daar	('O', 'O', 'O', 'O')	O	O			0		
+61	van	('O', 'O', 'O', 'O')	O	O			0		
+62	hier	('O', 'O', 'O', 'O')	O	O			0		
+63	mede	('O', 'O', 'O', 'O')	O	O			0		
+64	nader	('O', 'O', 'O', 'O')	O	O			0		
+65	eerbiedig	('O', 'O', 'O', 'O')	O	O			0		
+66	aan	('O', 'O', 'O', 'O')	O	O			0		
+67	te	('O', 'O', 'O', 'O')	O	O			0		
+68	toonen	('O', 'O', 'O', 'O')	O	O			0		
+69	:	('O', 'O', 'O', 'O')	O	O			0		
+70	De	('O', 'O', 'O', 'O')	O	O			0		
+71	gesteldheid	('B-HavingInternalState-', 'O', 'O', 'O')	O	O	A		0		
+72	van	('O', 'O', 'O', 'O')	O	O			0		
+73	de	('O', 'O', 'O', 'O')	O	O			0		
+74	Rust	('O', 'O', 'O', 'O')	O	O			0		
+75	Kormandel	('O', 'O', 'O', 'O')	O	O			0		
+76	,	('O', 'O', 'O', 'O')	O	O			0		
+77	die	('O', 'O', 'O', 'O')	O	O			0		
+78	steets	('O', 'O', 'O', 'O')	O	O			0		
+79	onze	('O', 'O', 'O', 'O')	O	O			0		
+80	graan	('O', 'O', 'O', 'O')	O	B-Production	M		0	Production was not in event types at the time of annotation but was added later. Consulted two annotators for final decision	
+81	schuur	('O', 'O', 'O', 'O')	O	I-Production	M		0		
+82	is	('O', 'O', 'O', 'O')	O	I-Production	M		0		
+83	,	('O', 'O', 'O', 'O')	O	I-Production	M		0		
+84	geweest	('O', 'O', 'O', 'O')	O	I-Production	M		0		
+85	is	('O', 'O', 'O', 'B-HavingInternalState-')	O	O	A		1		
+86	zoo	('O', 'O', 'O', 'I-HavingInternalState-')	O	O	A		1		
+87	onzeeker	('O', 'B-HavingInternalState-', 'B-HavingInternalState-', 'I-HavingInternalState-')	('O', 'B-HavingInternalState-', 'B-HavingInternalState-', 'I-HavingInternalState-')	B-HavingInternalState-	AM		3		
+88	,	('O', 'O', 'O', 'O')	O	O			0		
+89	dat	('O', 'O', 'O', 'O')	O	O			0		
+90	daarop	('O', 'O', 'O', 'O')	O	O			0		
+91	geen	('O', 'O', 'O', 'O')	O	O			0		
+92	de	('O', 'O', 'O', 'O')	O	O			0		
+93	minste	('O', 'O', 'O', 'O')	O	O			0		
+94	staat	('O', 'O', 'O', 'O')	O	O			0		
+95	te	('O', 'O', 'O', 'O')	O	O			0		
+96	maaken	('O', 'O', 'O', 'O')	O	O			0		
+97	is	('O', 'O', 'O', 'O')	O	O			0		
+98	.	('O', 'O', 'O', 'O')	O	O			0		
+99	Daar	('O', 'O', 'O', 'O')	O	O			0		
+100	bij	('O', 'O', 'O', 'O')	O	O			0		
+101	is	('O', 'O', 'O', 'O')	O	O			0		
+102	het	('O', 'O', 'O', 'O')	O	O			0		
+103	land	('O', 'O', 'O', 'O')	O	O			0		
+104	zodanig	('O', 'O', 'O', 'O')	O	O			0		
+105	verwoest	('B-BeingDestroyed', 'B-BeingDestroyed', 'B-IntentionalDamaging', 'B-BeingDestroyed')	B-BeingDestroyed	B-BeingDestroyed	A		4		
+106	,	('O', 'O', 'O', 'O')	O	O			0		
+107	dat	('O', 'O', 'O', 'O')	O	O			0		
+108	men	('O', 'O', 'O', 'O')	O	O			0		
+109	aldaar	('O', 'O', 'O', 'O')	O	O			0		
+110	zelfs	('O', 'O', 'O', 'O')	O	O			0		
+111	,	('O', 'O', 'O', 'O')	O	O			0		
+112	en	('O', 'O', 'O', 'O')	O	O			0		
+113	niet	('O', 'O', 'O', 'O')	O	O			0		
+114	zonder	('O', 'O', 'O', 'O')	O	O			0		
+115	reeden	('O', 'O', 'O', 'O')	O	O			0		
+116	,	('O', 'O', 'O', 'O')	O	O			0		
+117	Voor	('O', 'O', 'O', 'B-HavingInternalState-')	O	O	A		1		
+118	een	('O', 'O', 'O', 'I-HavingInternalState-')	O	O	A		1		
+119	honger	('O', 'O', 'B-HavingInternalState-', 'I-HavingInternalState-')	('O', 'O', 'B-HavingInternalState-', 'I-HavingInternalState-')	B-HavingInternalState-	AM		2		
+120	nood	('O', 'O', 'I-HavingInternalState-', 'I-HavingInternalState-')	('O', 'O', 'I-HavingInternalState-', 'I-HavingInternalState-')	I-HavingInternalState-	AM		2		
+121	beducht	('O', 'O', 'O', 'I-HavingInternalState-')	O	O	A		1		
+122	is	('O', 'O', 'O', 'I-HavingInternalState-')	O	O	A		1		
+123	,	('O', 'O', 'O', 'O')	O	O			0		
+124	dus	('O', 'O', 'O', 'O')	O	O			0		
+125	kunnen	('O', 'O', 'O', 'O')	O	O			0		
+126	wij	('O', 'O', 'O', 'O')	O	O			0		
+127	van	('O', 'O', 'O', 'O')	O	O			0		
+128	daar	('O', 'O', 'O', 'O')	O	O			0		
+129	geen	('O', 'O', 'O', 'O')	O	O			0		
+130	de	('O', 'O', 'O', 'O')	O	O			0		
+131	minste	('O', 'O', 'O', 'O')	O	O			0		
+132	onder	('B-Giving', 'O', 'O', 'B-Collaboration')	('B-Giving', 'O', 'O', 'B-Collaboration')	B-Giving	M		2		
+133	stand	('I-Giving', 'O', 'O', 'I-Collaboration')	('I-Giving', 'O', 'O', 'I-Collaboration')	I-Giving	M		2		
+134	verwach	('O', 'O', 'O', 'O')	O	O			0		
+135	„	('O', 'O', 'O', 'O')	O	O			0		
+136	\n	\n	\n	\n	\n	\n	\n		
+137	De	('O', 'O', 'O', 'O')	O	O			0		
+138	heer	('O', 'O', 'O', 'O')	O	O			0		
+139	Kommandeur	('O', 'O', 'O', 'O')	O	O			0		
+140	van	('O', 'O', 'O', 'O')	O	O			0		
+141	Angelbeek	('O', 'O', 'O', 'O')	O	O			0		
+142	heeft	('O', 'O', 'O', 'O')	O	O			0		
+143	ons	('O', 'O', 'O', 'O')	O	O			0		
+144	Wel	('O', 'O', 'O', 'O')	O	O			0		
+145	seshonderd	('O', 'O', 'O', 'O')	O	O			0		
+146	lasten	('O', 'O', 'O', 'O')	O	O			0		
+147	rijst	('O', 'O', 'O', 'O')	O	O			0		
+148	toegezegd	('B-Giving', 'B-HavingContractualAgreement', 'B-Transportation', 'O')	('B-Giving', 'B-HavingContractualAgreement', 'B-Transportation', 'O')	B-Giving	M		3		
+149	,	('O', 'O', 'B-Collaboration', 'O')	O	O	A				
+150	doch	('O', 'O', 'O', 'O')	O	O					
+151	dezelve	('O', 'O', 'O', 'O')	O	O					
+152	moeten	('O', 'O', 'O', 'O')	O	O					
+153	in	('O', 'O', 'O', 'O')	O	O					
+154	de	('O', 'O', 'O', 'O')	O	O					
+155	aanstaande	('O', 'O', 'O', 'O')	O	O					
+156	maand	('O', 'O', 'O', 'O')	O	O					
+157	April	('O', 'O', 'O', 'O')	O	O					
+158	Worden	('O', 'O', 'O', 'B-Getting')	O	O	A				
+159	afgehaald	('B-Transportation', 'B-Transportation', 'B-Transportation', 'I-Getting')	B-Transportation	B-Transportation	A				
+160	,	('O', 'O', 'O', 'O')	O	O					
+161	Wijl	('O', 'O', 'O', 'O')	O	O					
+162	ner	('O', 'O', 'O', 'O')	O	O					
+163	laater	('O', 'O', 'O', 'O')	O	O					
+164	geen	('O', 'O', 'O', 'O')	O	O					
+165	schip	('O', 'O', 'O', 'O')	O	O					
+166	op	('O', 'O', 'O', 'O')	O	O					
+167	de	('O', 'O', 'O', 'O')	O	O					
+168	koettjiensche	('O', 'O', 'O', 'O')	O	O					
+169	rheede	('O', 'O', 'O', 'O')	O	O					
+170	durf	('O', 'O', 'O', 'O')	O	O					
+171	vertrouwen	('O', 'B-Translocation', 'O', 'O')	O	O	A				
+172	,	('O', 'O', 'O', 'O')	O	O					
+173	en	('O', 'O', 'O', 'O')	O	O					
+174	daar	('O', 'O', 'O', 'O')	O	O					
+175	toe	('O', 'O', 'O', 'O')	O	O					
+176	zien	('O', 'O', 'O', 'O')	O	O					
+177	wij	('O', 'O', 'O', 'O')	O	O					
+178	geen	('O', 'O', 'O', 'O')	O	O					
+179	mogelijkheid	('O', 'O', 'O', 'O')	O	O					
+180	,	('O', 'O', 'O', 'O')	O	O					
+181	Vermits	('O', 'O', 'O', 'O')	O	O					
+182	wij	('O', 'O', 'O', 'O')	O	O					
+183	geen	('O', 'O', 'O', 'O')	O	O					
+184	scheepen	('O', 'O', 'O', 'O')	O	O					
+185	tot	('O', 'O', 'O', 'O')	O	O					
+186	den	('O', 'O', 'O', 'O')	O	O					
+187	afhaal	('B-Transportation', 'B-Translocation', 'B-Transportation', 'B-Getting')	('B-Transportation', 'B-Translocation', 'B-Transportation', 'B-Getting')	B-Translocation	M	T			
+188	aan	('O', 'O', 'O', 'B-None')	O	O	A				
+189	harden	('O', 'O', 'O', 'O')	O	O					
+190	\n	\n	\n	\n	\n	\n	\n		
+191	hebben	('O', 'O', 'O', 'B-HavingInPossession')	O	O	A				
+192	en	('O', 'O', 'O', 'O')	O	O					
+193	Wanneer	('O', 'O', 'O', 'O')	O	O					
+194	Wij	('O', 'O', 'O', 'O')	O	O					
+195	dezelve	('O', 'O', 'O', 'O')	O	O					
+196	ook	('O', 'O', 'O', 'O')	O	O					
+197	hadden	('B-HavingInPossession', 'B-HavingInPossession', 'O', 'B-HavingInPossession')	B-HavingInPossession	B-HavingInPossession	A				
+198	,	('O', 'O', 'O', 'O')	O	O					
+199	zonden	('O', 'O', 'O', 'O')	O	O					
+200	ze	('O', 'O', 'O', 'O')	O	O					
+201	dog	('O', 'O', 'O', 'O')	O	O					
+202	zonder	('O', 'O', 'O', 'O')	O	O					
+203	een	('O', 'O', 'O', 'O')	O	O					
+204	goed	('O', 'O', 'O', 'O')	O	O					
+205	konvooij	('B-Translocation', 'O', 'O', 'O')	O	O	A				
+206	niet	('O', 'O', 'O', 'O')	O	O					
+207	gewaagd	('O', 'B-Translocation', 'B-Voyage', 'O')	('O', 'B-Translocation', 'B-Voyage', 'O')	B-Translocation	M				
+208	Worden	('O', 'O', 'I-Voyage', 'O')	O	O	A				
+209	,	('O', 'O', 'O', 'O')	O	O					
+210	Wijl	('O', 'O', 'O', 'O')	O	O					
+211	de	('O', 'O', 'O', 'O')	O	O					
+212	Bombaijsche	('O', 'O', 'O', 'O')	O	O					
+213	fregatten	('O', 'O', 'O', 'O')	O	O					
+214	nog	('O', 'O', 'O', 'O')	O	O					
+215	bestendig	('O', 'O', 'O', 'O')	O	O					
+216	op	('O', 'O', 'O', 'O')	O	O					
+217	de	('O', 'O', 'O', 'O')	O	O					
+218	hoogte	('O', 'O', 'O', 'O')	O	O					
+219	van	('O', 'O', 'O', 'O')	O	O					
+220	koetsjien	('O', 'O', 'O', 'O')	O	O					
+221	kruissen	('B-BeingAtAPlace', 'B-Translocation', 'B-Translocation', 'B-BeingAtAPlace')	('B-BeingAtAPlace', 'B-Translocation', 'B-Translocation', 'B-BeingAtAPlace')	B-BeingAtAPlace	M	S			
+222	.	('O', 'O', 'O', 'O')	O	O					
+223	Wat	('O', 'O', 'O', 'O')	O	O					
+224	er	('O', 'O', 'O', 'O')	O	O					
+225	te	('O', 'O', 'O', 'O')	O	O					
+226	gen	('O', 'O', 'O', 'O')	O	O					
+227	de	('O', 'O', 'O', 'O')	O	O					
+228	opere	('O', 'O', 'O', 'B-Voyage')	O	O	A				
+229	Vaart	('B-Voyage', 'O', 'B-Translocation', 'I-Voyage')	('B-Voyage', 'O', 'B-Translocation', 'I-Voyage')	B-Voyage	M				
+230	/	('O', 'O', 'O', 'O')	O	O					
+231	:	('O', 'O', 'O', 'O')	O	O					
+232	die	('O', 'O', 'O', 'O')	O	O					
+233	niet	('O', 'O', 'O', 'O')	O	O					
+234	Voor	('O', 'O', 'O', 'O')	O	O					
+235	half	('O', 'O', 'O', 'O')	O	O					
+236	Oktober	('O', 'O', 'O', 'O')	O	O					
+237	gerekend	('O', 'O', 'O', 'O')	O	O					
+238	mag	('O', 'O', 'O', 'O')	O	O					
+239	Worden:/	('O', 'O', 'O', 'O')	O	O					
+240	op	('O', 'O', 'O', 'O')	O	O					
+241	Mallabaar	('O', 'O', 'O', 'O')	O	O					
+242	Voorvallen	('O', 'O', 'O', 'O')	O	O					
+243	kan	('O', 'O', 'O', 'O')	O	O					
+244	,	('O', 'O', 'O', 'O')	O	O					
+245	mogen	('O', 'O', 'O', 'O')	O	O					
+246	wij	('O', 'O', 'O', 'O')	O	O					
+247	niet	('O', 'O', 'O', 'O')	O	O					
+248	gissen	('O', 'O', 'O', 'O')	O	O					
+249	,	('O', 'O', 'O', 'O')	O	O					
+250	en	('O', 'O', 'O', 'O')	O	O					
+251	zoo	('O', 'O', 'O', 'O')	O	O					
+252	Wij	('O', 'O', 'O', 'O')	O	O					
+253	deeze	('O', 'O', 'O', 'O')	O	O					
+254	zelkonder-	('O', 'O', 'O', 'O')	O	O					
+255	lasten	('O', 'O', 'O', 'O')	O	O					
+256	Mallabaers	('O', 'O', 'O', 'O')	O	O					
+257	rijst	('O', 'O', 'O', 'O')	O	O					
+258	kreegen	('B-Getting', 'B-Getting', 'B-Transportation', 'B-Getting')	B-Getting	B-Getting	A				
+259	,	('O', 'O', 'B-Getting', 'O')	O	O	A				
+260	bij	('O', 'O', 'O', 'O')	O	O					
+261	de	('O', 'O', 'O', 'O')	O	O					
+262	geeischte	('B-Request', 'B-Request', 'O', 'B-Request')	B-Request	B-Request	A				
+263	Javasche	('O', 'O', 'O', 'O')	O	O					
+264	,	('O', 'O', 'O', 'O')	O	O					
+265	zoude	('O', 'O', 'O', 'O')	O	O					
+266	onze	('O', 'O', 'O', 'O')	O	O					
+267	Voorraad	('B-HavingInPossession', 'B-HavingInPossession', 'O', 'O')	('B-HavingInPossession', 'B-HavingInPossession', 'O', 'O')	B-HavingInPossession	M				
+268	naar	('O', 'O', 'O', 'O')	O	O					
+269	maatig	('O', 'O', 'O', 'O')	O	O					
+270	zijn	('O', 'O', 'O', 'O')	O	O					
+271	,	('O', 'O', 'O', 'O')	O	O					
+272	Wijl	('O', 'O', 'O', 'O')	O	O					
+273	de	('O', 'O', 'O', 'O')	O	O					
+274	Fransche	('O', 'O', 'O', 'O')	O	O					
+275	Vloot	('O', 'O', 'O', 'O')	O	O					
+276	zeken	('O', 'O', 'O', 'O')	O	O					
+277	on	('O', 'O', 'O', 'O')	O	O					
+278	rijst	('O', 'O', 'O', 'O')	O	O					
+279	zal	('O', 'O', 'O', 'O')	O	O					
+280	vraagen	('B-Request', 'B-Request', 'B-Request', 'B-Request')	B-Request	B-Request	A				
+281	,	('O', 'O', 'O', 'O')	O	O					
+282	en	('O', 'O', 'O', 'O')	O	O					
+283	de	('O', 'O', 'O', 'O')	O	O					
+284	gemeente	('O', 'O', 'O', 'O')	O	O					
+285	geen	('O', 'O', 'O', 'O')	O	O					
+286	aanvoer	('B-Transportation', 'B-Transportation', 'B-Transportation', 'B-Getting')	B-Transportation	B-Transportation	A				
+287	uit	('O', 'O', 'B-None', 'O')	O	O					
+288	Boengaale	('O', 'O', 'O', 'O')	O	O					
+289	hoopen	('O', 'O', 'O', 'O')	O	O					
+290	kan	('O', 'O', 'O', 'O')	O	O					
+291	.	('O', 'O', 'O', 'O')	O	O					
+292	Om	('O', 'O', 'O', 'O')	O	O					
+293	deeze	('O', 'O', 'O', 'O')	O	O					
+294	reedenen	('O', 'O', 'O', 'O')	O	O					
+295	verzoeken	('B-Request', 'B-Request', 'B-Request', 'B-Request')	B-Request	B-Request	A				
+296	Wij	('O', 'O', 'O', 'O')	O	O					
+297	Uwe	('O', 'O', 'O', 'O')	O	O					
+298	Hoog	('O', 'O', 'O', 'O')	O	O					
+299	Edelheeden	('O', 'O', 'O', 'O')	O	O					
+300	nogmaals	('O', 'O', 'O', 'O')	O	O					
+301	op	('O', 'O', 'O', 'O')	O	O					
+302	het	('O', 'O', 'O', 'O')	O	O					
+303	ootmoedigste	('O', 'O', 'O', 'O')	O	O					
+304	,	('O', 'O', 'O', 'O')	O	O					
+305	om	('O', 'O', 'O', 'O')	O	O					
+306	onzer	('O', 'O', 'O', 'O')	O	O					
+307	voormelden	('O', 'O', 'O', 'O')	O	O					
+308	Eisch	('B-Request', 'B-Request', 'O', 'B-Request')	B-Request	B-Request	A				
+309	kompleet	('O', 'O', 'O', 'O')	O	O					
+310	te	('O', 'O', 'O', 'O')	O	O					
+311	Willen	('O', 'O', 'O', 'O')	O	O					
+312	voldoen	('O', 'O', 'O', 'O')	O	O					
+313	,	('O', 'O', 'O', 'O')	O	O					
+314	Wijl	('O', 'O', 'O', 'O')	O	O					
+315	wij	('O', 'O', 'O', 'O')	O	O					
+316	andersints	('O', 'O', 'O', 'O')	O	O					
+317	in	('O', 'O', 'O', 'B-HavingInternalState-')	O	O	A				
+318	een	('O', 'O', 'O', 'I-HavingInternalState-')	O	O	A				
+319	indoorkonelijke	('O', 'O', 'B-HavingInternalState-', 'I-HavingInternalState-')	('O', 'O', 'B-HavingInternalState-', 'I-HavingInternalState-')	B-HavingInternalState-	M				
+320	Verleegerheid	('B-SocialStatusChange', 'O', 'I-HavingInternalState-', 'I-HavingInternalState-')	('B-SocialStatusChange', 'O', 'I-HavingInternalState-', 'I-HavingInternalState-')	I-HavingInternalState-	M				
+321	zouden	('I-SocialStatusChange', 'O', 'I-HavingInternalState-', 'I-HavingInternalState-')	('I-SocialStatusChange', 'O', 'I-HavingInternalState-', 'I-HavingInternalState-')	I-HavingInternalState-	M				
+322	VerVallen	('I-SocialStatusChange', 'B-HavingInternalState-', 'I-HavingInternalState-', 'I-HavingInternalState-')	('I-SocialStatusChange', 'B-HavingInternalState-', 'I-HavingInternalState-', 'I-HavingInternalState-')	I-HavingInternalState-	AM				
+323	.	('O', 'O', 'O', 'O')	O	O					
+324	Een	('O', 'O', 'O', 'O')	O	O					
+325	schip	('O', 'O', 'O', 'O')	O	O					
+326	Voor	('O', 'O', 'O', 'O')	O	O					
+327	Gale	('O', 'O', 'O', 'O')	O	O					
+328	en	('O', 'O', 'O', 'O')	O	O					
+329	een	('O', 'O', 'O', 'O')	O	O					
+330	Voor	('O', 'O', 'O', 'O')	O	O					
+331	Kolombo	('O', 'O', 'O', 'O')	O	O					
+332	,	('O', 'O', 'O', 'O')	O	O					
+333	zouden	('O', 'O', 'O', 'O')	O	O					
+334	in	('O', 'O', 'O', 'O')	O	O					
+335	Juri	('O', 'O', 'O', 'O')	O	O					
+336	dienen	('O', 'O', 'O', 'O')	O	O					
+337	te	('O', 'O', 'O', 'B-Leaving')	O	O	A				
+338	Vertrekken	('B-Leaving', 'B-Leaving', 'B-Leaving', 'I-Leaving')	B-Leaving	B-Leaving	A				
+339	,	('B-Leaving', 'O', 'B-Leaving', 'O')	('B-Leaving', 'O', 'B-Leaving', 'O')	O	M				
+340	om	('O', 'O', 'O', 'O')	O	O					
+341	tijding	('O', 'O', 'O', 'O')	O	O					
+342	in	('O', 'O', 'O', 'O')	O	O					
+343	Augustus	('O', 'O', 'O', 'O')	O	O					
+344	hier	('O', 'O', 'B-BeingAtAPlace', 'B-BeingAtAPlace')	('O', 'O', 'B-BeingAtAPlace', 'B-BeingAtAPlace')	O	M				
+345	te	('B-BeingAtAPlace', 'O', 'I-BeingAtAPlace', 'I-BeingAtAPlace')	('B-BeingAtAPlace', 'O', 'I-BeingAtAPlace', 'I-BeingAtAPlace')	B-BeingAtAPlace	AM				
+346	weezen	('I-BeingAtAPlace', 'B-Arriving', 'I-BeingAtAPlace', 'I-BeingAtAPlace')	I-BeingAtAPlace	I-BeingAtAPlace	A				
+347	zij	('O', 'O', 'B-Arriving', 'O')	O	O	A				
+348	komen	('B-Arriving', 'B-Translocation', 'B-Translocation', 'B-Translocation')	B-Translocation	B-Translocation	A				
+349	bewesten	('O', 'O', 'O', 'O')	O	O					
+350	de	('O', 'O', 'O', 'O')	O	O					
+351	Maldivos	('O', 'O', 'O', 'O')	O	O					
+352	en	('O', 'O', 'O', 'O')	O	O					
+353	mag	('O', 'O', 'O', 'O')	O	O					
+354	de	('O', 'O', 'O', 'B-Voyage')	O	O	A				
+355	reize	('B-Voyage', 'B-Voyage', 'B-Voyage', 'I-Voyage')	B-Voyage	B-Voyage	A				
+356	dus	('O', 'O', 'O', 'O')	O	O					
+357	op	('O', 'O', 'O', 'O')	O	O					
+358	niet	('O', 'O', 'O', 'O')	O	O					
+359	minder	('O', 'O', 'O', 'O')	O	O					
+360	dan	('O', 'O', 'O', 'O')	O	O					
+361	twee	('O', 'O', 'O', 'O')	O	O					
+362	maanden	('O', 'O', 'O', 'O')	O	O					
+363	bereekend	('O', 'O', 'O', 'O')	O	O					
+364	Worden	('O', 'O', 'O', 'O')	O	O					
+365	.	('O', 'O', 'O', 'O')	O	O					
+366	Wanneer	('O', 'O', 'O', 'O')	O	O					
+367	UWe	('O', 'O', 'O', 'O')	O	O					
+368	Hoogedelheeden	('O', 'O', 'O', 'O')	O	O					
+369	,	('O', 'O', 'O', 'O')	O	O					
+370	gelijk	('O', 'O', 'O', 'O')	O	O					
+371	doorgaans	('O', 'O', 'O', 'O')	O	O					
+372	,	('O', 'O', 'O', 'O')	O	O					
+373	groote	('O', 'O', 'O', 'O')	O	O					
+374	scheepen	('O', 'O', 'O', 'O')	O	O					
+375	tot	('O', 'O', 'O', 'O')	O	O					
+376	deezer	('O', 'O', 'O', 'O')	O	O					
+377	togt	('B-Voyage', 'B-Voyage', 'B-Voyage', 'B-Voyage')	B-Voyage	B-Voyage	A				
+378	uit	('O', 'O', 'O', 'O')	O	O					
+379	kiezen	('O', 'O', 'O', 'O')	O	O					
+380	,	('O', 'O', 'O', 'O')	O	O					
+381	zal	('O', 'O', 'O', 'O')	O	O					
+382	nog	('O', 'O', 'O', 'O')	O	O					
+383	een	('O', 'O', 'O', 'O')	O	O					
+384	derde	('O', 'O', 'O', 'O')	O	O					
+385	niet	('O', 'O', 'O', 'O')	O	O					
+386	alleen	('O', 'O', 'O', 'O')	O	O					
+387	de	('O', 'O', 'O', 'O')	O	O					
+388	gevraagde	('B-Request', 'O', 'O', 'B-Request')	('B-Request', 'O', 'O', 'B-Request')	B-Request	M				
+389	rijst	('O', 'O', 'O', 'O')	O	O					
+390	,	('O', 'O', 'O', 'O')	O	O					
+391	maar	('O', 'O', 'O', 'O')	O	O					
+392	ook	('O', 'O', 'O', 'O')	O	O					
+393	de	('O', 'O', 'O', 'O')	O	O					
+394	overige	('O', 'O', 'O', 'O')	O	O					
+395	goederen	('O', 'O', 'O', 'O')	O	O					
+396	kunnen	('O', 'O', 'O', 'O')	O	O					
+397	mede	('B-Transportation', 'B-Transportation', 'B-Giving', 'B-Transportation')	B-Transportation	B-Transportation	A				
+398	neemen	('I-Transportation', 'I-Transportation', 'I-Giving', 'I-Transportation')	I-Transportation	I-Transportation	A				
+399	,	('O', 'O', 'B-Transportation', 'O')	O	O	A				
+400	Vermits	('O', 'O', 'O', 'O')	O	O					
+401	wij	('O', 'O', 'O', 'O')	O	O					
+402	zo	('O', 'O', 'B-BeingInConflict', 'O')	O	O	A				
+403	lang	('O', 'O', 'I-BeingInConflict', 'O')	O	O	A				
+404	de	('O', 'O', 'I-BeingInConflict', 'B-BeingInConflict')	('O', 'O', 'I-BeingInConflict', 'B-BeingInConflict')	O	A				
+405	oorlog	('B-BeingInConflict', 'B-BeingInConflict', 'I-BeingInConflict', 'I-BeingInConflict')	('B-BeingInConflict', 'B-BeingInConflict', 'I-BeingInConflict', 'I-BeingInConflict')	B-BeingInConflict	AM				
+406	duurt	('O', 'O', 'I-BeingInConflict', 'O')	O	O	A				
+407	,	('O', 'O', 'O', 'O')	O	O					
+408	op	('O', 'O', 'O', 'O')	O	O					
+409	geen	('O', 'O', 'O', 'O')	O	O					
+410	onderlaag	('B-BeingDestroyed', 'B-EndingAWar', 'O', 'O')	('B-BeingDestroyed', 'B-EndingAWar', 'O', 'O')	O	M			We established 'onderlaag' refers to the first layer of cargo in a ship and has nothing to do with the end of a war or a 'nederlaag' (destruction/downfall)	I tested models on the version of the test set where this was still 'B-BeingDestroyed' in https://docs.google.com/document/d/1l0FG32t_hYLmuTIFQrp0bXqqkzEwl84wewgiU7qq8vs/edit?usp=sharing
+411	voor	('O', 'O', 'O', 'O')	O	O					
+412	de	('O', 'O', 'O', 'O')	O	O					
+413	retourscheepen	('B-Voyage', 'O', 'O', 'O')	O	O	A				
+414	denken	('O', 'O', 'O', 'O')	O	O					
+415	mogen	('O', 'O', 'O', 'O')	O	O					
+416	.	('O', 'O', 'O', 'O')	O	O				voorbeeld: drie en vierdubbele ontkenningen	
+417	Wij	('O', 'O', 'O', 'O')	O	O					
+418	verzoeken	('B-Request', 'B-Request', 'B-Request', 'B-Request')	B-Request	B-Request	A				
+419	dan	('O', 'O', 'O', 'O')	O	O					
+420	,	('O', 'O', 'O', 'O')	O	O					
+421	dat	('O', 'O', 'O', 'O')	O	O					
+422	ook	('O', 'O', 'O', 'O')	O	O					
+423	dit	('O', 'O', 'O', 'O')	O	O					
+424	derde	('O', 'O', 'O', 'O')	O	O					
+425	schip	('O', 'O', 'O', 'O')	O	O					
+426	de	('O', 'O', 'O', 'O')	O	O					
+427	twee	('O', 'O', 'O', 'O')	O	O					
+428	anderen	('O', 'O', 'O', 'O')	O	O					
+429	spoedig	('O', 'O', 'O', 'O')	O	O					
+430	volge	('B-Translocation', 'B-Translocation', 'B-Translocation', 'B-Translocation')	B-Translocation	B-Translocation	A				
+431	,	('B-Translocation', 'O', 'O', 'O')	O	O	A				
+432	op	('O', 'O', 'O', 'O')	O	O					
+433	dat	('O', 'O', 'O', 'O')	O	O					
+434	het	('O', 'O', 'O', 'O')	O	O					
+435	in	('O', 'O', 'O', 'O')	O	O					
+436	september	('O', 'O', 'O', 'O')	O	O					
+437	hier	('B-BeingAtAPlace', 'O', 'B-Arriving', 'O')	('B-BeingAtAPlace', 'O', 'B-Arriving', 'O')	B-Arriving	M				
+438	zij	('I-BeingAtAPlace', 'B-Arriving', 'I-Arriving', 'B-BeingAtAPlace')	('I-BeingAtAPlace', 'B-Arriving', 'I-Arriving', 'B-BeingAtAPlace')	I-Arriving	M	S			
+439	,	('O', 'O', 'O', 'O')	O	O					
+440	Voor	('O', 'O', 'O', 'O')	O	O					
+441	dat	('O', 'O', 'O', 'O')	O	O					
+442	de	('O', 'O', 'O', 'O')	O	O					
+443	goede	('O', 'O', 'O', 'O')	O	O					
+444	Moesson	('O', 'O', 'O', 'O')	O	O					
+445	Vijandelijke	('B-BeingInConflict', 'O', 'O', 'B-BeingInConflict')	('B-BeingInConflict', 'O', 'O', 'B-BeingInConflict')	B-BeingInConflict	M				
+446	kruissers	('O', 'O', 'O', 'O')	O	O					
+447	na	('O', 'O', 'O', 'O')	O	O					
+448	deezer	('O', 'O', 'O', 'O')	O	O					
+449	kant	('O', 'O', 'O', 'O')	O	O					
+450	doe	('O', 'O', 'O', 'O')	O	O					
+451	Verschijnen	('B-Arriving', 'B-Arriving', 'B-Arriving', 'B-Arriving')	B-Arriving	B-Arriving	A				
+452	,	('O', 'O', 'O', 'O')	O	O					
+453	en	('O', 'O', 'O', 'O')	O	O					
+454	dat	('O', 'O', 'O', 'O')	O	O					
+455	alle	('O', 'O', 'O', 'O')	O	O					
+456	drie	('O', 'O', 'O', 'O')	O	O					
+457	scheepen	('O', 'O', 'O', 'O')	O	O					
+458	last	('B-BeingInConflict', 'B-BeingInConflict', 'O', 'O')	('B-BeingInConflict', 'B-BeingInConflict', 'O', 'O')	B-BeingInConflict	M				
+459	krijgen	('I-BeingInConflict', 'I-BeingInConflict', 'O', 'O')	('I-BeingInConflict', 'I-BeingInConflict', 'O', 'O')	I-BeingInConflict	M				
+460	om	('O', 'O', 'O', 'O')	O	O					
+461	de	('O', 'O', 'O', 'O')	O	O					
+462	Mallabaarsche	('O', 'O', 'O', 'O')	O	O					
+463	kust	('O', 'O', 'O', 'O')	O	O					
+464	,	('O', 'O', 'O', 'O')	O	O					
+465	na	('O', 'O', 'O', 'O')	O	O					
+466	dat	('O', 'O', 'O', 'O')	O	O					
+467	zij	('O', 'O', 'O', 'O')	O	O					
+468	het	('O', 'O', 'O', 'O')	O	O					
+469	karaal	('O', 'O', 'O', 'O')	O	O					
+470	tusschen	('O', 'O', 'O', 'O')	O	O					
+471	de	('O', 'O', 'O', 'O')	O	O					
+472	Maldivos	('O', 'O', 'O', 'O')	O	O					
+473	en	('O', 'O', 'O', 'O')	O	O					
+474	LakkeriVes	('O', 'O', 'O', 'O')	O	O					
+475	doorgevaaren	('B-Translocation', 'B-Translocation', 'B-Translocation', 'B-Voyage')	B-Translocation	B-Translocation	A				
+476	zijn	('O', 'O', 'O', 'I-Voyage')	O	O	A				
+477	,	('O', 'O', 'O', 'O')	O	O					
+478	op	('O', 'O', 'O', 'O')	O	O					
+479	eene	('O', 'O', 'O', 'O')	O	O					
+480	voorzigtige	('O', 'O', 'O', 'O')	O	O					
+481	Wijze	('O', 'O', 'O', 'O')	O	O					
+482	te	('O', 'O', 'O', 'O')	O	O					
+483	Verkennen	('B-Voyage', 'B-Translocation', 'B-Translocation', 'O')	('B-Voyage', 'B-Translocation', 'B-Translocation', 'O')	B-Translocation	M	T			
+484	,	('O', 'O', 'O', 'O')	O	O					
+485	en	('O', 'O', 'O', 'O')	O	O					
+486	na	('O', 'O', 'O', 'O')	O	O					
+487	„	('O', 'O', 'O', 'O')	O	O					
+488	\n	\n	\n	\n	\n	\n	\n		
+489	de	('O', 'O', 'O', 'O')	O	O					
+490	Ceilonsche	('O', 'O', 'O', 'O')	O	O					
+491	Wal	('O', 'O', 'O', 'O')	O	O					
+492	over	('B-Translocation', 'B-Translocation', 'B-Translocation', 'B-Voyage')	B-Translocation	B-Translocation	A				
+493	te	('I-Translocation', 'I-Translocation', 'I-Translocation', 'I-Voyage')	I-Translocation	I-Translocation	A				
+494	steeken	('I-Translocation', 'I-Translocation', 'I-Translocation', 'I-Voyage')	I-Translocation	I-Translocation	A				
+495	,	('O', 'O', 'O', 'O')	O	O					
+496	en	('O', 'O', 'O', 'O')	O	O					
+497	dat	('O', 'O', 'O', 'O')	O	O					
+498	de	('O', 'O', 'O', 'O')	O	O					
+499	Engelschen	('O', 'O', 'O', 'O')	O	O					
+500	bij	('O', 'O', 'O', 'O')	O	O					
+501	Mannapaar	('O', 'O', 'O', 'O')	O	O					
+502	zouden	('O', 'O', 'O', 'O')	O	O					
+503	kunnen	('O', 'O', 'O', 'O')	O	O					
+504	kruissers	('O', 'O', 'O', 'O')	O	O					
+505	houden	('B-HavingInPossession', 'B-BeingAtAPlace', 'B-Besieging', 'B-HavingInPossession')	('B-HavingInPossession', 'B-BeingAtAPlace', 'B-Besieging', 'B-HavingInPossession')	B-Besieging	M		4	Cruisers houden = ocupation like. I think the difference here is evoke Besieging vs isoftype HavingInPossession / BeingAtAPlace	
+506	.	('O', 'O', 'O', 'O')	O	O			0		
+507	De	('O', 'O', 'O', 'B-BeingLeader')	O	O	A		1		
+508	over	('B-BeingLeader', 'O', 'O', 'I-BeingLeader')	('B-BeingLeader', 'O', 'O', 'I-BeingLeader')	B-BeingLeader	M		2		
+509	heden	('I-BeingLeader', 'O', 'O', 'I-BeingLeader')	('I-BeingLeader', 'O', 'O', 'I-BeingLeader')	I-BeingLeader	M		2		
+510	Van	('O', 'O', 'O', 'O')	O	O			0		
+511	beide	('O', 'O', 'O', 'O')	O	O			0		
+512	schepen	('O', 'O', 'O', 'O')	O	O			0		
+513	,	('O', 'O', 'O', 'O')	O	O			0		
+514	maar	('O', 'O', 'O', 'O')	O	O			0		
+515	voor	('O', 'O', 'O', 'O')	O	O			0		
+516	al	('O', 'O', 'O', 'O')	O	O			0		
+517	Van	('O', 'O', 'O', 'O')	O	O			0		
+518	t	('O', 'O', 'O', 'O')	O	O			0		
+519	geene	('O', 'O', 'O', 'O')	O	O			0		
+520	Voor	('O', 'O', 'O', 'O')	O	O			0		
+521	Gale	('O', 'O', 'O', 'O')	O	O			0		
+522	gedestineerd	('B-Translocation', 'B-Translocation', 'B-Translocation', 'B-Arriving')	B-Translocation	B-Translocation	A		4		
+523	is	('O', 'O', 'O', 'I-Arriving')	O	O	A		0		
+524	,	('O', 'O', 'O', 'O')	O	O			0		
+525	Verzoeken	('B-Request', 'B-Request', 'B-Request', 'B-Request')	B-Request	B-Request	A		4		
+526	wij	('O', 'O', 'O', 'O')	O	O			0		
+527	boven	('O', 'O', 'O', 'O')	O	O			0		
+528	des	('O', 'O', 'O', 'O')	O	O			0		
+529	te	('O', 'O', 'O', 'O')	O	O			0		
+530	onderrigten	('O', 'O', 'O', 'O')	O	B-Communication	M		0	Communication not yet part of scheme yet.	
+531	,	('O', 'O', 'O', 'O')	O	O			0		
+532	dat	('O', 'O', 'O', 'O')	O	O			0		
+533	de	('O', 'O', 'O', 'O')	O	O			0		
+534	stroomen	('O', 'O', 'O', 'O')	O	O			0		
+535	in	('O', 'O', 'O', 'O')	O	O			0		
+536	de	('O', 'O', 'O', 'O')	O	O			0		
+537	Zuid	('O', 'O', 'O', 'O')	O	O			0		
+538	moessen	('O', 'O', 'O', 'O')	O	O			0		
+539	voor	('O', 'O', 'O', 'O')	O	O			0		
+540	Gale	('O', 'O', 'O', 'O')	O	O			0		
+541	zo	('O', 'O', 'O', 'O')	O	O			0		
+542	hevig	('O', 'O', 'O', 'O')	O	O			0		
+543	om	('O', 'O', 'O', 'O')	O	O			0		
+544	de	('O', 'O', 'O', 'O')	O	O			0		
+545	Zuid	('O', 'O', 'O', 'O')	O	O			0		
+546	Oost	('O', 'O', 'O', 'O')	O	O			0		
+547	looper	('O', 'B-Translocation', 'O', 'B-BeingAtAPlace')	('O', 'B-Translocation', 'O', 'B-BeingAtAPlace')	B-Translocation	M		2		
+548	,	('O', 'O', 'O', 'O')	O	O			0		
+549	dat	('O', 'O', 'O', 'O')	O	O			0		
+550	een	('O', 'O', 'O', 'O')	O	O			0		
+551	schip	('O', 'O', 'O', 'O')	O	O			0		
+552	t	('O', 'O', 'O', 'O')	O	O			0		
+553	Welk	('O', 'O', 'O', 'O')	O	O			0		
+554	maar	('O', 'O', 'O', 'O')	O	O			0		
+555	even	('O', 'O', 'O', 'O')	O	O			0		
+556	beneeden	('O', 'O', 'O', 'O')	O	O			0		
+557	de	('O', 'O', 'O', 'O')	O	O			0		
+558	baai	('O', 'O', 'O', 'O')	O	O			0		
+559	is	('B-BeingAtAPlace', 'B-BeingAtAPlace', 'O', 'B-BeingAtAPlace')	B-BeingAtAPlace	B-BeingAtAPlace	A		3		
+560	,	('O', 'O', 'O', 'O')	O	O			0		
+561	met	('O', 'O', 'O', 'O')	O	O			0		
+562	geen	('O', 'O', 'O', 'O')	O	O			0		
+563	mogelijkheid	('O', 'O', 'O', 'O')	O	O			0		
+564	de	('O', 'O', 'O', 'O')	O	O			0		
+565	haven	('O', 'O', 'O', 'O')	O	O			0		
+566	bezeilen	('B-Voyage', 'B-Translocation', 'B-Translocation', 'B-Arriving')	('B-Voyage', 'B-Translocation', 'B-Translocation', 'B-Arriving')	B-Translocation	M	T	4		
+567	kan	('O', 'O', 'O', 'I-Arriving')	O	O	A		0		
+568	,	('O', 'O', 'O', 'O')	O	O			0		
+569	en	('O', 'O', 'O', 'O')	O	O			0		
+570	dat	('O', 'O', 'O', 'O')	O	O			0		
+571	zij	('O', 'O', 'O', 'O')	O	O			0		
+572	dus	('O', 'O', 'O', 'O')	O	O			0		
+573	alle	('O', 'O', 'O', 'O')	O	O			0		
+574	Voorzorgen	('O', 'O', 'O', 'O')	O	O			0		
+575	moeten	('O', 'O', 'O', 'O')	O	O			0		
+576	gebruiken	('O', 'O', 'O', 'O')	O	O			0		
+577	,	('O', 'O', 'O', 'O')	O	O			0		
+578	om	('O', 'O', 'O', 'O')	O	O			0		
+579	boven	('O', 'O', 'O', 'O')	O	O			0		
+580	Wind	('O', 'O', 'O', 'O')	O	O			0		
+581	en	('O', 'O', 'O', 'O')	O	O			0		
+582	stroom	('O', 'O', 'O', 'O')	O	O			0		
+583	van	('O', 'O', 'O', 'O')	O	O			0		
+584	Gale	('O', 'O', 'O', 'O')	O	O			0		
+585	te	('O', 'O', 'O', 'B-Arriving')	O	O	A		1		
+586	komen	('B-Arriving', 'B-Translocation', 'B-Arriving', 'I-Arriving')	('B-Arriving', 'B-Translocation', 'B-Arriving', 'I-Arriving')	B-Arriving	AM		4		
+587	,	('O', 'O', 'O', 'O')	O	O			0		
+588	en	('O', 'O', 'O', 'O')	O	O			0		
+589	daar	('O', 'O', 'O', 'O')	O	O			0		
+590	of	('O', 'O', 'O', 'O')	O	O			0		
+591	ten	('O', 'B-BeingAtAPlace', 'B-Arriving', 'B-BeingAtAPlace')	('O', 'B-BeingAtAPlace', 'B-Arriving', 'B-BeingAtAPlace')	B-Arriving	M	S	3		
+592	anker	('B-BeingAtAPlace', 'I-BeingAtAPlace', 'I-Arriving', 'I-BeingAtAPlace')	('B-BeingAtAPlace', 'I-BeingAtAPlace', 'I-Arriving', 'I-BeingAtAPlace')	I-Arriving	M	S	3		
+593	komen	('O', 'I-BeingAtAPlace', 'I-Arriving', 'I-BeingAtAPlace')	('O', 'I-BeingAtAPlace', 'I-Arriving', 'I-BeingAtAPlace')	I-Arriving	M	S	3		
+594	of	('O', 'O', 'O', 'O')	O	O					
+595	het	('O', 'O', 'O', 'B-Voyage')	O	O	A				
+596	onder	('B-Voyage', 'B-Translocation', 'B-Translocation', 'I-Voyage')	('B-Voyage', ‘B-Translocation', 'B-Translocation', 'I-Voyage')	B-Translocation	M	T			
+597	zeil	('I-Voyage', 'I-Translocation', 'I-Translocation', 'I-Voyage')	('I-Voyage', 'I-Translocation', 'I-Translocation', 'I-Voyage')	I-Translocation	M	T			
+598	houden	('I-Voyage', 'I-Translocation', 'I-Translocation', 'I-Voyage')	('I-Voyage', 'I-Translocation', 'I-Translocation', 'I-Voyage')	I-Translocation	M	T			
+599	,	('O', 'O', 'O', 'O')	O	O					
+600	na	('O', 'O', 'O', 'O')	O	O					
+601	dat	('O', 'O', 'O', 'O')	O	O					
+602	de	('O', 'O', 'O', 'O')	O	O					
+603	geleegenheid	('O', 'O', 'O', 'O')	O	O					
+604	toelaat	('O', 'O', 'O', 'O')	O	O					
+605	,	('O', 'O', 'O', 'O')	O	O					
+606	tot	('O', 'O', 'O', 'O')	O	O					
+607	een	('O', 'O', 'O', 'O')	O	O					
+608	loots	('O', 'O', 'O', 'O')	O	O					
+609	buiten	('O', 'B-Translocation', 'B-Arriving', 'O')	('O', 'B-Translocation', 'B-Arriving', 'O')	B-Arriving	M				
+610	komt	('B-Arriving', 'I-Translocation', 'I-Arriving', 'B-Arriving')	('B-Arriving', 'I-Translocation', 'I-Arriving', 'B-Arriving')	I-Arriving	AM				
+611	om	('O', 'O', 'O', 'O')	O	O					
+612	hen	('O', 'O', 'O', 'O')	O	O					
+613	binnen	('O', 'O', 'B-Arriving', 'O')	O	O	A				
+614	de	('O', 'O', 'I-Arriving', 'O')	O	O	A				
+615	haven	('O', 'O', 'I-Arriving', 'O')	O	O	A				
+616	te	('O', 'O', 'I-Arriving', 'B-Translocation')	('O', 'O', 'I-Arriving', 'B-Translocation')	O	A				
+617	brengen	('B-Translocation', 'B-Translocation', 'I-Arriving', 'I-Translocation')	('B-Translocation', 'B-Translocation', 'I-Arriving', 'I-Translocation')	B-Translocation	AM				
+618	;	('O', 'O', 'O', 'O')	O	O					
+619	en	('O', 'O', 'O', 'O')	O	O					
+620	dat	('O', 'O', 'O', 'O')	O	O					
+621	,	('O', 'O', 'O', 'O')	O	O					
+622	indier	('O', 'O', 'O', 'O')	O	O					
+623	zij	('O', 'O', 'O', 'O')	O	O					
+624	tegen	('O', 'O', 'O', 'O')	O	O					
+625	alle	('O', 'O', 'O', 'O')	O	O					
+626	hunne	('O', 'O', 'O', 'O')	O	O					
+627	gebruikte	('O', 'O', 'O', 'O')	O	O					
+628	Voorzorgen	('O', 'O', 'O', 'O')	O	O					
+629	beneden	('O', 'O', 'O', 'O')	O	O					
+630	de	('O', 'O', 'O', 'O')	O	O					
+631	baai	('O', 'O', 'O', 'O')	O	O					
+632	van	('O', 'O', 'O', 'O')	O	O					
+633	Gale	('O', 'O', 'O', 'O')	O	O					
+634	mogten	('B-BeingAtAPlace', 'O', 'O', 'B-Arriving')	('B-BeingAtAPlace', 'O', 'O', 'B-Arriving')	O	M				
+635	Vervallen	('I-BeingAtAPlace', 'B-Translocation', 'B-Arriving', 'I-Arriving')	('I-BeingAtAPlace', 'B-Translocation', 'B-Arriving', 'I-Arriving')	B-Translocation	M	T			
+636	,	('O', 'O', 'O', 'O')	O	O					
+637	zij	('O', 'O', 'O', 'O')	O	O					
+638	het	('O', 'O', 'O', 'O')	O	O					
+639	onder	('O', 'O', 'O', 'O')	O	O					
+640	de	('O', 'O', 'O', 'O')	O	O					
+641	Wal	('O', 'O', 'O', 'O')	O	O					
+642	het	('O', 'O', 'O', 'O')	O	O					
+643	zij	('O', 'O', 'O', 'O')	O	O					
+644	Voor	('O', 'O', 'O', 'O')	O	O					
+645	Gale	('O', 'O', 'O', 'O')	O	O					
+646	of	('O', 'O', 'O', 'O')	O	O					
+647	Mature	('O', 'O', 'O', 'O')	O	O					
+648	moeten	('B-BeingAtAPlace', 'O', 'O', 'O')	O	O	A				
+649	tragten	('I-BeingAtAPlace', 'O', 'B-BeingAtAPlace', 'B-BeingAtAPlace')	('I-BeingAtAPlace', 'O', 'B-BeingAtAPlace', 'B-BeingAtAPlace')	B-BeingAtAPlace	AM				
+650	te	('I-BeingAtAPlace', 'O', 'I-BeingAtAPlace', 'I-BeingAtAPlace')	I-BeingAtAPlace	I-BeingAtAPlace	A				
+651	houden	('I-BeingAtAPlace', 'B-BeingAtAPlace', 'I-BeingAtAPlace', 'I-BeingAtAPlace')	I-BeingAtAPlace	I-BeingAtAPlace	A				
+652	,	('O', 'O', 'O', 'O')	O	O					
+653	en	('O', 'O', 'O', 'O')	O	O					
+654	sein	('O', 'O', 'B-SocialInteraction', 'O')	O	B-Communication	M			Communication not part of scheme yet	
+655	doen	('O', 'O', 'I-SocialInteraction', 'O')	O	I-Communication	M			Communication not part of scheme yet	
+656	,	('O', 'O', 'O', 'O')	O	O					
+657	Wanneer	('O', 'O', 'O', 'O')	O	O					
+658	hen	('O', 'O', 'O', 'O')	O	O					
+659	ten	('O', 'O', 'O', 'O')	O	O					
+660	eersten	('O', 'O', 'O', 'O')	O	O					
+661	een	('O', 'O', 'O', 'O')	O	O					
+662	loots	('O', 'O', 'O', 'O')	O	O					
+663	zal	('O', 'O', 'O', 'B-Translocation')	O	O	A				
+664	worden	('O', 'O', 'O', 'I-Translocation')	O	O	A				
+665	toegezonden	('B-Translocation', 'B-Translocation', 'B-Translocation', 'I-Translocation')	B-Translocation	B-Translocation	A				
+666	,	('O', 'O', 'O', 'O')	O	O					
+667	om	('O', 'O', 'O', 'O')	O	O					
+668	hen	('O', 'O', 'O', 'O')	O	O					
+669	in	('O', 'O', 'O', 'O')	O	O					
+670	de	('O', 'O', 'O', 'O')	O	O					
+671	baai	('O', 'O', 'O', 'O')	O	O					
+672	Van	('O', 'O', 'O', 'O')	O	O					
+673	Nilewelle	('O', 'O', 'O', 'O')	O	O					
+674	te	('B-Voyage', 'O', 'B-Arriving', 'B-Translocation')	('B-Voyage', 'O', 'B-Arriving', 'B-Translocation')	B-Translocation	M				
+675	brengen	('I-Voyage', 'B-Translocation', 'I-Arriving', 'I-Translocation')	('I-Voyage', 'B-Translocation', 'I-Arriving', 'I-Translocation')	I-Translocation	M	T			
+676	,	('O', 'O', 'O', 'O')	O	O					
+677	alwaar	('O', 'O', 'O', 'O')	O	O					
+678	een	('O', 'O', 'O', 'O')	O	O					
+679	schip	('O', 'O', 'O', 'O')	O	O					
+680	Voor	('O', 'O', 'O', 'O')	O	O					
+681	de	('O', 'O', 'O', 'O')	O	O					
+682	Zuide	('O', 'O', 'O', 'O')	O	O					
+683	Winden	('O', 'O', 'O', 'O')	O	O					
+684	Veilig	('O', 'O', 'O', 'O')	O	O					
+685	leggen	('B-BeingAtAPlace', 'B-BeingAtAPlace', 'B-BeingAtAPlace', 'B-BeingAtAPlace')	B-BeingAtAPlace	B-BeingAtAPlace	A				
+686	kan	('O', 'O', 'I-BeingAtAPlace', 'I-BeingAtAPlace')	('O', 'O', 'I-BeingAtAPlace', 'I-BeingAtAPlace')	O	M				
+687	,	('O', 'O', 'O', 'O')	O	O					
+688	en	('O', 'O', 'O', 'O')	O	O					
+689	de	('O', 'O', 'O', 'O')	O	O					
+690	eerste	('O', 'O', 'O', 'O')	O	O					
+691	Verandering	('O', 'B-InternalChange', 'O', 'O')	O	O	A				
+692	van	('O', 'O', 'O', 'O')	O	O					
+693	Wind	('O', 'O', 'O', 'O')	O	O					
+694	en	('O', 'O', 'O', 'O')	O	O					
+695	Stroon	('O', 'O', 'O', 'O')	O	O					
+696	Kan	('O', 'O', 'O', 'O')	O	O					
+697	Waarneemen	('O', 'O', 'O', 'O')	O	O					
+698	om	('O', 'O', 'O', 'O')	O	O					
+699	na	('O', 'O', 'O', 'O')	O	O					
+700	Gale	('O', 'O', 'O', 'O')	O	O					
+701	te	('O', 'O', 'B-Translocation', 'B-Voyage')	('O', 'O', 'B-Translocation', 'B-Voyage')	B-Translocation	M				
+702	Zeilen	('B-Voyage', 'B-Translocation', 'I-Translocation', 'I-Voyage')	('B-Voyage', 'B-Translocation', 'I-Translocation', 'I-Voyage')	I-Translocation	M	T			
+703	.	('O', 'O', 'O', 'O')	O	O					
+704	Bij	('O', 'O', 'O', 'O')	O	O					
+705	onzen	('O', 'O', 'O', 'O')	O	O					
+706	eerbiedigen	('O', 'O', 'O', 'O')	O	O					
+707	van	('O', 'O', 'O', 'O')	O	O					
+708	den	('O', 'O', 'O', 'O')	O	O					
+709	12:e	('O', 'O', 'O', 'O')	O	O					
+710	februari	('O', 'O', 'O', 'O')	O	O					
+711	hebben	('O', 'O', 'O', 'O')	O	O					
+712	wij	('O', 'O', 'O', 'O')	O	O					
+713	de	('O', 'O', 'O', 'O')	O	O					
+714	eer	('O', 'O', 'O', 'O')	O	O					
+715	gehad	('O', 'O', 'O', 'O')	O	O					
+716	Uwe	('O', 'O', 'O', 'O')	O	O					
+717	Hoog	('O', 'O', 'O', 'O')	O	O					
+718	Edelheeden	('O', 'O', 'O', 'O')	O	O					
+719	te	('O', 'O', 'B-SocialInteraction', 'B-SocialInteraction')	('O', 'O', 'B-SocialInteraction', 'B-SocialInteraction')	B-Communication	M				
+720	bedeelen	('O', 'B-SocialInteraction', 'I-SocialInteraction', 'I-SocialInteraction')	('O', 'B-SocialInteraction', 'I-SocialInteraction', 'I-SocialInteraction')	I-Communication	M				
+721	,	('O', 'O', 'O', 'O')	O	O					
+722	de	('O', 'O', 'O', 'B-HavingInternalState-')	O	O	A				
+723	verslagenheid	('O', 'O', 'B-HavingInternalState-', 'I-HavingInternalState-')	('O', 'O', 'B-HavingInternalState-', 'I-HavingInternalState-')	B-HavingInternalState-	M				
+724	van	('O', 'O', 'O', 'O')	O	O					
+725	het	('O', 'O', 'O', 'O')	O	O					
+726	Randiasche	('O', 'O', 'O', 'O')	O	O					
+727	Hof	('O', 'O', 'O', 'O')	O	O					
+728	over	('O', 'O', 'O', 'O')	O	O					
+729	den	('O', 'O', 'O', 'B-HavingInternalState+')	O	O	A				
+730	voorspoed	('O', 'B-HavingInternalState+', 'B-BeingInConflict', 'I-HavingInternalState+')	('O', 'B-HavingInternalState+', 'B-BeingInConflict', 'I-HavingInternalState+')	B-HavingInternalState+	M				
+731	van	('O', 'O', 'I-BeingInConflict', 'O')	O	O	A				
+732	de	('O', 'O', 'I-BeingInConflict', 'O')	O	O	A				
+733	Engelsche	('O', 'O', 'I-BeingInConflict', 'O')	O	O	A				
+734	Wapenen	('B-ViolentContest', 'O', 'I-BeingInConflict', 'O')	('B-ViolentContest', 'O', 'I-BeingInConflict', 'O')	B-BeingInConflict	M				
+735	,	('O', 'O', 'O', 'O')	O	O					
+736	en	('O', 'O', 'O', 'O')	O	O					
+737	dat	('O', 'O', 'O', 'O')	O	O					
+738	het	('O', 'O', 'O', 'O')	O	O					
+739	zelve	('O', 'O', 'O', 'O')	O	O					
+740	ons	('O', 'O', 'O', 'B-SocialInteraction')	O	O	A				
+741	kennis	('O', 'B-SocialInteraction', 'B-SocialInteraction', 'I-SocialInteraction')	('O', 'B-SocialInteraction', 'B-SocialInteraction', 'I-SocialInteraction')	B-SocialInteraction	A				
+742	had	('O', 'I-SocialInteraction', 'I-SocialInteraction', 'I-SocialInteraction')	I-SocialInteraction	I-SocialInteraction	A				
+743	gegeeven	('O', 'I-SocialInteraction', 'I-SocialInteraction', 'I-SocialInteraction')	I-SocialInteraction	I-SocialInteraction	A				
+744	van	('O', 'O', 'O', 'O')	O	O					
+745	een	('O', 'O', 'O', 'O')	O	O					
+746	gezantschap	('B-Visit', 'B-Visit', 'B-Visit', 'B-Visit')	B-Visit	B-Visit	A				
+747	van	('O', 'O', 'O', 'O')	O	O					
+748	den	('O', 'O', 'O', 'O')	O	O					
+749	Engelschen	('O', 'O', 'O', 'O')	O	O					
+750	,	('O', 'O', 'O', 'O')	O	O					
+751	t	('O', 'O', 'O', 'O')	O	O					
+752	Welk	('O', 'O', 'O', 'O')	O	O					
+753	zoude	('O', 'O', 'O', 'O')	O	O					
+754	moeten	('O', 'O', 'O', 'O')	O	O					
+755	aangenomen	('O', 'O', 'O', 'O')	O	O					
+756	Worden	('O', 'O', 'O', 'O')	O	O					
+757	om	('O', 'O', 'O', 'O')	O	O					
+758	hen	('O', 'O', 'O', 'O')	O	O					
+759	niet	('O', 'O', 'O', 'O')	O	O					
+760	te	('O', 'O', 'O', 'B-HavingInternalState-')	O	O	A				
+761	Verstooren	('B-RelationshipChange', 'B-SocialInteraction', 'O', 'I-HavingInternalState-')	('B-RelationshipChange', 'B-SocialInteraction', 'O', 'I-HavingInternalState-')	B-RelationshipChange	M			om hen niet te verstoren': in order not to anger the English, the legation sent by them had to be welcomed. Consulted one annotator.	
+762	maar	('O', 'O', 'O', 'O')	O	O					
+763	de	('O', 'O', 'O', 'B-Arriving')	O	O	A				
+764	aankomst	('B-Arriving', 'B-Arriving', 'B-Arriving', 'I-Arriving')	B-Arriving	B-Arriving	A				
+765	van	('O', 'O', 'O', 'O')	O	O					
+766	een	('O', 'O', 'O', 'O')	O	O					
+767	aanzienelijke	('O', 'O', 'O', 'O')	O	O					
+768	Fransche	('O', 'O', 'O', 'O')	O	O					
+769	Vloot	('O', 'O', 'O', 'O')	O	O					
+770	schijnt	('O', 'O', 'O', 'O')	O	O					
+771	t	('O', 'O', 'O', 'O')	O	O					
+772	Hof	('O', 'O', 'O', 'O')	O	O					
+773	Van	('O', 'O', 'O', 'B-HavingInternalState+')	O	O	A				
+774	zijne	('O', 'O', 'O', 'I-HavingInternalState+')	O	O	A				
+775	ontsteltenis	('O', 'O', 'B-HavingInternalState-', 'I-HavingInternalState+')	('O', 'O', 'B-HavingInternalState-', 'I-HavingInternalState+')	B-HavingInternalState-	M				
+776	weder	('O', 'O', 'O', 'I-HavingInternalState+')	O	O	A				
+777	hersteld	('O', 'B-HavingInternalState+', 'B-HavingInternalState+', 'I-HavingInternalState+')	('O', 'B-HavingInternalState+', 'B-HavingInternalState+', 'I-HavingInternalState+')	B-HavingInternalState+	A				
+778	te	('O', 'O', 'O', 'I-HavingInternalState+')	O	O	A				
+779	hebben	('O', 'O', 'O', 'I-HavingInternalState+')	O	O	A				
+780	,	('O', 'O', 'O', 'O')	O	O					
+781	Want	('O', 'O', 'O', 'O')	O	O					
+782	straks	('O', 'O', 'O', 'O')	O	O					
+783	na	('O', 'O', 'O', 'O')	O	O					
+784	der	('O', 'O', 'O', 'O')	O	O					
+785	ontvangst	('B-Getting', 'B-Getting', 'B-Getting', 'O')	B-Getting	B-Getting	A			ontvangst': the receiving of the information about the arrival of the French fleet. Consulted one annotator.	
+786	van	('O', 'O', 'O', 'O')	O	O					
+787	deeze	('O', 'O', 'O', 'O')	O	O					
+788	gewigtige	('O', 'O', 'O', 'O')	O	O					
+789	tijding	('O', 'O', 'O', 'O')	O	O					
+790	gaf	('O', 'B-SocialInteraction', 'B-SocialInteraction', 'B-SocialInteraction')	B-SocialInteraction	B-SocialInteraction	A				
+791	het	('O', 'O', 'I-SocialInteraction', 'I-SocialInteraction')	('O', 'O', 'I-SocialInteraction', 'I-SocialInteraction')	I-SocialInteraction	M				
+792	zelve	('O', 'O', 'I-SocialInteraction', 'I-SocialInteraction')	('O', 'O', 'I-SocialInteraction', 'I-SocialInteraction')	I-SocialInteraction	M				
+793	ons	('O', 'O', 'I-SocialInteraction', 'I-SocialInteraction')	('O', 'O', 'I-SocialInteraction', 'I-SocialInteraction')	I-SocialInteraction	M				
+794	kennisdat	('O', 'O', 'I-SocialInteraction', 'I-SocialInteraction')	('O', 'O', 'I-SocialInteraction', 'I-SocialInteraction')	I-SocialInteraction	M				
+795	zij	('O', 'O', 'O', 'O')	O	O					
+796	der	('O', 'O', 'O', 'O')	O	O					
+797	Engelschen	('O', 'O', 'O', 'O')	O	O					
+798	gezant	('O', 'O', 'O', 'O')	O	O					
+799	na	('O', 'O', 'O', 'O')	O	O					
+800	dat	('O', 'O', 'O', 'O')	O	O					
+801	hij	('O', 'O', 'O', 'O')	O	O					
+802	twintig	('O', 'O', 'O', 'O')	O	O					
+803	dagen	('O', 'O', 'O', 'O')	O	O					
+804	Was	('O', 'O', 'O', 'O')	O	O					
+805	opgehouden	('B-BeingAtAPlace', 'B-BeingAtAPlace', 'B-BeingAtAPlace', 'B-BeingAtAPlace')	B-BeingAtAPlace	B-BeingAtAPlace	A				
+806	,	('O', 'O', 'B-ForceToAct', 'O')	O	O	A				
+807	\n	\n	\n	\n	\n	\n	\n		
+808	nu	('O', 'O', 'O', 'O')	O	O					
+809	hadden	('O', 'O', 'O', 'B-SocialInteraction')	O	O	A				
+810	Verwittigd	('O', 'B-SocialInteraction', 'B-SocialInteraction', 'I-SocialInteraction')	('O', 'B-SocialInteraction', 'B-SocialInteraction', 'I-SocialInteraction')	B-SocialInteraction	AM				
+811	dat	('O', 'O', 'O', 'O')	O	O					
+812	hij	('O', 'O', 'O', 'O')	O	O					
+813	moeste	('B-ForceToAct', 'O', 'B-ForceToAct', 'B-ForceToAct')	B-ForceToAct	B-ForceToAct	A				
+814	Vertrekken	('B-Leaving', 'B-Leaving', 'I-ForceToAct', 'I-ForceToAct')	('B-Leaving', 'B-Leaving', 'I-ForceToAct', 'I-ForceToAct')	B-Leaving	M				
+815	,	('O', 'O', 'B-Leaving', 'O')	O	O	A				
+816	maar	('O', 'O', 'O', 'O')	O	O					
+817	dat	('O', 'O', 'O', 'O')	O	O					
+818	hij	('O', 'O', 'O', 'O')	O	O					
+819	geantwoord	('O', 'B-SocialInteraction', 'B-SocialInteraction', 'B-SocialInteraction')	B-SocialInteraction	B-Communication	M			Communication not part of scheme yet. Automatic in the sense all annotators agreed. Manual in the sense that I changed it to a more specific event that was not part of the scheme yet in this annotation round	
+820	had	('O', 'O', 'O', 'I-SocialInteraction')	O	O	A				
+821	,	('O', 'O', 'O', 'O')	O	O					
+822	dat	('O', 'O', 'O', 'O')	O	O					
+823	,	('O', 'O', 'O', 'O')	O	O					
+824	Wijl	('O', 'O', 'O', 'O')	O	O					
+825	hij	('O', 'O', 'O', 'O')	O	O					
+826	door	('O', 'O', 'O', 'O')	O	O					
+827	den	('O', 'O', 'O', 'O')	O	O					
+828	heer	('O', 'O', 'O', 'O')	O	O					
+829	Gouverneur	('O', 'O', 'O', 'O')	O	O					
+830	Van	('O', 'O', 'O', 'O')	O	O					
+831	Madras	('O', 'O', 'O', 'O')	O	O					
+832	en	('O', 'O', 'O', 'O')	O	O					
+833	den	('O', 'O', 'O', 'O')	O	O					
+834	Nabab	('O', 'O', 'O', 'O')	O	O					
+835	gezonden	('B-Visit', 'B-BeingEmployed', 'B-Translocation', 'B-Transportation')	('B-Visit', 'B-BeingEmployed', 'B-Translocation', 'B-Transportation')	B-BeingEmployed	M			Overleg met Kay: gaat over het feit dat de engelse gezant onder bevel staat van Gouverneurs; MAAR met translocation kan je annoteren door wie gezonden!	
+836	Was	('O', 'O', 'O', 'I-Transportation')	O	O	A				
+837	,	('O', 'O', 'O', 'O')	O	O					
+838	hij	('O', 'O', 'O', 'O')	O	O					
+839	niet	('O', 'O', 'O', 'O')	O	O					
+840	konde	('O', 'O', 'O', 'O')	O	O					
+841	vertrekken	('B-Leaving', 'B-Leaving', 'B-Leaving', 'B-Leaving')	B-Leaving	B-Leaving	A				
+842	zonder	('O', 'O', 'O', 'O')	O	O					
+843	aan	('O', 'O', 'O', 'O')	O	O					
+844	t	('O', 'O', 'O', 'O')	O	O					
+845	Hof	('O', 'O', 'O', 'O')	O	O					
+846	te	('O', 'O', 'O', 'B-Visit')	O	O	AM				
+847	komen	('B-Arriving', 'B-Visit', 'B-Visit', 'I-Visit')	('B-Arriving', 'B-Visit', 'B-Visit', 'I-Visit')	B-Visit	AM				
+848	,	('O', 'O', 'O', 'O')	O	O					
+849	al	('O', 'O', 'O', 'O')	O	O					
+850	zoude	('O', 'O', 'O', 'O')	O	O					
+851	hij	('O', 'O', 'O', 'O')	O	O					
+852	ook	('O', 'O', 'O', 'O')	O	O					
+853	gedood	('B-Killing', 'B-Killing', 'B-Killing', 'B-Killing')	B-Killing	B-Killing	A				
+854	Worden	('I-Killing', 'O', 'I-Killing', 'I-Killing')	I-Killing	I-Killing	A				
+855	en	('O', 'O', 'O', 'O')	O	O					
+856	dat	('O', 'O', 'O', 'O')	O	O					
+857	wijl	('O', 'O', 'O', 'O')	O	O					
+858	t	('O', 'O', 'O', 'O')	O	O					
+859	Verblijf	('B-BeingAtAPlace', 'B-BeingAtAPlace', 'B-BeingAtAPlace', 'B-BeingAtAPlace')	B-BeingAtAPlace	B-BeingAtAPlace	A				
+860	van	('O', 'O', 'O', 'O')	O	O					
+861	zulke	('O', 'O', 'O', 'O')	O	O					
+862	wenscher	('O', 'O', 'O', 'O')	O	O					
+863	in	('O', 'O', 'O', 'O')	O	O					
+864	t	('O', 'O', 'O', 'O')	O	O					
+865	land	('O', 'O', 'O', 'O')	O	O					
+866	schadelijk	('B-Damaging', 'O', 'O', 'O')	O	O	A				
+867	was	('O', 'O', 'O', 'O')	O	O					
+868	,	('O', 'O', 'O', 'O')	O	O					
+869	t	('O', 'O', 'O', 'O')	O	O					
+870	Hofbeslooten	('O', 'O', 'O', 'O')	O	O					
+871	had	('O', 'O', 'O', 'O')	O	O					
+872	den	('O', 'O', 'O', 'O')	O	O					
+873	Engelschen	('O', 'O', 'O', 'O')	O	O					
+874	gezant	('O', 'O', 'O', 'O')	O	O					
+875	te	('O', 'O', 'O', 'B-SocialInteraction')	O	O	A				
+876	ontvangen	('B-Visit', 'B-Visit', 'B-Visit', 'I-SocialInteraction')	B-Visit	B-Visit	A				
+877	en	('O', 'O', 'O', 'O')	O	O					
+878	te	('O', 'O', 'O', 'B-SocialInteraction')	O	O	A				
+879	hooren	('B-Visit', 'O', 'B-SocialInteraction', 'I-SocialInteraction')	('B-Visit', 'O', 'B-SocialInteraction', 'I-SocialInteraction')	B-SocialInteraction	M				
+880	,	('O', 'O', 'O', 'O')	O	O					
+881	met	('O', 'O', 'O', 'O')	O	O					
+882	bijvoeging	('O', 'O', 'O', 'O')	O	O					
+883	,	('O', 'O', 'O', 'O')	O	O					
+884	dat	('O', 'O', 'O', 'O')	O	O					
+885	ons	('O', 'O', 'O', 'O')	O	O					
+886	t	('O', 'O', 'O', 'O')	O	O					
+887	Verhandelde	('O', 'O', 'B-SocialInteraction', 'O')	O	O	A				
+888	zoude	('O', 'O', 'O', 'B-SocialInteraction')	O	O	A				
+889	bedeele	('B-Giving', 'B-SocialInteraction', 'B-SocialInteraction', 'I-SocialInteraction')	('B-Giving', 'B-SocialInteraction', 'B-SocialInteraction', 'I-SocialInteraction')	B-Communication	M			Automatic in the sense that the majority of annotators agreed on the event type. Manual in the sense that I changed it to a more specific event that was not part of the scheme yet in this annotation round	
+890	Worden	('I-Giving', 'O', 'O', 'I-SocialInteraction')	('I-Giving', 'O', 'O', 'I-SocialInteraction')	O	A				
+891	.	('O', 'O', 'O', 'O')	O	O					
+892	Dit	('O', 'O', 'O', 'O')	O	O					
+893	heeft	('O', 'O', 'O', 'O')	O	O					
+894	t	('O', 'O', 'O', 'O')	O	O					
+895	Hof	('O', 'O', 'O', 'O')	O	O					
+896	wij	('O', 'O', 'O', 'O')	O	O					
+897	omstandig	('O', 'O', 'O', 'O')	O	O					
+898	gedaan	('O', 'B-SocialInteraction', 'B-SocialInteraction', 'O')	('O', 'B-SocialInteraction', 'B-SocialInteraction', 'O')	O	M				
+899	bij	('O', 'O', 'I-SocialInteraction', 'O')	O	O	A				
+900	twee	('O', 'O', 'I-SocialInteraction', 'O')	O	O	A				
+901	brieven	('O', 'O', 'I-SocialInteraction', 'O')	O	O	A				
+902	,	('O', 'O', 'O', 'O')	O	O					
+903	die	('O', 'O', 'O', 'O')	O	O					
+904	met	('O', 'O', 'O', 'O')	O	O					
+905	de	('O', 'O', 'O', 'O')	O	O					
+906	daar	('O', 'O', 'O', 'O')	O	O					
+907	op	('O', 'O', 'O', 'O')	O	O					
+908	gepaste	('O', 'O', 'O', 'O')	O	O					
+909	antwoorden	('O', 'O', 'O', 'O')	O	O					
+910	onder	('O', 'O', 'O', 'O')	O	O					
+911	de	('O', 'O', 'O', 'O')	O	O					
+912	bijlaagen	('O', 'O', 'O', 'O')	O	O					
+913	overgaan	('B-Transportation', 'B-Translocation', 'B-Transportation', 'B-Translocation')	('B-Transportation', 'B-Translocation', 'B-Transportation', 'B-Translocation')	B-Translocation	A				
+914	.	('O', 'O', 'O', 'O')	O	O					
+915	Hier	('O', 'O', 'O', 'O')	O	O					
+916	uit	('O', 'O', 'O', 'O')	O	O					
+917	blijkt	('O', 'O', 'O', 'O')	O	O					
+918	,	('O', 'O', 'O', 'O')	O	O					
+919	dat	('O', 'O', 'O', 'O')	O	O					
+920	t	('O', 'O', 'O', 'O')	O	O					
+921	Hlof	('O', 'O', 'O', 'O')	O	O					
+922	bij	('O', 'O', 'O', 'O')	O	O					
+923	zijne	('O', 'O', 'O', 'O')	O	O					
+924	gevoelens	('B-Collaboration', 'O', 'O', 'O')	O	O	A				
+925	tot	('I-Collaboration', 'O', 'O', 'O')	O	O	A				
+926	aankleeving	('I-Collaboration', 'B-Collaboration', 'O', 'O')	('I-Collaboration', 'B-Collaboration', 'O', 'O')	B-Collaboration	M				
+927	aan	('O', 'O', 'O', 'O')	O	O					
+928	onze	('O', 'O', 'O', 'O')	O	O					
+929	belangen	('O', 'O', 'O', 'O')	O	O					
+930	onveranderlijk	('O', 'O', 'O', 'O')	O	O					
+931	blijft	('O', 'O', 'O', 'O')	O	O					
+932	volharden	('O', 'O', 'O', 'O')	O	O					
+933	,	('O', 'O', 'O', 'O')	O	O					
+934	t	('O', 'O', 'O', 'O')	O	O					
+935	Welk	('O', 'O', 'O', 'O')	O	O					
+936	ons	('O', 'O', 'O', 'O')	O	O					
+937	tot	('O', 'O', 'O', 'B-HavingInternalState+')	O	O	A				
+938	groote	('O', 'O', 'O', 'I-HavingInternalState+')	O	O	A				
+939	gerustheid	('O', 'O', 'O', 'I-HavingInternalState+')	O	O	A				
+940	strekt	('O', 'O', 'O', 'I-HavingInternalState+')	O	O	A				
+941	in	('O', 'O', 'O', 'O')	O	O					
+942	de	('O', 'O', 'O', 'O')	O	O					
+943	presente	('O', 'O', 'O', 'O')	O	O					
+944	Kritike	('O', 'O', 'O', 'O')	O	O					
+945	tijdsgesteldheid	('O', 'O', 'O', 'O')	O	O					
+946	,	('O', 'O', 'O', 'O')	O	O					
+947	maar	('O', 'O', 'O', 'O')	O	O					
+948	het	('O', 'O', 'O', 'O')	O	O					
+949	is	('O', 'O', 'O', 'O')	O	O					
+950	echter	('O', 'O', 'O', 'O')	O	O					
+951	niet	('O', 'O', 'O', 'O')	O	O					
+952	te	('O', 'O', 'O', 'O')	O	O					
+953	twijffelen	('O', 'O', 'O', 'O')	O	O					
+954	of	('O', 'O', 'O', 'O')	O	O					
+955	t	('O', 'O', 'O', 'O')	O	O					
+956	Hof	('O', 'O', 'O', 'O')	O	O					
+957	zal	('O', 'O', 'O', 'O')	O	O					
+958	door	('O', 'O', 'O', 'O')	O	O					
+959	de	('O', 'O', 'O', 'O')	O	O					
+960	opruijingen	('B-AlteringARelationship', 'B-StartingConflict', 'B-Unrest', 'B-Uprising')	('B-AlteringARelationship', 'B-StartingConflict', 'B-Unrest', 'B-Uprising')	B-StartingConflict	M				
+961	van	('O', 'O', 'O', 'O')	O	O					
+962	de	('O', 'O', 'O', 'O')	O	O					
+963	Engelschen	('O', 'O', 'O', 'O')	O	O					
+964	zich	('O', 'O', 'O', 'B-HavingInternalState+')	O	O	A				
+965	gesterkt	('O', 'O', 'O', 'I-HavingInternalState+')	O	O	A				
+966	Vinder	('O', 'O', 'O', 'I-HavingInternalState+')	O	O	A				
+967	,	('O', 'O', 'O', 'O')	O	O					
+968	om	('O', 'O', 'O', 'O')	O	O					
+969	zijne	('O', 'O', 'O', 'O')	O	O					
+970	vorige	('O', 'O', 'O', 'O')	O	O					
+971	eischen	('B-Request', 'B-Request', 'B-Request', 'B-Request')	B-Request	B-Request	A				
+972	tot	('O', 'O', 'O', 'O')	O	O					
+973	terugge	('O', 'O', 'B-Getting', 'B-ChangeOfPossession')	('O', 'O', 'B-Getting', 'B-ChangeOfPossession')	B-ChangeOfPossession	M				
+974	erlanging	('B-Getting', 'O', 'I-Getting', 'I-ChangeOfPossession')	('B-Getting', 'O', 'I-Getting', 'I-ChangeOfPossession')	I-ChangeOfPossession	M	T			
+975	van	('O', 'O', 'O', 'O')	O	O					
+976	de	('O', 'O', 'O', 'O')	O	O					
+977	bevorens	('O', 'O', 'B-LosingPossession', 'O')	O	O	A				
+978	bezetene	('B-Occupation', 'B-Occupation', 'I-LosingPossession', 'B-HavingInPossession')	('B-Occupation', 'B-Occupation', 'I-LosingPossession', 'B-HavingInPossession')	B-Occupation	M				
+979	stranden	('O', 'O', 'I-LosingPossession', 'O')	O	O	A				
+980	en	('O', 'O', 'B-Occupation', 'O')	O	O	A				
+981	tot	('O', 'O', 'O', 'O')	O	O					
+982	herstelling	('O', 'B-Repairing', 'B-HavingInternalState+', 'B-HavingInternalState+')	('O', 'B-Repairing', 'B-HavingInternalState+', 'B-HavingInternalState+')	B-HavingInternalState+	M	S			
+983	van	('O', 'O', 'O', 'O')	O	O					
+984	het	('O', 'O', 'O', 'O')	O	O					
+985	oude	('O', 'O', 'O', 'O')	O	O					
+986	afgeschafte	('O', 'O', 'O', 'O')	O	O					
+987	Ceremonieel	('O', 'O', 'O', 'O')	O	O					
+988	,	('O', 'O', 'O', 'O')	O	O					
+989	bij	('O', 'O', 'O', 'O')	O	O					
+990	deeze	('O', 'O', 'O', 'O')	O	O					
+991	geleegenheid	('O', 'O', 'O', 'O')	O	O					
+992	met	('O', 'O', 'B-ForceToAct', 'O')	O	O	A				
+993	meerder	('O', 'O', 'I-ForceToAct', 'O')	O	O	A				
+994	nadruk	('O', 'O', 'I-ForceToAct', 'O')	O	O	A				
+995	door	('O', 'O', 'I-ForceToAct', 'O')	O	O	A				
+996	te	('O', 'O', 'I-ForceToAct', 'O')	O	O	A				
+997	zetten	('O', 'O', 'I-ForceToAct', 'O')	O	O	A				
+998	en	('O', 'O', 'O', 'O')	O	O					
+999	zulx	('O', 'O', 'O', 'O')	O	O					
+1000	te	('O', 'O', 'O', 'O')	O	O					
+1001	meer	('O', 'O', 'O', 'O')	O	O					
+1002	,	('O', 'O', 'O', 'O')	O	O					
+1003	wijl	('O', 'O', 'O', 'O')	O	O					
+1004	de	('O', 'O', 'O', 'O')	O	O					
+1005	Engelsche	('O', 'O', 'O', 'O')	O	O					
+1006	gezant	('O', 'O', 'O', 'O')	O	O					
+1007	,	('O', 'O', 'O', 'O')	O	O					
+1008	zo	('O', 'O', 'O', 'O')	O	O					
+1009	als	('O', 'O', 'O', 'O')	O	O					
+1010	de	('O', 'O', 'O', 'O')	O	O					
+1011	hofsgroten	('O', 'O', 'O', 'O')	O	O					
+1012	met	('O', 'O', 'O', 'O')	O	O					
+1013	veel	('O', 'O', 'O', 'O')	O	O					
+1014	Waarschijnelijkheid	('O', 'O', 'O', 'O')	O	O					
+1015	voorgeeven	('O', 'O', 'O', 'O')	O	O					
+1016	,	('O', 'O', 'O', 'O')	O	O					
+1017	zig	('O', 'O', 'O', 'O')	O	O					
+1018	aan	('O', 'O', 'O', 'O')	O	O					
+1019	het	('O', 'O', 'O', 'O')	O	O					
+1020	afgeschafte	('O', 'O', 'O', 'B-BeingDestroyed')	O	O	A				
+1021	Ceremonieel	('O', 'O', 'O', 'O')	O	O					
+1022	onder	('B-SocialStatusChange', 'B-SocialInteraction', 'B-ForceToAct', 'O')	('B-SocialStatusChange', 'B-SocialInteraction', 'B-ForceToAct', 'O')	B-ForceToAct	M			Engelsen doen mee aan ceremonieel ontvangst van kandiase koning —> niet geheel vrijwillig, wel om te paaien (Nederlanders doen dit NIET)	
+1023	Worpen	('I-SocialStatusChange', 'I-SocialInteraction', 'I-ForceToAct', 'O')	('I-SocialStatusChange', 'I-SocialInteraction', 'I-ForceToAct', 'O')	I-ForceToAct	M				
+1024	,	('O', 'O', 'O', 'O')	O	O					
+1025	en	('O', 'O', 'O', 'O')	O	O					
+1026	ook	('O', 'O', 'O', 'O')	O	O					
+1027	alle	('O', 'O', 'O', 'O')	O	O					
+1028	landen	('O', 'O', 'O', 'O')	O	O					
+1029	aan	('O', 'O', 'O', 'O')	O	O					
+1030	den	('O', 'O', 'O', 'O')	O	O					
+1031	Koning	('O', 'O', 'O', 'O')	O	O					
+1032	aangeboden	('B-Giving', 'B-Giving', 'O', 'B-ChangeOfPossession')	('B-Giving', 'B-Giving', 'O', 'B-ChangeOfPossession')	B-Giving	M				
+1033	heeft	('O', 'O', 'O', 'I-ChangeOfPossession')	O	O	A				
+1034	:	('O', 'O', 'O', 'O')	O	O					
+1035	en	('O', 'O', 'O', 'O')	O	O					
+1036	hoewel	('O', 'O', 'O', 'O')	O	O					
+1037	Wij	('O', 'O', 'O', 'O')	O	O					
+1038	bij	('O', 'O', 'O', 'O')	O	O					
+1039	deeze	('O', 'O', 'O', 'O')	O	O					
+1040	geleegendheid	('O', 'O', 'O', 'O')	O	O					
+1041	in	('O', 'O', 'O', 'O')	O	O					
+1042	het	('O', 'O', 'O', 'O')	O	O					
+1043	stuk	('O', 'O', 'O', 'O')	O	O					
+1044	van	('O', 'O', 'O', 'O')	O	O					
+1045	de	('O', 'O', 'O', 'O')	O	O					
+1046	eerbewijzing	('O', 'B-SocialInteraction', 'O', 'O')	O	O	A				
+1047	aan	('O', 'O', 'O', 'O')	O	O					
+1048	den	('O', 'O', 'O', 'O')	O	O					
+1049	koning	('O', 'O', 'O', 'O')	O	O					
+1050	niet	('O', 'O', 'O', 'O')	O	O					
+1051	minder	('O', 'O', 'O', 'O')	O	O					
+1052	zullen	('O', 'O', 'O', 'O')	O	O					
+1053	hunnen	('O', 'O', 'O', 'O')	O	O					
+1054	doen	('O', 'O', 'O', 'O')	O	O					
+1055	dan	('O', 'O', 'O', 'O')	O	O					
+1056	de	('O', 'O', 'O', 'O')	O	O					
+1057	Engelschen	('O', 'O', 'O', 'O')	O	O					
+1058	,	('O', 'O', 'O', 'O')	O	O					
+1059	is	('O', 'O', 'O', 'O')	O	O					
+1060	echter	('O', 'O', 'O', 'O')	O	O					
+1061	de	('O', 'O', 'O', 'O')	O	O					
+1062	koopman	('O', 'O', 'O', 'O')	O	O					
+1063	Billingdie	('O', 'O', 'O', 'O')	O	O					
+1064	Volgens	('O', 'O', 'O', 'O')	O	O					
+1065	het	('O', 'O', 'O', 'O')	O	O					
+1066	bedeelde	('O', 'O', 'O', 'O')	O	B-Communication	M			Communication not part of scheme yet	
+1067	bij	('O', 'O', 'O', 'O')	O	O					
+1068	§	('O', 'O', 'O', 'O')	O	O					
+1069	5	('O', 'O', 'O', 'O')	O	O					
+1070	.	('O', 'O', 'O', 'O')	O	O					
+1071	Van	('O', 'O', 'O', 'O')	O	O					
+1072	onzer	('O', 'O', 'O', 'O')	O	O					
+1073	heeden	('O', 'O', 'O', 'O')	O	O					
+1074	afgaanden	('B-Leaving', 'B-Translocation', 'B-Transportation', 'B-Leaving')	('B-Leaving', 'B-Translocation', 'B-Transportation', 'B-Leaving')	B-Translocation	M	T			
+1075	gemeenen	('O', 'O', 'O', 'O')	O	O					
+1076	brief	('O', 'O', 'O', 'O')	O	O					
+1077	is	('O', 'O', 'O', 'O')	O	O					
+1078	na	('O', 'O', 'O', 'O')	O	O					
+1079	Randia	('O', 'O', 'O', 'O')	O	O					
+1080	Vertrokken	('B-Leaving', 'B-Leaving', 'B-Leaving', 'B-Leaving')	B-Leaving	B-Leaving	A				
+1081	,	('O', 'O', 'O', 'O')	O	O					
+1082	om	('O', 'O', 'O', 'O')	O	O					
+1083	den	('O', 'O', 'O', 'O')	O	O					
+1084	nieuwen	('O', 'O', 'B-Replacing', 'B-Replacing')	('O', 'O', 'B-Replacing', 'B-Replacing')	B-Replacing	M				
+1085	Koning	('O', 'O', 'I-Replacing', 'O')	O	I-Replacing	A				
+1086	met	('O', 'O', 'O', 'O')	O	O					
+1087	desselfs	('O', 'O', 'O', 'O')	O	O					
+1088	komst	('B-Replacing', 'B-Replacing', 'B-Replacing', 'B-Election')	B-Replacing	B-Replacing	A				
+1089	op	('I-Replacing', 'I-Replacing', 'I-Replacing', 'I-Election')	I-Replacing	I-Replacing	A				
+1090	den	('I-Replacing', 'I-Replacing', 'I-Replacing', 'I-Election')	I-Replacing	I-Replacing	A				
+1091	troon	('I-Replacing', 'I-Replacing', 'I-Replacing', 'I-Election')	I-Replacing	I-Replacing	A				
+1092	te	('O', 'O', 'O', 'B-SocialInteraction')	O	O	A				
+1093	vergeluken	('O', 'B-SocialInteraction', 'O', 'I-SocialInteraction')	('O', 'B-SocialInteraction', 'O', 'I-SocialInteraction')	B-Communication	M				
+1094	,	('O', 'O', 'O', 'O')	O	O					
+1095	geinstrueerd	('O', 'B-BeingEmployed', 'O', 'B-SocialInteraction')	('O', 'B-BeingEmployed', 'O', 'B-SocialInteraction')	B-BeingEmployed	M				
+1096	alle	('O', 'O', 'O', 'O')	O	O					
+1097	middelen	('O', 'O', 'O', 'O')	O	O					
+1098	van	('O', 'O', 'O', 'O')	O	O					
+1099	overreding	('O', 'B-SocialInteraction', 'B-SocialInteraction', 'O')	('O', 'B-SocialInteraction', 'B-SocialInteraction', 'O')	B-Communication	M				
+1100	aan	('O', 'O', 'O', 'O')	O	O					
+1101	te	('O', 'O', 'O', 'O')	O	O					
+1102	Wenden	('O', 'O', 'O', 'O')	O	O					
+1103	,	('O', 'O', 'O', 'O')	O	O					
+1104	om	('O', 'O', 'O', 'O')	O	O					
+1105	de	('O', 'O', 'O', 'O')	O	O					
+1106	zaaken	('O', 'O', 'O', 'O')	O	O					
+1107	op	('O', 'O', 'O', 'O')	O	O					
+1108	den	('O', 'O', 'O', 'O')	O	O					
+1109	ouden	('O', 'O', 'O', 'O')	O	O					
+1110	Voet	('O', 'O', 'O', 'O')	O	O					
+1111	te	('O', 'O', 'O', 'O')	O	O					
+1112	houden	('O', 'O', 'O', 'O')	O	O					
+1113	,	('O', 'O', 'O', 'O')	O	O					
+1114	en	('O', 'O', 'O', 'O')	O	O					
+1115	Voor	('O', 'O', 'O', 'O')	O	O					
+1116	al	('O', 'O', 'O', 'O')	O	O					
+1117	tot	('O', 'O', 'O', 'B-ForceToAct')	O	O	A				
+1118	geen	('O', 'O', 'O', 'I-ForceToAct')	O	O	A				
+1119	meer	('O', 'O', 'O', 'I-ForceToAct')	O	O	A				
+1120	Ceremonien	('O', 'O', 'O', 'I-ForceToAct')	O	O	A				
+1121	Verplicht	('B-ForceToAct', 'B-ForceToAct', 'B-ForceToAct', 'I-ForceToAct')	B-ForceToAct	B-ForceToAct	A				
+1122	te	('O', 'O', 'I-ForceToAct', 'I-ForceToAct')	('O', 'O', 'I-ForceToAct', 'I-ForceToAct')	I-ForceToAct	M				
+1123	worden	('O', 'O', 'I-ForceToAct', 'I-ForceToAct')	('O', 'O', 'I-ForceToAct', 'I-ForceToAct')	I-ForceToAct	M				
+1124	,	('O', 'O', 'O', 'O')	O	O					
+1125	\n	\n	\n	\n	\n	\n	\n		
+1126	dan	('O', 'O', 'O', 'O')	O	O					
+1127	door	('O', 'O', 'O', 'O')	O	O					
+1128	de	('O', 'O', 'O', 'O')	O	O					
+1129	Engelschen	('O', 'O', 'O', 'O')	O	O					
+1130	ingewilligd	('O', 'B-RelationshipChange', 'O', 'B-Giving')	('O', 'B-RelationshipChange', 'O', 'B-Giving')	B-RelationshipChange	M			Was considering collaboration but after consultation with Kay we have decided that it is not an instance of collaboration.	
+1131	is	('O', 'O', 'O', 'O')	O	O					
+1132	.	('O', 'O', 'O', 'O')	O	O					
+1133	Het	('O', 'O', 'O', 'O')	O	O					
+1134	stuk	('O', 'O', 'O', 'O')	O	O					
+1135	van	('O', 'O', 'O', 'O')	O	O					
+1136	de	('O', 'O', 'O', 'O')	O	O					
+1137	Stranden	('O', 'O', 'O', 'O')	O	O					
+1138	is	('O', 'O', 'O', 'O')	O	O					
+1139	echter	('O', 'O', 'O', 'O')	O	O					
+1140	een	('O', 'O', 'O', 'O')	O	O					
+1141	zaak	('O', 'O', 'O', 'O')	O	O					
+1142	van	('O', 'O', 'O', 'O')	O	O					
+1143	veel	('O', 'O', 'O', 'O')	O	O					
+1144	meer	('O', 'O', 'O', 'O')	O	O					
+1145	gewigt	('O', 'O', 'O', 'O')	O	O					
+1146	,	('O', 'O', 'O', 'O')	O	O					
+1147	en	('O', 'O', 'O', 'O')	O	O					
+1148	onze	('O', 'O', 'O', 'O')	O	O					
+1149	gezant	('O', 'O', 'O', 'O')	O	O					
+1150	is	('O', 'O', 'O', 'B-ForceToAct')	O	O	A				
+1151	gelast	('O', 'B-BeingEmployed', 'B-ForceToAct', 'I-ForceToAct')	('O', 'B-BeingEmployed', 'B-ForceToAct', 'I-ForceToAct')	B-ForceToAct	M				
+1152	,	('O', 'O', 'O', 'O')	O	O					
+1153	de	('O', 'O', 'O', 'B-Request')	O	O	A				
+1154	eisschen	('B-Request', 'B-Request', 'O', 'I-Request')	('B-Request', 'B-Request', 'O', 'I-Request')	B-Request	AM				
+1155	daar	('O', 'O', 'O', 'O')	O	O					
+1156	toe	('O', 'O', 'O', 'O')	O	O					
+1157	met	('O', 'O', 'O', 'O')	O	O					
+1158	alle	('O', 'O', 'O', 'O')	O	O					
+1159	omzichtigheid	('O', 'O', 'O', 'O')	O	O					
+1160	te	('O', 'O', 'O', 'O')	O	O					
+1161	ontlegger	('O', 'O', 'O', 'O')	O	O					
+1162	,	('O', 'O', 'O', 'O')	O	O					
+1163	en	('O', 'O', 'O', 'O')	O	O					
+1164	indien	('O', 'O', 'O', 'O')	O	O					
+1165	geen	('O', 'O', 'O', 'O')	O	O					
+1166	en	('O', 'O', 'O', 'O')	O	O					
+1167	kele	('O', 'O', 'O', 'O')	O	O					
+1168	overredingen	('O', 'B-SocialInteraction', 'B-SocialInteraction', 'B-SocialInteraction')	B-SocialInteraction	B-Communication	M			Automatic in the sense all annotators agreed. Manual in the sense that I changed it to a more specific event that was not part of the scheme yet in this annotation round.	
+1169	van	('O', 'O', 'O', 'O')	O	O					
+1170	vrugt	('O', 'O', 'O', 'O')	O	O					
+1171	zijn	('O', 'O', 'O', 'O')	O	O					
+1172	,	('O', 'O', 'O', 'O')	O	O					
+1173	te	('O', 'O', 'O', 'O')	O	O					
+1174	beproeven	('O', 'O', 'O', 'O')	O	O					
+1175	om	('O', 'O', 'O', 'O')	O	O					
+1176	de	('O', 'O', 'O', 'O')	O	O					
+1177	Hofsgrooten	('O', 'O', 'O', 'O')	O	O					
+1178	van	('O', 'O', 'O', 'O')	O	O					
+1179	het	('O', 'O', 'O', 'O')	O	O					
+1180	meeste	('O', 'O', 'O', 'O')	O	O					
+1181	aanzien	('O', 'O', 'O', 'O')	O	O					
+1182	door	('O', 'O', 'O', 'B-Giving')	O	O	A				
+1183	geschenken	('B-Giving', 'B-Giving', 'B-Giving', 'I-Giving')	B-Giving	B-Giving	A				
+1184	en	('O', 'O', 'O', 'O')	O	I-Giving	M				
+1185	beloften	('B-Giving', 'O', 'B-Giving', 'O')	('B-Giving', 'O', 'B-Giving', 'O')	I-Giving	M				
+1186	van	('I-Giving', 'O', 'O', 'O')	O	O					
+1187	meerder	('I-Giving', 'O', 'O', 'O')	O	O					
+1188	daar	('O', 'O', 'O', 'O')	O	O					
+1189	van	('O', 'O', 'O', 'O')	O	O					
+1190	#	('O', 'O', 'O', 'O')	O	O					
+1191	te	('O', 'O', 'O', 'B-ForceToAct')	O	O	A				
+1192	doen	('O', 'O', 'O', 'I-ForceToAct')	O	O	A				
+1193	afzien	('O', 'O', 'O', 'I-ForceToAct')	O	O	A				
+1194	een	('O', 'O', 'O', 'O')	O	O					
+1195	afschrift	('O', 'O', 'O', 'O')	O	O					
+1196	van	('O', 'O', 'O', 'O')	O	O					
+1197	de	('O', 'O', 'O', 'O')	O	O					
+1198	instruksie	('O', 'O', 'O', 'O')	O	B-Communication	M			Communication not part of scheme yet	
+1199	voor	('O', 'O', 'O', 'O')	O	O					
+1200	gemelden	('O', 'O', 'O', 'O')	O	O					
+1201	gezant	('O', 'O', 'O', 'O')	O	O					
+1202	p	('O', 'O', 'O', 'O')	O	O					
+1203	nevens	('O', 'O', 'O', 'O')	O	O					
+1204	een	('O', 'O', 'O', 'O')	O	O					
+1205	kopij	('O', 'O', 'O', 'O')	O	O					
+1206	Van	('O', 'O', 'O', 'O')	O	O					
+1207	den	('O', 'O', 'O', 'O')	O	O					
+1208	brief	('O', 'O', 'O', 'O')	O	O					
+1209	aan	('O', 'O', 'O', 'O')	O	O					
+1210	den	('O', 'O', 'O', 'O')	O	O					
+1211	Koning	('O', 'O', 'O', 'O')	O	O					
+1212	Word	('O', 'O', 'O', 'O')	O	O					
+1213	Uwe	('O', 'O', 'O', 'O')	O	O					
+1214	Hoogedel	('O', 'O', 'O', 'O')	O	O					
+1215	heeden	('O', 'O', 'O', 'O')	O	O					
+1216	onder	('O', 'O', 'O', 'O')	O	O					
+1217	de	('O', 'O', 'O', 'O')	O	O					
+1218	bijlaager	('O', 'O', 'O', 'O')	O	O					
+1219	aangebooden	('B-Giving', 'B-Giving', 'B-Giving', 'B-Giving')	B-Giving	B-Giving	A				
+1220	De	('O', 'O', 'O', 'B-None')	O	O					
+1221	te	('O', 'O', 'O', 'I-None')	O	O					
+1222	Gale	('O', 'O', 'O', 'I-None')	O	O					
+1223	binnen	('B-Arriving', 'B-Arriving', 'B-Arriving', 'I-None')	B-Arriving	B-Arriving	A				
+1224	geloopene	('I-Arriving', 'I-Arriving', 'I-Arriving', 'I-None')	I-Arriving	I-Arriving	A				
+1225	Fransche	('O', 'O', 'O', 'I-None')	O	O	A				
+1226	artillerij	('O', 'O', 'B-BeingLeader', 'I-None')	('O', 'O', 'B-BeingLeader', 'I-None')	O	A				
+1227	-	('O', 'O', 'I-BeingLeader', 'I-None')	('O', 'O', 'I-BeingLeader', 'I-None')	O	A				
+1228	kommandant	('O', 'O', 'I-BeingLeader', 'I-None')	('O', 'O', 'I-BeingLeader', 'I-None')	O	A				
+1229	heeft	('O', 'O', 'O', 'B-Arriving')	O	O					
+1230	Verzoek	('B-Request', 'B-Request', 'B-Request', 'B-Request')	B-Request	B-Request	A				
+1231	gedaan	('O', 'O', 'I-Request', 'I-Request')	('O', 'O', 'I-Request', 'I-Request')	B-Request	A				
+1232	om	('O', 'O', 'O', 'O')	O	O					
+1233	geassisteerd	('B-Giving', 'B-Getting', 'B-Collaboration', 'B-Collaboration')	('B-Giving', 'B-Getting', 'B-Collaboration', 'B-Collaboration')	B-Collaboration	M				
+1234	te	('O', 'O', 'I-Collaboration', 'I-Collaboration')	('O', 'O', 'I-Collaboration', 'I-Collaboration')	I-Collaboration	M				
+1235	Worden	('O', 'O', 'I-Collaboration', 'I-Collaboration')	('O', 'O', 'I-Collaboration', 'I-Collaboration')	I-Collaboration	M				
+1236	met	('O', 'O', 'O', 'O')	O	O					
+1237	geschut	('O', 'O', 'O', 'O')	O	O					
+1238	,	('O', 'O', 'O', 'O')	O	O					
+1239	ammunitie	('O', 'O', 'O', 'O')	O	O					
+1240	goederen	('O', 'O', 'O', 'O')	O	O					
+1241	en	('O', 'O', 'O', 'O')	O	O					
+1242	kruit	('O', 'O', 'O', 'O')	O	O					
+1243	,	('O', 'O', 'O', 'O')	O	O					
+1244	in	('O', 'O', 'O', 'O')	O	O					
+1245	steede	('O', 'O', 'O', 'O')	O	O				In steede van t geen: instead of (ter vervanging van)	
+1246	van	('O', 'O', 'O', 'O')	O	O					
+1247	t	('O', 'O', 'O', 'O')	O	O					
+1248	geen	('O', 'O', 'O', 'O')	O	O					
+1249	zij	('O', 'O', 'O', 'O')	O	O					
+1250	met	('O', 'O', 'O', 'O')	O	O					
+1251	het	('O', 'O', 'O', 'O')	O	O					
+1252	transportschip	('O', 'O', 'O', 'O')	O	O					
+1253	Lauriston	('O', 'O', 'O', 'O')	O	O					
+1254	Verloren	('B-LosingPossession', 'B-LosingPossession', 'B-LosingPossession', 'B-LosingPossession')	B-LosingPossession	B-LosingPossession	A				
+1255	hebben	('O', 'O', 'I-LosingPossession', 'I-LosingPossession')	('O', 'O', 'I-LosingPossession', 'I-LosingPossession')	I-LosingPossession	M				
+1256	onze	('O', 'O', 'O', 'B-HavingInPossession')	O	O	A				
+1257	voorraad	('B-HavingInPossession', 'B-HavingInPossession', 'B-HavingInPossession', 'I-HavingInPossession')	B-HavingInPossession	B-HavingInPossession	A				
+1258	van	('O', 'O', 'O', 'O')	O	O					
+1259	geschut	('O', 'O', 'O', 'O')	O	O					
+1260	en	('O', 'O', 'O', 'O')	O	O					
+1261	Verde	('O', 'O', 'O', 'O')	O	O					
+1262	re	('O', 'O', 'O', 'O')	O	O					
+1263	ammunitie	('O', 'O', 'O', 'O')	O	O					
+1264	goederen	('O', 'O', 'O', 'O')	O	O					
+1265	is	('O', 'O', 'O', 'O')	O	O					
+1266	zo	('O', 'O', 'O', 'O')	O	O					
+1267	klein	('O', 'O', 'O', 'O')	O	O					
+1268	,	('O', 'O', 'O', 'O')	O	O					
+1269	dat	('O', 'O', 'O', 'O')	O	O					
+1270	Wij	('O', 'O', 'O', 'O')	O	O					
+1271	hen	('O', 'O', 'O', 'O')	O	O					
+1272	Weirig	('O', 'O', 'O', 'O')	O	O					
+1273	assistent	('B-Collaboration', 'B-Collaboration', 'B-Collaboration', 'B-Collaboration')	B-Collaboration	B-Collaboration	A				
+1274	sie	('I-Collaboration', 'I-Collaboration', 'I-Collaboration', 'I-Collaboration')	I-Collaboration	I-Collaboration	A				
+1275	zullen	('O', 'O', 'I-Collaboration', 'O')	O	O	A				
+1276	kunnen	('O', 'O', 'I-Collaboration', 'O')	O	O	A				
+1277	bewijzen	('O', 'O', 'I-Collaboration', 'O')	O	O	A				
+1278	maar	('O', 'O', 'O', 'O')	O	O					
+1279	kruit	('O', 'O', 'O', 'O')	O	O					
+1280	hebben	('O', 'O', 'O', 'O')	O	O					
+1281	wij	('O', 'O', 'O', 'O')	O	O					
+1282	Vijftig	('O', 'O', 'O', 'O')	O	O					
+1283	duizend	('O', 'O', 'O', 'O')	O	O					
+1284	ponden	('O', 'O', 'O', 'O')	O	O					
+1285	moeten	('O', 'O', 'B-Giving', 'O')	O	O	A				
+1286	belooven	('B-Giving', 'O', 'I-Giving', 'O')	('B-Giving', 'O', 'I-Giving', 'O')	B-Giving	M				
+1287	,	('O', 'O', 'O', 'O')	O	O					
+1288	schoon	('O', 'O', 'O', 'O')	O	O					
+1289	onze	('O', 'O', 'O', 'B-HavingInPossession')	O	O	A				
+1290	Voorraad	('B-HavingInPossession', 'B-HavingInPossession', 'B-HavingInPossession', 'I-HavingInPossession')	B-HavingInPossession	B-HavingInPossession	A				
+1291	te	('O', 'O', 'O', 'O')	O	O					
+1292	Kolombo	('O', 'O', 'O', 'O')	O	O					
+1293	,	('O', 'O', 'O', 'O')	O	O					
+1294	Gale	('O', 'O', 'O', 'O')	O	O					
+1295	en	('O', 'O', 'O', 'O')	O	O					
+1296	Jaffenapatnam	('O', 'O', 'O', 'O')	O	O					
+1297	niet	('O', 'O', 'O', 'O')	O	O					
+1298	veel	('O', 'O', 'O', 'O')	O	O					
+1299	boven	('O', 'O', 'O', 'O')	O	O					
+1300	de	('O', 'O', 'O', 'O')	O	O					
+1301	vierde	('O', 'O', 'O', 'O')	O	O					
+1302	halfhonderd	('O', 'O', 'O', 'O')	O	O					
+1303	duizend	('O', 'O', 'O', 'O')	O	O					
+1304	is	('O', 'O', 'O', 'O')	O	O					
+1305	beloopen	('O', 'O', 'O', 'O')	O	O					
+1306	zal	('O', 'O', 'O', 'O')	O	O					
+1307	,	('O', 'O', 'O', 'O')	O	O					
+1308	hoe	('O', 'O', 'O', 'O')	O	O					
+1309	veel	('O', 'O', 'O', 'O')	O	O					
+1310	kolombo	('O', 'O', 'O', 'O')	O	O					
+1311	alleen	('O', 'O', 'O', 'O')	O	O					
+1312	behoorde	('O', 'O', 'O', 'O')	O	O					
+1313	in	('B-HavingInPossession', 'O', 'B-HavingInPossession', 'O')	('B-HavingInPossession', 'O', 'B-HavingInPossession', 'O')	B-HavingInPossession	M				
+1314	zijne	('I-HavingInPossession', 'O', 'I-HavingInPossession', 'O')	('I-HavingInPossession', 'O', 'I-HavingInPossession', 'O')	I-HavingInPossession	M				
+1315	magazijnen	('I-HavingInPossession', 'O', 'I-HavingInPossession', 'O')	('I-HavingInPossession', 'O', 'I-HavingInPossession', 'O')	I-HavingInPossession	A				
+1316	te	('I-HavingInPossession', 'O', 'I-HavingInPossession', 'B-HavingInPossession')	('I-HavingInPossession', 'O', 'I-HavingInPossession', 'B-HavingInPossession')	I-HavingInPossession	AM				
+1317	hebben	('I-HavingInPossession', 'B-HavingInPossession', 'I-HavingInPossession', 'I-HavingInPossession')	I-HavingInPossession	I-HavingInPossession	A				
+1318	.	('O', 'O', 'O', 'O')	O	O					
+1319	Onze	('O', 'O', 'O', 'O')	O	O					
+1320	kruitmolens	('O', 'O', 'O', 'O')	O	O					
+1321	zijn	('O', 'B-HavingInternalState-', 'O', 'O')	O	O	A				
+1322	niet	('O', 'I-HavingInternalState-', 'O', 'O')	O	O	A				
+1323	in	('O', 'I-HavingInternalState-', 'O', 'O')	O	O	A				
+1324	staat	('O', 'I-HavingInternalState-', 'O', 'O')	O	O	A				
+1325	een	('O', 'O', 'O', 'O')	O	O					
+1326	toereikende	('O', 'O', 'O', 'O')	O	O					
+1327	quantiteit	('O', 'O', 'O', 'O')	O	O					
+1328	in	('O', 'O', 'B-Getting', 'B-HavingInPossession')	('O', 'O', 'B-Getting', 'B-HavingInPossession')	B-HavingInPossession	M	S			
+1329	Voorraad	('B-HavingInPossession', 'B-HavingInPossession', 'I-Getting', 'I-HavingInPossession')	('B-HavingInPossession', 'B-HavingInPossession', 'I-Getting', 'I-HavingInPossession')	I-HavingInPossession	AM	S			
+1330	te	('O', 'O', 'I-Getting', 'I-HavingInPossession')	('O', 'O', 'I-Getting', 'I-HavingInPossession')	I-HavingInPossession	M	S			
+1331	brengen	('O', 'O', 'I-Getting', 'I-HavingInPossession')	('O', 'O', 'I-Getting', 'I-HavingInPossession')	I-HavingInPossession	M	S			
+1332	,	('O', 'O', 'O', 'O')	O	O					
+1333	door	('O', 'O', 'O', 'O')	O	O					
+1334	gebrek	('O', 'O', 'O', 'B-QuantityChange')	O	O	A				
+1335	aan	('O', 'O', 'O', 'O')	O	O					
+1336	Zwavel	('O', 'O', 'O', 'O')	O	O					
+1337	zoo	('O', 'O', 'O', 'O')	O	O					
+1338	Wel	('O', 'O', 'O', 'O')	O	O					
+1339	als	('O', 'O', 'O', 'O')	O	O					
+1340	door	('O', 'O', 'O', 'O')	O	O					
+1341	de	('O', 'O', 'O', 'O')	O	O					
+1342	gesteldheid	('O', 'O', 'O', 'O')	O	O					
+1343	van	('O', 'O', 'O', 'O')	O	O					
+1344	de	('O', 'O', 'O', 'O')	O	O					
+1345	molens	('O', 'O', 'O', 'O')	O	O					
+1346	zelvendie	('O', 'O', 'O', 'O')	O	O					
+1347	Voor	('O', 'O', 'O', 'O')	O	O					
+1348	geen	('O', 'O', 'O', 'O')	O	O					
+1349	Zwaare	('O', 'O', 'O', 'O')	O	O					
+1350	leverancien	('B-Giving', 'O', 'O', 'B-ChangeOfPossession')	('B-Giving', 'O', 'O', 'B-ChangeOfPossession')	B-ChangeOfPossession	M				
+1351	gemaakt	('O', 'O', 'O', 'O')	O	O					
+1352	zijn	('O', 'O', 'O', 'O')	O	O					
+1353	.	('O', 'O', 'O', 'O')	O	O					
+1354	Wij	('O', 'O', 'O', 'O')	O	O					
+1355	Verzoeken	('B-Request', 'B-Request', 'B-Request', 'B-Request')	B-Request	B-Request	A				
+1356	derhalven	('O', 'O', 'O', 'O')	O	O					
+1357	ootmoedig	('O', 'O', 'O', 'O')	O	O					
+1358	,	('O', 'O', 'O', 'O')	O	O					
+1359	dat	('O', 'O', 'O', 'O')	O	O					
+1360	UWe	('O', 'O', 'O', 'O')	O	O					
+1361	Hoogedelheeden	('O', 'O', 'O', 'O')	O	O					
+1362	ons	('O', 'O', 'O', 'O')	O	O					
+1363	zo	('O', 'O', 'O', 'O')	O	O					
+1364	niet	('O', 'O', 'O', 'O')	O	O					
+1365	5	('O', 'O', 'O', 'O')	O	O					
+1366	.	('O', 'O', 'O', 'O')	O	O					
+1367	p	('O', 'O', 'O', 'O')	O	O					
+1368	meer	('O', 'O', 'O', 'O')	O	O					
+1369	,	('O', 'O', 'O', 'O')	O	O					
+1370	ter	('O', 'O', 'O', 'O')	O	O					
+1371	minsten	('O', 'O', 'O', 'O')	O	O					
+1372	andere	('O', 'O', 'O', 'O')	O	O					
+1373	Vijftig	('O', 'O', 'O', 'O')	O	O					
+1374	duizend	('O', 'O', 'O', 'O')	O	O					
+1375	ponden	('O', 'O', 'O', 'O')	O	O					
+1376	kruit	('O', 'O', 'O', 'O')	O	O					
+1377	gelieven	('O', 'O', 'O', 'O')	O	O					
+1378	toete	('B-Transportation', 'B-Transportation', 'B-Giving', 'B-Transportation')	B-Transportation	B-Transportation	A				
+1379	zenden	('I-Transportation', 'I-Transportation', 'I-Giving', 'I-Transportation')	I-Transportation	I-Transportation	A				
+1380	,	('B-Giving', 'O', 'O', 'O')	O	O	A				
+1381	en	('O', 'O', 'O', 'O')	O	O					
+1382	dat	('O', 'O', 'O', 'O')	O	O					
+1383	indien	('O', 'O', 'O', 'O')	O	O					
+1384	dit	('O', 'O', 'O', 'O')	O	O					
+1385	kruit	('O', 'O', 'O', 'O')	O	O					
+1386	in	('O', 'O', 'O', 'O')	O	O					
+1387	de	('O', 'O', 'O', 'O')	O	O					
+1388	drie	('O', 'O', 'O', 'O')	O	O					
+1389	schepen	('O', 'O', 'O', 'O')	O	O					
+1390	niet	('O', 'O', 'O', 'O')	O	O					
+1391	#	('O', 'O', 'O', 'O')	O	O					
+1392	geheel	('O', 'O', 'O', 'O')	O	O					
+1393	mocht	('O', 'O', 'O', 'O')	O	O					
+1394	hunnen	('O', 'O', 'O', 'O')	O	O					
+1395	geborgen	('B-Transportation', 'B-BeingAtAPlace', 'B-HavingInPossession', 'B-BeingAtAPlace')	('B-Transportation', 'B-BeingAtAPlace', 'B-HavingInPossession', 'B-BeingAtAPlace')	B-BeingAtAPlace	M			Kruit wordt gestuurd in niet verder bepaald (aantal) schip/schepen; daarna wordt het geborgen in de drie schepen al aanwezig als dat past	
+1396	worden	('I-Transportation', 'O', 'I-HavingInPossession', 'I-BeingAtAPlace')	('I-Transportation', 'O', 'I-HavingInPossession', 'I-BeingAtAPlace')	I-BeingAtAPlace	M				
+1397	,	('O', 'O', 'O', 'O')	O	O					
+1398	daar	('B-Transportation', 'O', 'O', 'O')	O	O	A				
+1399	toe	('I-Transportation', 'O', 'O', 'O')	O	O	A				
+1400	worden	('I-Transportation', 'O', 'O', 'O')	O	O	A				
+1401	gebuukt	('I-Transportation', 'O', 'O', 'O')	O	O	A				
+1402	een	('O', 'O', 'O', 'O')	O	O					
+1403	of	('O', 'O', 'O', 'O')	O	O					
+1404	twee	('O', 'O', 'O', 'O')	O	O					
+1405	sloepen	('O', 'O', 'O', 'O')	O	O					
+1406	,	('O', 'O', 'O', 'O')	O	O					
+1407	die	('O', 'O', 'O', 'O')	O	O					
+1408	Wij	('O', 'O', 'O', 'O')	O	O					
+1409	buiten	('O', 'O', 'O', 'O')	O	O					
+1410	des	('O', 'O', 'O', 'O')	O	O					
+1411	zeer	('O', 'O', 'O', 'O')	O	O					
+1412	nodig	('O', 'O', 'O', 'O')	O	O					
+1413	hebben	('O', 'O', 'O', 'O')	O	O					
+1414	.	('O', 'O', 'O', 'O')	O	O					
+1415	\n	\n	\n	\n	\n	\n	\n		
+1416	De	('O', 'O', 'O', 'O')	O	O					
+1417	Franschen	('O', 'O', 'O', 'O')	O	O					
+1418	hebben	('O', 'O', 'O', 'O')	O	O					
+1419	zoo	('O', 'O', 'O', 'O')	O	O					
+1420	men	('O', 'O', 'O', 'O')	O	O					
+1421	hoord	('O', 'O', 'O', 'O')	O	O					
+1422	niet	('O', 'O', 'O', 'O')	O	O					
+1423	veel	('O', 'O', 'O', 'O')	O	O					
+1424	geld	('O', 'O', 'O', 'O')	O	O					
+1425	meede	('B-Transportation', 'B-Transportation', 'B-Transportation', 'B-Transportation')	B-Transportation	B-Transportation	A				
+1426	gebragt	('I-Transportation', 'I-Transportation', 'I-Transportation', 'I-Transportation')	I-Transportation	I-Transportation	A				
+1427	,	('O', 'O', 'O', 'O')	O	O					
+1428	en	('O', 'O', 'O', 'O')	O	O					
+1429	zullen	('O', 'O', 'O', 'O')	O	O					
+1430	dus	('O', 'O', 'O', 'O')	O	O					
+1431	ongetwijffeld	('O', 'O', 'O', 'O')	O	O					
+1432	spoedig	('O', 'O', 'O', 'O')	O	O					
+1433	bij	('O', 'O', 'O', 'O')	O	O					
+1434	ons	('O', 'O', 'O', 'O')	O	O					
+1435	aanzoe	('B-Request', 'B-Request', 'B-Request', 'B-Request')	B-Request	B-Request	A				
+1436	k	('I-Request', 'I-Request', 'I-Request', 'I-Request')	I-Request	I-Request	A				
+1437	er	('O', 'O', 'I-Request', 'I-Request')	('O', 'O', 'I-Request', 'I-Request')	O	M				
+1438	om	('O', 'O', 'O', 'I-Request')	O	O	A				
+1439	doen	('O', 'O', 'O', 'I-Request')	O	O	A				
+1440	,	('O', 'O', 'O', 'O')	O	O					
+1441	en	('O', 'O', 'O', 'O')	O	O					
+1442	wij	('O', 'O', 'O', 'O')	O	O					
+1443	zullen	('O', 'O', 'O', 'O')	O	O					
+1444	het	('O', 'O', 'O', 'O')	O	O					
+1445	hen	('O', 'O', 'O', 'O')	O	O					
+1446	,	('O', 'O', 'O', 'O')	O	O					
+1447	om	('O', 'O', 'O', 'O')	O	O					
+1448	het	('O', 'O', 'O', 'O')	O	O					
+1449	groot	('O', 'O', 'O', 'O')	O	O					
+1450	nut	('O', 'O', 'O', 'O')	O	O					
+1451	,	('O', 'O', 'O', 'O')	O	O					
+1452	t	('O', 'O', 'O', 'O')	O	O					
+1453	geen	('O', 'O', 'O', 'O')	O	O					
+1454	wij	('O', 'O', 'O', 'O')	O	O					
+1455	in	('O', 'O', 'O', 'O')	O	O					
+1456	den	('O', 'O', 'O', 'O')	O	O					
+1457	tegenwoordigen	('O', 'O', 'O', 'O')	O	O					
+1458	tijd	('O', 'O', 'O', 'O')	O	O					
+1459	van	('O', 'O', 'O', 'O')	O	O					
+1460	hun	('O', 'O', 'O', 'O')	O	O					
+1461	verblijf	('B-BeingAtAPlace', 'B-BeingAtAPlace', 'B-BeingAtAPlace', 'B-BeingAtAPlace')	B-BeingAtAPlace	B-BeingAtAPlace	A				
+1462	in	('O', 'O', 'O', 'O')	O	O					
+1463	deeze	('O', 'O', 'O', 'O')	O	O					
+1464	gewesten	('O', 'O', 'O', 'O')	O	O					
+1465	treken	('O', 'O', 'O', 'O')	O	O					
+1466	,	('O', 'O', 'O', 'O')	O	O					
+1467	niet	('O', 'O', 'O', 'O')	O	O					
+1468	kunnen	('O', 'O', 'O', 'O')	O	O					
+1469	Weigeren	('O', 'B-SocialInteraction', 'O', 'O')	O	O	A				
+1470	.	('O', 'O', 'O', 'O')	O	O					
+1471	Wij	('O', 'O', 'O', 'O')	O	O					
+1472	Verzoeken	('B-Request', 'B-Request', 'B-Request', 'B-Request')	B-Request	B-Request	A				
+1473	derhalven	('O', 'O', 'O', 'O')	O	O					
+1474	dat	('O', 'O', 'O', 'O')	O	O					
+1475	onze	('O', 'O', 'O', 'O')	O	O					
+1476	eisch	('B-Request', 'B-Request', 'B-Request', 'B-Request')	B-Request	B-Request	A				
+1477	van	('O', 'O', 'I-Request', 'O')	O	O	A				
+1478	geld	('O', 'O', 'I-Request', 'O')	O	O	A				
+1479	niet	('O', 'O', 'O', 'O')	O	O					
+1480	moge	('O', 'O', 'B-HavingInternalState-', 'O')	O	O					
+1481	verminderd	('O', 'B-QuantityChange', 'I-HavingInternalState-', 'O')	('O', 'B-QuantityChange', 'I-HavingInternalState-', 'O')	B-Decreasing	M			Annotators seem to have overlooked the existence of decreasing. Apparently an uncommon event.	
+1482	Worden	('O', 'O', 'I-HavingInternalState-', 'O')	O	O	A				
+1483	,	('O', 'O', 'O', 'O')	O	O					
+1484	alzo	('O', 'O', 'O', 'O')	O	O					
+1485	er	('O', 'O', 'O', 'O')	O	O					
+1486	geen	('O', 'O', 'O', 'O')	O	O					
+1487	Vertier	('B-Trade', 'B-Trade', 'O', 'O')	('B-Trade', 'B-Trade', 'O', 'O')	B-Trade	M				
+1488	is	('I-Trade', 'O', 'O', 'O')	O	I-Trade	M				
+1489	van	('I-Trade', 'O', 'O', 'O')	O	I-Trade	M				
+1490	koopmanschappen	('I-Trade', 'O', 'O', 'B-Trade')	('I-Trade', 'O', 'O', 'B-Trade')	I-Trade	M				
+1491	en	('O', 'O', 'O', 'O')	O	O					
+1492	wij	('O', 'O', 'O', 'O')	O	O					
+1493	in	('O', 'O', 'O', 'O')	O	O				 'Wanneer wij geld nodig hebben’ aka niet tijd van enorme crisis	
+1494	tijd	('O', 'O', 'B-HavingInternalState-', 'O')	O	O	A				
+1495	van	('O', 'O', 'I-HavingInternalState-', 'O')	O	O	A				
+1496	rood	('O', 'O', 'I-HavingInternalState-', 'O')	O	O	A				
+1497	bij	('O', 'O', 'O', 'O')	O	O					
+1498	partikulieren	('O', 'O', 'O', 'O')	O	O					
+1499	Weinig	('O', 'O', 'O', 'O')	O	O					
+1500	geld	('O', 'O', 'B-FinancialTransaction', 'O')	O	B-FinancialTransaction	B				
+1501	zonder	('B-Giving', 'O', 'I-FinancialTransaction', 'B-Getting')	('B-Giving', 'O', 'I-FinancialTransaction', 'B-Getting')	I-FinancialTransaction	M			 'Kunnen vinden’	
+1502	Vinder	('I-Giving', 'B-HavingInPossession', 'I-FinancialTransaction', 'I-Getting')	('I-Giving', 'B-HavingInPossession', 'I-FinancialTransaction', 'I-Getting')	I-FinancialTransaction	M				
+1503	.	('O', 'O', 'O', 'O')	O	O					
+1504	Na	('O', 'O', 'O', 'O')	O	O					
+1505	dat	('O', 'O', 'O', 'O')	O	O					
+1506	Wij	('O', 'O', 'O', 'O')	O	O					
+1507	tijding	('O', 'O', 'O', 'O')	O	O				Tijding = nieuws	
+1508	erlangden	('O', 'B-Request', 'O', 'O')	O	O	A				
+1509	Wegens	('O', 'O', 'O', 'O')	O	O					
+1510	de	('O', 'O', 'B-TakingUnderControl', 'B-TakingUnderControl')	('O', 'O', 'B-TakingUnderControl', 'B-TakingUnderControl')	O	M				
+1511	verovering	('B-TakingUnderControl', 'B-TakingUnderControl', 'I-TakingUnderControl', 'I-TakingUnderControl')	('B-TakingUnderControl', 'B-TakingUnderControl', 'I-TakingUnderControl', 'I-TakingUnderControl')	B-TakingUnderControl	AM				
+1512	van	('O', 'O', 'B-Invasion', 'O')	O	O					
+1513	Trinkonomale	('O', 'O', 'O', 'O')	O	O				Trinkonomale is een plek	
+1514	schreefde	('O', 'O', 'O', 'O')	O	O					
+1515	eerstgeteekende	('O', 'O', 'O', 'O')	O	O					
+1516	een	('O', 'O', 'O', 'O')	O	O					
+1517	brief	('O', 'O', 'O', 'O')	O	O					
+1518	aan	('O', 'O', 'O', 'O')	O	O					
+1519	den	('O', 'O', 'O', 'O')	O	O					
+1520	aldaar	('O', 'O', 'O', 'O')	O	O					
+1521	kommandeerenden	('B-BeingLeader', 'B-BeingLeader', 'B-BeingLeader', 'B-BeingLeader')	B-BeingLeader	B-BeingLeader	A				
+1522	Engelschen	('O', 'O', 'O', 'O')	O	O					
+1523	officier	('O', 'O', 'O', 'O')	O	O					
+1524	,	('O', 'O', 'O', 'O')	O	O					
+1525	Waar	('O', 'O', 'O', 'O')	O	O					
+1526	bij	('O', 'O', 'O', 'O')	O	O					
+1527	hij	('O', 'O', 'O', 'O')	O	O					
+1528	hem	('O', 'O', 'O', 'O')	O	O					
+1529	Verzogt	('B-Request', 'B-Request', 'B-Request', 'B-Request')	B-Request	B-Request	A				
+1530	dat	('O', 'O', 'O', 'O')	O	O					
+1531	de	('O', 'O', 'O', 'O')	O	O					
+1532	getrouwde	('B-BeingInARelationship', 'O', 'O', 'O')	O	O	A			Mensen die in de compagnie getrouwd zijn mogen niet naar Madras vervoerd worden	
+1533	Kompanies	('O', 'O', 'O', 'O')	O	O					
+1534	dienaren	('O', 'O', 'O', 'O')	O	O					
+1535	niet	('O', 'O', 'O', 'O')	O	O					
+1536	mogten	('O', 'O', 'O', 'O')	O	O					
+1537	na	('O', 'O', 'O', 'O')	O	O					
+1538	Madras	('O', 'O', 'O', 'O')	O	O					
+1539	Worden	('O', 'O', 'B-Transportation', 'B-Transportation')	('O', 'O', 'B-Transportation', 'B-Transportation')	B-Transportation	M				
+1540	vervoerd	('B-Transportation', 'B-Transportation', 'I-Transportation', 'I-Transportation')	('B-Transportation', 'B-Transportation', 'I-Transportation', 'I-Transportation')	I-Transportation	AM				
+1541	en	('O', 'O', 'O', 'O')	O	O					
+1542	dat	('O', 'O', 'O', 'O')	O	O					
+1543	het	('O', 'O', 'O', 'O')	O	O					
+1544	fonds	('O', 'O', 'O', 'O')	O	O					
+1545	van	('O', 'O', 'O', 'O')	O	O					
+1546	de	('O', 'O', 'O', 'O')	O	O					
+1547	dia	('O', 'O', 'O', 'O')	O	O					
+1548	konij	('O', 'O', 'O', 'O')	O	O					
+1549	onaengeroerd	('O', 'O', 'O', 'O')	O	O					
+1550	nogt	('O', 'O', 'O', 'O')	O	O					
+1551	blijven	('O', 'O', 'O', 'O')	O	O					
+1552	.	('O', 'O', 'O', 'O')	O	O					
+1553	De	('O', 'O', 'O', 'O')	O	O					
+1554	heer	('O', 'O', 'O', 'O')	O	O					
+1555	Admiraal	('O', 'O', 'O', 'O')	O	O					
+1556	Hughes	('O', 'O', 'O', 'O')	O	O					
+1557	,	('O', 'O', 'O', 'O')	O	O					
+1558	die	('O', 'O', 'O', 'O')	O	O					
+1559	inmiddels	('O', 'O', 'O', 'O')	O	O					
+1560	met	('O', 'O', 'O', 'O')	O	O					
+1561	zijn	('O', 'O', 'O', 'O')	O	O					
+1562	Vloot	('O', 'O', 'O', 'O')	O	O					
+1563	na	('O', 'O', 'O', 'O')	O	O					
+1564	Madras	('O', 'O', 'O', 'O')	O	O					
+1565	Was	('O', 'O', 'O', 'B-Leaving')	O	O	A				
+1566	vertrokken	('B-Leaving', 'B-Leaving', 'B-Leaving', 'I-Leaving')	B-Leaving	B-Leaving	A				
+1567	,	('O', 'O', 'O', 'O')	O	O					
+1568	dog	('O', 'O', 'O', 'O')	O	O					
+1569	den	('O', 'O', 'O', 'O')	O	O					
+1570	23	('O', 'O', 'O', 'O')	O	O					
+1571	.	('O', 'O', 'O', 'O')	O	O					
+1572	febr	('O', 'O', 'O', 'O')	O	O					
+1573	:	('O', 'O', 'O', 'O')	O	O					
+1574	net	('O', 'O', 'O', 'O')	O	O					
+1575	tien	('O', 'O', 'O', 'O')	O	O					
+1576	scheeper	('O', 'O', 'O', 'O')	O	O					
+1577	te	('B-Arriving', 'B-Arriving', 'B-Arriving', 'B-Arriving')	B-Arriving	B-Arriving	A				
+1578	rugge	('I-Arriving', 'I-Arriving', 'I-Arriving', 'I-Arriving')	I-Arriving	I-Arriving	A				
+1579	k	('I-Arriving', 'I-Arriving', 'I-Arriving', 'I-Arriving')	I-Arriving	I-Arriving	A				
+1580	Wan	('I-Arriving', 'I-Arriving', 'I-Arriving', 'I-Arriving')	I-Arriving	I-Arriving	A				
+1581	,	('O', 'O', 'O', 'O')	O	O					
+1582	heeft	('O', 'O', 'O', 'O')	O	O					
+1583	bij	('O', 'O', 'O', 'O')	O	O					
+1584	een	('O', 'O', 'O', 'O')	O	O					
+1585	beleefden	('O', 'O', 'O', 'O')	O	O					
+1586	brief	('O', 'O', 'O', 'O')	O	O					
+1587	Van	('O', 'O', 'O', 'O')	O	O					
+1588	den	('O', 'O', 'O', 'O')	O	O					
+1589	28:e	('O', 'O', 'O', 'O')	O	O					
+1590	febr	('O', 'O', 'O', 'O')	O	O					
+1591	:	('O', 'O', 'O', 'O')	O	O					
+1592	daar	('O', 'O', 'O', 'O')	O	O					
+1593	op	('O', 'O', 'O', 'O')	O	O					
+1594	geantwoord	('O', 'B-SocialInteraction', 'O', 'B-SocialInteraction')	('O', 'B-SocialInteraction', 'O', 'B-SocialInteraction')	B-Communication	M				
+1595	,	('O', 'O', 'O', 'O')	O	O					
+1596	dat	('O', 'O', 'O', 'O')	O	O					
+1597	hij	('O', 'O', 'O', 'O')	O	O					
+1598	door	('O', 'O', 'O', 'O')	O	O					
+1599	staat	('O', 'O', 'B-HavingInternalState-', 'O')	O	O	A				
+1600	kurdige	('O', 'O', 'I-HavingInternalState-', 'O')	O	O	A				
+1601	noodzakelijkheid	('O', 'O', 'I-HavingInternalState-', 'O')	O	O	A				
+1602	gedwongen	('O', 'B-ForceToAct', 'B-ForceToAct', 'B-ForceToAct')	B-ForceToAct	B-ForceToAct	A				
+1603	genoodzaakt	('O', 'B-ForceToAct', 'B-ForceToAct', 'I-ForceToAct')	('O', 'B-ForceToAct', 'B-ForceToAct', 'I-ForceToAct')	B-ForceToAct	AM			Definition of ForceToAct: "The subclass of SocialInteraction where a person or organization forces a second party to act in some way, do or not do something. Giving orders through written communication does not fall under ForceToAct. Forcing to act goes beyond having a duty to do something: there is a known or implied consequence involved." In this case, there is not a person or organization forcing Admiral Hughes, but rather a situation.	
+1604	was	('O', 'O', 'O', 'I-ForceToAct')	O	I-ForceToAct	M				
+1605	geweest	('O', 'O', 'O', 'I-ForceToAct')	O	I-ForceToAct	M				
+1606	,	('O', 'O', 'O', 'O')	O	O					
+1607	veelen	('O', 'O', 'O', 'O')	O	O					
+1608	zo	('O', 'O', 'O', 'O')	O	O					
+1609	5	('O', 'O', 'O', 'O')	O	O					
+1610	getrouwden	('O', 'O', 'O', 'O')	O	O					
+1611	als	('O', 'O', 'O', 'O')	O	O					
+1612	ongetrouwden	('O', 'O', 'O', 'O')	O	O					
+1613	na	('O', 'O', 'O', 'O')	O	O					
+1614	Madras	('O', 'O', 'O', 'O')	O	O					
+1615	op	('O', 'B-Translocation', 'B-Transportation', 'B-Transportation')	('O', 'B-Translocation', 'B-Transportation', 'B-Transportation')	B-Transportation	A				
+1616	te	('O', 'I-Translocation', 'I-Transportation', 'I-Transportation')	('O', 'I-Translocation', 'I-Transportation', 'I-Transportation')	I-Transportation	A				
+1617	zenden	('B-Transportation', 'I-Translocation', 'I-Transportation', 'I-Transportation')	('B-Transportation', 'I-Translocation', 'I-Transportation', 'I-Transportation')	I-Transportation	A				
+1618	,	('O', 'O', 'O', 'O')	O	O					
+1619	maar	('O', 'O', 'O', 'O')	O	O					
+1620	dat	('O', 'O', 'O', 'O')	O	O					
+1621	zij	('O', 'O', 'O', 'O')	O	O					
+1622	met	('O', 'O', 'O', 'B-SocialInteraction')	O	O	A				
+1623	groote	('O', 'O', 'O', 'I-SocialInteraction')	O	O	A				
+1624	edelmoedigheid	('O', 'O', 'O', 'I-SocialInteraction')	O	O	A				
+1625	behandeld	('O', 'B-SocialInteraction', 'O', 'I-SocialInteraction')	('O', 'B-SocialInteraction', 'O', 'I-SocialInteraction')	B-SocialInteraction	M				
+1626	Waren	('O', 'O', 'O', 'I-SocialInteraction')	O	O	A				
+1627	,	('O', 'O', 'O', 'O')	O	O					
+1628	Wijl	('O', 'O', 'O', 'O')	O	O					
+1629	hunne	('O', 'O', 'O', 'O')	O	O					
+1630	huisen	('O', 'O', 'O', 'O')	O	O					
+1631	niet	('O', 'O', 'O', 'O')	O	O					
+1632	geplunderd	('B-Getting', 'B-IntentionalDamaging', 'B-BeingDamaged', 'B-Damaging')	('B-Getting', 'B-IntentionalDamaging', 'B-BeingDamaged', 'B-Damaging')	B-Damaging	A	S			
+1633	en	('O', 'O', 'O', 'O')	O	O					
+1634	hunne	('O', 'O', 'O', 'O')	O	O					
+1635	goederen	('O', 'O', 'O', 'O')	O	O					
+1636	aan	('O', 'O', 'O', 'O')	O	O					
+1637	hen	('O', 'O', 'O', 'O')	O	O					
+1638	in	('B-HavingInPossession', 'O', 'B-HavingInPossession', 'O')	('B-HavingInPossession', 'O', 'B-HavingInPossession', 'O')	B-HavingInPossession	M				
+1639	eigendom	('I-HavingInPossession', 'O', 'I-HavingInPossession', 'O')	('I-HavingInPossession', 'O', 'I-HavingInPossession', 'O')	I-HavingInPossession	M				
+1640	gehoorende	('I-HavingInPossession', 'B-HavingInPossession', 'I-HavingInPossession', 'O')	('I-HavingInPossession', 'B-HavingInPossession', 'I-HavingInPossession', 'O')	I-HavingInPossession	AM				
+1641	aan	('O', 'O', 'O', 'B-HavingInPossession')	O	O	A				
+1642	hen	('O', 'O', 'O', 'I-HavingInPossession')	O	O	A				
+1643	gelaaten	('O', 'B-HavingInPossession', 'O', 'I-HavingInPossession')	('O', 'B-HavingInPossession', 'O', 'I-HavingInPossession')	B-HavingInPossession	M				
+1644	waaren	('O', 'O', 'O', 'I-HavingInPossession')	O	I-HavingInPossession	M				
+1645	,	('O', 'O', 'O', 'O')	O	O					
+1646	en	('O', 'O', 'O', 'O')	O	O					
+1647	dat	('O', 'O', 'O', 'O')	O	O					
+1648	t	('O', 'O', 'O', 'O')	O	O					
+1649	fords	('O', 'O', 'O', 'O')	O	O					
+1650	van	('O', 'O', 'O', 'O')	O	O					
+1651	de	('O', 'O', 'O', 'O')	O	O					
+1652	armen	('O', 'O', 'O', 'O')	O	O					
+1653	onaangeroerd	('O', 'O', 'O', 'O')	O	O					
+1654	was	('O', 'O', 'O', 'O')	O	O					
+1655	gebleeven	('O', 'O', 'O', 'O')	O	O					
+1656	en	('O', 'O', 'O', 'O')	O	O					
+1657	aangelegd	('O', 'B-Giving', 'B-FinancialTransaction', 'O')	('O', 'B-Giving', 'B-FinancialTransaction', 'O')	B-Giving	M			Unsure about this	
+1658	konde	('O', 'O', 'I-FinancialTransaction', 'O')	O	O	A				
+1659	Worden	('O', 'O', 'I-FinancialTransaction', 'O')	O	O	A				
+1660	tot	('O', 'O', 'O', 'O')	O	O					
+1661	nut	('O', 'O', 'O', 'O')	O	O					
+1662	Van	('O', 'O', 'O', 'O')	O	O					
+1663	de	('O', 'O', 'O', 'O')	O	O					
+1664	geenen	('O', 'O', 'O', 'O')	O	O					
+1665	,	('O', 'O', 'O', 'O')	O	O					
+1666	Waar	('O', 'O', 'O', 'O')	O	O					
+1667	toe	('O', 'O', 'O', 'O')	O	O					
+1668	het	('O', 'O', 'O', 'O')	O	O					
+1669	bestend	('O', 'O', 'O', 'O')	O	O					
+1670	was	('O', 'O', 'O', 'O')	O	O					
+1671	.	('O', 'O', 'O', 'O')	O	O					
+1672	Wij	('O', 'O', 'O', 'O')	O	O					
+1673	hebben	('O', 'O', 'O', 'O')	O	O					
+1674	de	('O', 'O', 'O', 'O')	O	O					
+1675	eer	('O', 'O', 'O', 'O')	O	O					
+1676	een	('O', 'O', 'O', 'O')	O	O					
+1677	afschrift	('O', 'O', 'O', 'O')	O	O					
+1678	van	('O', 'O', 'O', 'O')	O	O					
+1679	deezen	('O', 'O', 'O', 'O')	O	O					
+1680	brief	('O', 'O', 'O', 'O')	O	O					
+1681	met	('O', 'O', 'O', 'O')	O	O					
+1682	een	('O', 'O', 'O', 'O')	O	O					
+1683	Nederduitsche	('O', 'O', 'O', 'O')	O	O					
+1684	Vertaaling	('O', 'O', 'O', 'O')	O	O					
+1685	onder	('O', 'O', 'O', 'O')	O	O					
+1686	de	('O', 'O', 'O', 'O')	O	O					
+1687	bijlaagen	('O', 'O', 'O', 'O')	O	O					
+1688	aan	('B-Giving', 'B-Giving', 'B-Giving', 'B-Giving')	B-Giving	B-Giving	A				
+1689	tebieder	('I-Giving', 'I-Giving', 'I-Giving', 'I-Giving')	I-Giving	I-Giving	A				
+1690	.	('O', 'O', 'O', 'O')	O	O					
+1691	\n	\n	\n	\n	\n	\n	\n		
+1692	Voorts	('O', 'O', 'O', 'O')	O	O					
+1693	hebben	('O', 'O', 'O', 'O')	O	O					
+1694	Wij	('O', 'O', 'O', 'O')	O	O					
+1695	de	('O', 'O', 'O', 'O')	O	O					
+1696	eer	('O', 'O', 'O', 'O')	O	O					
+1697	UWe	('O', 'O', 'O', 'O')	O	O					
+1698	Hoog	('O', 'O', 'O', 'O')	O	O					
+1699	Edelheeden	('O', 'O', 'O', 'O')	O	O					
+1700	hier	('O', 'O', 'O', 'O')	O	O					
+1701	nevens	('O', 'O', 'O', 'O')	O	O					
+1702	aan	('B-Giving', 'B-Giving', 'B-Giving', 'B-Giving')	B-Giving	B-Giving	A				
+1703	te	('I-Giving', 'I-Giving', 'I-Giving', 'I-Giving')	I-Giving	I-Giving	A				
+1704	bieder	('I-Giving', 'I-Giving', 'I-Giving', 'I-Giving')	I-Giving	I-Giving	A				
+1705	kopijen	('O', 'O', 'O', 'O')	O	O					
+1706	van	('O', 'O', 'O', 'O')	O	O					
+1707	twee	('O', 'O', 'O', 'O')	O	O					
+1708	schreete	('O', 'O', 'O', 'O')	O	O					
+1709	brieven	('O', 'O', 'O', 'O')	O	O					
+1710	van	('O', 'O', 'O', 'O')	O	O					
+1711	koetsjiem	('O', 'O', 'O', 'O')	O	O					
+1712	van	('O', 'O', 'O', 'O')	O	O					
+1713	den	('O', 'O', 'O', 'O')	O	O					
+1714	24	('O', 'O', 'O', 'O')	O	O					
+1715	:	('O', 'O', 'O', 'O')	O	O					
+1716	 '	('O', 'O', 'O', 'O')	O	O					
+1717	Iunuarij	('O', 'O', 'O', 'O')	O	O					
+1718	en	('O', 'O', 'O', 'O')	O	O					
+1719	12:e	('O', 'O', 'O', 'O')	O	O					
+1720	deezer	('O', 'O', 'O', 'O')	O	O					
+1721	,	('O', 'O', 'O', 'O')	O	O					
+1722	met	('O', 'O', 'O', 'O')	O	O					
+1723	een	('O', 'O', 'O', 'O')	O	O					
+1724	portugeesch	('O', 'O', 'O', 'O')	O	O					
+1725	Vaartuig	('O', 'O', 'O', 'O')	O	O					
+1726	alhier	('O', 'O', 'O', 'O')	O	O					
+1727	aangebragt	('B-Arriving', 'B-Transportation', 'B-Arriving', 'B-Arriving')	B-Arriving	B-Arriving	A				
+1728	,	('O', 'O', 'B-Transportation', 'O')	O	O	A				
+1729	Waar	('O', 'O', 'O', 'O')	O	O					
+1730	uit	('O', 'O', 'O', 'O')	O	O					
+1731	blijkt	('O', 'O', 'O', 'O')	O	O					
+1732	,	('O', 'O', 'O', 'O')	O	O					
+1733	dat	('O', 'O', 'O', 'O')	O	O					
+1734	de	('O', 'O', 'O', 'O')	O	O					
+1735	Engelschen	('O', 'O', 'O', 'O')	O	O					
+1736	door	('O', 'O', 'O', 'O')	O	O					
+1737	het	('O', 'O', 'O', 'B-Destroying')	O	O	A				
+1738	Vernielen	('B-Attacking', 'B-Destroying', 'B-Destroying', 'I-Destroying')	('B-Attacking', 'B-Destroying', 'B-Destroying', 'I-Destroying')	B-Destroying	AM				
+1739	van	('O', 'O', 'B-ViolentContest', 'O')	O	O	A				
+1740	het	('O', 'O', 'O', 'O')	O	O					
+1741	leger	('O', 'O', 'O', 'O')	O	O					
+1742	van	('O', 'O', 'O', 'O')	O	O					
+1743	Huider	('O', 'O', 'O', 'O')	O	O					
+1744	Ali	('O', 'O', 'O', 'O')	O	O					
+1745	bij	('O', 'O', 'O', 'O')	O	O					
+1746	Pallicheri	('O', 'O', 'O', 'O')	O	O					
+1747	Zig	('O', 'O', 'B-TakingUnderControl', 'B-None')	('O', 'O', 'B-TakingUnderControl', 'B-None')	B-Occupation	M	S			
+1748	meester	('B-Occupation', 'B-Occupation', 'I-TakingUnderControl', 'I-None')	('B-Occupation', 'B-Occupation', 'I-TakingUnderControl', 'I-None')	I-Occupation	M	S			
+1749	van	('O', 'O', 'I-TakingUnderControl', 'I-None')	('O', 'O', 'I-TakingUnderControl', 'I-None')	I-Occupation	M	S			
+1750	het	('O', 'O', 'I-TakingUnderControl', 'B-Occupation')	('O', 'O', 'I-TakingUnderControl', 'B-Occupation')	I-Occupation	M	S			
+1751	geheele	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	I-Occupation	M	S			
+1752	Samarijnsche	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	I-Occupation	M	S			
+1753	land	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	I-Occupation	M	S			
+1754	gemaakt	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	I-Occupation	M	S			
+1755	hebben	('O', 'O', 'O', 'I-Occupation')	O	I-Occupation	A				
+1756	,	('O', 'O', 'O', 'O')	O	O					
+1757	t	('O', 'O', 'O', 'O')	O	O					
+1758	Welk	('O', 'O', 'O', 'O')	O	O					
+1759	die	('O', 'O', 'O', 'O')	O	O					
+1760	van	('O', 'O', 'O', 'O')	O	O					
+1761	koetssien	('O', 'O', 'O', 'O')	O	O					
+1762	bedugt	('O', 'O', 'O', 'B-HavingInternalState-')	O	O	A				
+1763	heeft	('O', 'O', 'O', 'I-HavingInternalState-')	O	O	A				
+1764	gemaakt	('O', 'O', 'O', 'I-HavingInternalState-')	O	O	A				
+1765	voor	('O', 'O', 'O', 'I-HavingInternalState-')	O	O	A				
+1766	een	('O', 'O', 'O', 'I-HavingInternalState-')	O	O	A				
+1767	beleegering	('B-Besieging', 'B-Besieging', 'B-Besieging', 'I-HavingInternalState-')	B-Besieging	B-Besieging	A				
+1768	,	('O', 'O', 'O', 'B-Besieging')	O	O	A				
+1769	Welke	('O', 'O', 'O', 'B-HavingInternalState-')	O	O	A				
+1770	beduchting	('O', 'O', 'O', 'I-HavingInternalState-')	O	O	A				
+1771	tans	('O', 'O', 'O', 'I-HavingInternalState-')	O	O	A				
+1772	echter	('O', 'O', 'O', 'I-HavingInternalState-')	O	O	A				
+1773	werkelijk	('O', 'O', 'O', 'I-HavingInternalState-')	O	O	A				
+1774	is	('O', 'O', 'O', 'I-HavingInternalState-')	O	O	A				
+1775	verminderd	('O', 'B-ScalarChange', 'O', 'I-HavingInternalState-')	('O', 'B-ScalarChange', 'O', 'I-HavingInternalState-')	B-Decreasing	M			Again, decreasing seems to be overlooked	
+1776	nu	('O', 'O', 'O', 'O')	O	O					
+1777	de	('O', 'O', 'O', 'O')	O	O					
+1778	fransche	('O', 'O', 'O', 'O')	O	O					
+1779	Vloot	('O', 'O', 'O', 'O')	O	O					
+1780	is	('O', 'O', 'O', 'B-Arriving')	O	O					
+1781	aangekoomen	('B-Arriving', 'B-Arriving', 'B-Arriving', 'I-Arriving')	B-Arriving	B-Arriving	A				
+1782	.	('O', 'O', 'O', 'O')	O	O					
+1783	Onder	('O', 'O', 'O', 'O')	O	O					
+1784	het	('O', 'O', 'O', 'O')	O	O					
+1785	sluijter	('O', 'O', 'O', 'O')	O	O					
+1786	deezes	('O', 'O', 'O', 'O')	O	O					
+1787	ontvangen	('B-Getting', 'B-Getting', 'B-Getting', 'B-Getting')	B-Getting	B-Getting	A				
+1788	Wij	('O', 'O', 'O', 'O')	O	O					
+1789	berigt	('O', 'O', 'O', 'O')	O	B-Communication	M			Communication not part of annotation scheme yet	
+1790	Van	('O', 'O', 'O', 'O')	O	O					
+1791	Manaar	('O', 'O', 'O', 'O')	O	O					
+1792	dat	('O', 'O', 'O', 'O')	O	O					
+1793	de	('O', 'O', 'O', 'O')	O	O					
+1794	Engelschen	('O', 'O', 'O', 'O')	O	O					
+1795	den	('O', 'O', 'O', 'O')	O	O					
+1796	19	('O', 'O', 'O', 'O')	O	O					
+1797	.	('O', 'O', 'O', 'O')	O	O					
+1798	 '	('O', 'O', 'O', 'O')	O	O					
+1799	februari	('O', 'O', 'O', 'O')	O	O					
+1800	met	('O', 'O', 'O', 'O')	O	O					
+1801	500	('O', 'O', 'O', 'O')	O	O					
+1802	.	('O', 'O', 'O', 'O')	O	O					
+1803	sipahis	('O', 'O', 'O', 'O')	O	O					
+1804	bezit	('B-Occupation', 'B-Occupation', 'B-TakingUnderControl', 'B-Occupation')	B-Occupation	B-Occupation	A		4		
+1805	van	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	I-Occupation	M		2		
+1806	ons	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	I-Occupation	M		2		
+1807	fort	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	I-Occupation	M		2		
+1808	te	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	I-Occupation	M		2		
+1809	Tutu	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	I-Occupation	M		2		
+1810	Roeijn	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	I-Occupation	M		2		
+1811	hebben	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	I-Occupation	M		2		
+1812	genomen	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	('O', 'O', 'I-TakingUnderControl', 'I-Occupation')	I-Occupation	M		2		
+1813	,	('O', 'O', 'B-Attacking', 'O')	O	O	A		1		
+1814	en	('O', 'O', 'O', 'O')	O	O					
+1815	dat	('O', 'O', 'O', 'O')	O	O					
+1816	dezelve	('O', 'O', 'O', 'O')	O	O					
+1817	reets	('O', 'O', 'O', 'O')	O	O					
+1818	bezig	('O', 'O', 'O', 'O')	O	O					
+1819	waren	('O', 'O', 'O', 'O')	O	O					
+1820	,	('O', 'O', 'O', 'O')	O	O					
+1821	om	('O', 'O', 'O', 'O')	O	O					
+1822	hetzelve	('O', 'O', 'O', 'O')	O	O					
+1823	te	('O', 'O', 'O', 'B-Destroying')	O	O	A				
+1824	ondermijnen	('B-Damaging', 'O', 'B-Besieging', 'I-Destroying')	('B-Damaging', 'O', 'B-Besieging', 'I-Destroying')	B-Damaging	M				
+1825	ten	('O', 'O', 'O', 'O')	O	O					
+1826	einde	('O', 'O', 'O', 'O')	O	O					
+1827	het	('O', 'O', 'O', 'O')	O	O					
+1828	te	('B-Destroying', 'O', 'O', 'B-Destroying')	('B-Destroying', 'O', 'O', 'B-Destroying')	B-Destroying	M				
+1829	doen	('I-Destroying', 'O', 'B-Destroying', 'I-Destroying')	('I-Destroying', 'O', 'B-Destroying', 'I-Destroying')	I-Destroying	AM				
+1830	springen	('I-Destroying', 'B-Destroying', 'I-Destroying', 'I-Destroying')	I-Destroying	I-Destroying	AM				
+1831	;	('O', 'O', 'O', 'O')	O	O					
+1832	en	('O', 'O', 'O', 'O')	O	O					
+1833	Voorts	('O', 'O', 'O', 'O')	O	O					
+1834	dat	('O', 'O', 'O', 'O')	O	O					
+1835	nog	('O', 'O', 'O', 'O')	O	O					
+1836	Vier	('O', 'O', 'O', 'O')	O	O					
+1837	man	('O', 'O', 'O', 'O')	O	O					
+1838	van	('O', 'O', 'O', 'O')	O	O					
+1839	de	('O', 'O', 'O', 'O')	O	O					
+1840	agtergelatene	('B-LosingPossession', 'O', 'B-BeingAtAPlace', 'O')	('B-LosingPossession', 'O', 'B-BeingAtAPlace', 'O')	B-LosingPossession	M			 'Bezetting te manaar’ is een plek. Achtergelatene bezetting = die bezetting hebben we niet meer	
+1841	bezetting	('O', 'O', 'O', 'O')	O	O					
+1842	te	('O', 'O', 'O', 'O')	O	O					
+1843	Manaar	('O', 'O', 'O', 'O')	O	O					
+1844	Waren	('O', 'O', 'O', 'B-Arriving')	O	O	A				
+1845	aangekomen	('B-Arriving', 'B-Arriving', 'B-Arriving', 'I-Arriving')	B-Arriving	B-Arriving	A				
+1846	Wij	('O', 'O', 'O', 'O')	O	O					
+1847	hebben	('O', 'O', 'O', 'O')	O	O					
+1848	de	('O', 'O', 'O', 'O')	O	O					
+1849	Eer	('O', 'O', 'O', 'O')	O	O					
+1850	met	('O', 'O', 'O', 'O')	O	O					
+1851	schuldige	('O', 'O', 'O', 'O')	O	O					
+1852	eerbied	('O', 'O', 'O', 'O')	O	O					
+1853	en	('O', 'O', 'O', 'O')	O	O					
+1854	trouwe	('O', 'O', 'O', 'O')	O	O					
+1855	te	('O', 'O', 'O', 'O')	O	O					
+1856	zijn	('O', 'O', 'O', 'O')	O	O					
+1857	/:onderstond:/	('O', 'O', 'O', 'O')	O	O					
+1858	Hoog	('O', 'O', 'O', 'O')	O	O					
+1859	Edele	('O', 'O', 'O', 'O')	O	O					
+1860	Groot	('O', 'O', 'O', 'O')	O	O					
+1861	Achtbaere	('O', 'O', 'O', 'O')	O	O					
+1862	Heer	('O', 'O', 'O', 'O')	O	O					
+1863	Wel	('O', 'O', 'O', 'O')	O	O					
+1864	Edele	('O', 'O', 'O', 'O')	O	O					
+1865	Gestrenge	('O', 'O', 'O', 'O')	O	O					
+1866	Heeren	('O', 'O', 'O', 'O')	O	O					
+1867	/:Lager:/	('O', 'O', 'O', 'O')	O	O					
+1868	Uwer	('O', 'O', 'O', 'O')	O	O					
+1869	Hoog	('O', 'O', 'O', 'O')	O	O					
+1870	Edelheeden	('O', 'O', 'O', 'O')	O	O					
+1871	zeer	('O', 'O', 'O', 'O')	O	O					
+1872	onderdanige	('O', 'O', 'O', 'O')	O	O					
+1873	en	('O', 'O', 'O', 'O')	O	O					
+1874	gehoorzaeme	('O', 'O', 'O', 'O')	O	O					
+1875	Dienaars	('O', 'O', 'O', 'O')	O	O					
+1876	/:Was	('O', 'O', 'O', 'O')	O	O					
+1877	geteekend:/	('O', 'O', 'O', 'O')	O	O					
+1878	Sm	('O', 'O', 'O', 'O')	O	O					
+1879	:	('O', 'O', 'O', 'O')	O	O					
+1880	Will	('O', 'O', 'O', 'O')	O	O					
+1881	:	('O', 'O', 'O', 'O')	O	O					
+1882	Pack	('O', 'O', 'O', 'O')	O	O					
+1883	,	('O', 'O', 'O', 'O')	O	O					
+1884	Daniel	('O', 'O', 'O', 'O')	O	O					
+1885	de	('O', 'O', 'O', 'O')	O	O					
+1886	Bok	('O', 'O', 'O', 'O')	O	O					
+1887	,	('O', 'O', 'O', 'O')	O	O					
+1888	C	('O', 'O', 'O', 'O')	O	O					
+1889	:	('O', 'O', 'O', 'O')	O	O					
+1890	s	('O', 'O', 'O', 'O')	O	O					
+1891	de	('O', 'O', 'O', 'O')	O	O					
+1892	Cock	('O', 'O', 'O', 'O')	O	O					
+1893	en	('O', 'O', 'O', 'O')	O	O					
+1894	J	('O', 'O', 'O', 'O')	O	O					
+1895	:	('O', 'O', 'O', 'O')	O	O					
+1896	J	('O', 'O', 'O', 'O')	O	O					
+1897	:	('O', 'O', 'O', 'O')	O	O					
+1898	Coquart	('O', 'O', 'O', 'O')	O	O					
+1899	/:in	('O', 'O', 'O', 'O')	O	O					
+1900	margine:/	('O', 'O', 'O', 'O')	O	O					
+1901	Kolombo	('O', 'O', 'O', 'O')	O	O					
+1902	den	('O', 'O', 'O', 'O')	O	O					
+1903	23	('O', 'O', 'O', 'O')	O	O					
+1904	.	('O', 'O', 'O', 'O')	O	O					
+1905	Maart	('O', 'O', 'O', 'O')	O	O					
+1906	1782	('O', 'O', 'O', 'O')	O	O					
+1907	.	('O', 'O', 'O', 'O')	O	O					
+1908	\n	\n	\n	\n	\n	\n	\n		
+1909	Accordeert	('O', 'O', 'O', 'O')	O	O					
+1910	\n	\n	\n	\n	\n	\n	\n		
+1911	D.	('O', 'O', 'O', 'O')	O	O					
+1912	Van	('O', 'O', 'O', 'O')	O	O					
+1913	Haak	('O', 'O', 'O', 'O')	O	O					
+1914	\n	\n	\n	\n	\n	\n	\n		

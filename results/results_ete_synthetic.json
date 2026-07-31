@@ -1,0 +1,686 @@
+{
+  "gen_res_adj": {
+    "p": 0.4160839160839161,
+    "r": 0.1900958466453674,
+    "f1": 0.26096491228070173,
+    "support": 626
+  },
+  "gen_res_NOT_adj": {
+    "p": 0.5660377358490566,
+    "r": 0.5063291139240507,
+    "f1": 0.534521158129176,
+    "support": 800
+  },
+  "Communication_res_adj": {
+    "p": 0.32,
+    "r": 0.3333333333333333,
+    "f1": 0.32653061224489793,
+    "support": 24
+  },
+  "Communication_res_NOT_adj": {
+    "p": 0.0,
+    "r": 0,
+    "f1": 0,
+    "support": 0
+  },
+  "Translocation_res_adj": {
+    "p": 0.3142857142857143,
+    "r": 0.3384615384615385,
+    "f1": 0.32592592592592595,
+    "support": 65
+  },
+  "Translocation_res_NOT_adj": {
+    "p": 0.5573770491803278,
+    "r": 0.5396825396825397,
+    "f1": 0.5483870967741935,
+    "support": 90
+  },
+  "HavingInPossession_res_adj": {
+    "p": 0.0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 28
+  },
+  "HavingInPossession_res_NOT_adj": {
+    "p": 0.0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 38
+  },
+  "BeingAtAPlace_res_adj": {
+    "p": 0.3076923076923077,
+    "r": 0.14814814814814814,
+    "f1": 0.2,
+    "support": 27
+  },
+  "BeingAtAPlace_res_NOT_adj": {
+    "p": 0.4,
+    "r": 0.19047619047619047,
+    "f1": 0.25806451612903225,
+    "support": 53
+  },
+  "Arriving_res_adj": {
+    "p": 0.7058823529411765,
+    "r": 0.3870967741935484,
+    "f1": 0.5,
+    "support": 31
+  },
+  "Arriving_res_NOT_adj": {
+    "p": 0.875,
+    "r": 0.42424242424242425,
+    "f1": 0.5714285714285714,
+    "support": 67
+  },
+  "Transportation_res_adj": {
+    "p": 0.7619047619047619,
+    "r": 0.26666666666666666,
+    "f1": 0.3950617283950617,
+    "support": 60
+  },
+  "Transportation_res_NOT_adj": {
+    "p": 0.8421052631578947,
+    "r": 0.27586206896551724,
+    "f1": 0.41558441558441556,
+    "support": 106
+  },
+  "Leaving_res_adj": {
+    "p": 0.8888888888888888,
+    "r": 0.5714285714285714,
+    "f1": 0.6956521739130435,
+    "support": 14
+  },
+  "Leaving_res_NOT_adj": {
+    "p": 1.0,
+    "r": 0.42105263157894735,
+    "f1": 0.5925925925925926,
+    "support": 26
+  },
+  "Getting_res_adj": {
+    "p": 0.5,
+    "r": 0.5,
+    "f1": 0.5,
+    "support": 32
+  },
+  "Getting_res_NOT_adj": {
+    "p": 0.5517241379310345,
+    "r": 0.43243243243243246,
+    "f1": 0.48484848484848486,
+    "support": 56
+  },
+  "Giving_res_adj": {
+    "p": 0.2857142857142857,
+    "r": 0.1111111111111111,
+    "f1": 0.16,
+    "support": 18
+  },
+  "Giving_res_NOT_adj": {
+    "p": 0.5,
+    "r": 0.12,
+    "f1": 0.1935483870967742,
+    "support": 48
+  },
+  "BeingEmployed_res_adj": {
+    "p": 0.5,
+    "r": 0.3333333333333333,
+    "f1": 0.4,
+    "support": 6
+  },
+  "BeingEmployed_res_NOT_adj": {
+    "p": 0.3333333333333333,
+    "r": 0.3333333333333333,
+    "f1": 0.3333333333333333,
+    "support": 13
+  },
+  "Request_res_adj": {
+    "p": 1.0,
+    "r": 0.4827586206896552,
+    "f1": 0.6511627906976745,
+    "support": 29
+  },
+  "Request_res_NOT_adj": {
+    "p": 1.0,
+    "r": 0.5333333333333333,
+    "f1": 0.6956521739130436,
+    "support": 29
+  },
+  "Trade_res_adj": {
+    "p": 0.7142857142857143,
+    "r": 0.47619047619047616,
+    "f1": 0.5714285714285714,
+    "support": 21
+  },
+  "Trade_res_NOT_adj": {
+    "p": 0.0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 11
+  },
+  "TakingUnderControl_res_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 8
+  },
+  "TakingUnderControl_res_NOT_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 27
+  },
+  "Collaboration_res_adj": {
+    "p": 0.0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 11
+  },
+  "Collaboration_res_NOT_adj": {
+    "p": 0.0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 16
+  },
+  "BeingInConflict_res_adj": {
+    "p": 0.125,
+    "r": 0.06666666666666667,
+    "f1": 0.08695652173913045,
+    "support": 15
+  },
+  "BeingInConflict_res_NOT_adj": {
+    "p": 0.16666666666666666,
+    "r": 0.16666666666666666,
+    "f1": 0.16666666666666666,
+    "support": 29
+  },
+  "HavingInternalState-_res_adj": {
+    "p": 0.5,
+    "r": 0.06666666666666667,
+    "f1": 0.11764705882352941,
+    "support": 15
+  },
+  "HavingInternalState-_res_NOT_adj": {
+    "p": 0.5,
+    "r": 0.125,
+    "f1": 0.2,
+    "support": 69
+  },
+  "Attacking_res_adj": {
+    "p": 0,
+    "r": 0,
+    "f1": 0,
+    "support": 0
+  },
+  "Attacking_res_NOT_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 4
+  },
+  "BeingDamaged_res_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 8
+  },
+  "BeingDamaged_res_NOT_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 12
+  },
+  "ForceToAct_res_adj": {
+    "p": 0.25,
+    "r": 0.047619047619047616,
+    "f1": 0.08,
+    "support": 21
+  },
+  "ForceToAct_res_NOT_adj": {
+    "p": 1.0,
+    "r": 0.16666666666666666,
+    "f1": 0.2857142857142857,
+    "support": 38
+  },
+  "Voyage_res_adj": {
+    "p": 1.0,
+    "r": 0.36363636363636365,
+    "f1": 0.5333333333333333,
+    "support": 11
+  },
+  "Voyage_res_NOT_adj": {
+    "p": 1.0,
+    "r": 0.2222222222222222,
+    "f1": 0.3636363636363636,
+    "support": 49
+  },
+  "Buying_res_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 3
+  },
+  "Buying_res_NOT_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 11
+  },
+  "ViolentContest_res_adj": {
+    "p": 0.0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 5
+  },
+  "ViolentContest_res_NOT_adj": {
+    "p": 0.0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 20
+  },
+  "BeingInDebt_res_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 3
+  },
+  "BeingInDebt_res_NOT_adj": {
+    "p": 0,
+    "r": 0,
+    "f1": 0,
+    "support": 0
+  },
+  "LosingPossession_res_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 4
+  },
+  "LosingPossession_res_NOT_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 13
+  },
+  "Unrest_res_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 3
+  },
+  "Unrest_res_NOT_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 4
+  },
+  "HavingInternalState+_res_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 11
+  },
+  "HavingInternalState+_res_NOT_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 38
+  },
+  "translo_res_adj": {
+    "p": 0.6785714285714286,
+    "r": 0.49032258064516127,
+    "f1": 0.5692883895131087,
+    "support": 155
+  },
+  "translo_res_NOT_adj": {
+    "p": 0.7272727272727273,
+    "r": 0.5106382978723404,
+    "f1": 0.5999999999999999,
+    "support": 224
+  },
+  "translo_inclusive_res_adj": {
+    "p": 0.753731343283582,
+    "r": 0.4855769230769231,
+    "f1": 0.5906432748538012,
+    "support": 208
+  },
+  "translo_inclusive_res_NOT_adj": {
+    "p": 0.6779661016949152,
+    "r": 0.4624277456647399,
+    "f1": 0.5498281786941581,
+    "support": 287
+  },
+  "occup_res_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 27
+  },
+  "occup_res_NOT_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 30
+  },
+  "viol_res_adj": {
+    "p": 0.4,
+    "r": 0.0821917808219178,
+    "f1": 0.13636363636363635,
+    "support": 73
+  },
+  "viol_res_NOT_adj": {
+    "p": 0.25,
+    "r": 0.06451612903225806,
+    "f1": 0.10256410256410256,
+    "support": 113
+  },
+  "B-Communication_res_adj": {
+    "p": 0.2727272727272727,
+    "r": 0.3,
+    "f1": 0.28571428571428564,
+    "support": 20
+  },
+  "B-Communication_res_NOT_adj": {
+    "p": 0.0,
+    "r": 0,
+    "f1": 0,
+    "support": 0
+  },
+  "B-Translocation_res_adj": {
+    "p": 0.3,
+    "r": 0.3333333333333333,
+    "f1": 0.3157894736842105,
+    "support": 45
+  },
+  "B-Translocation_res_NOT_adj": {
+    "p": 0.6190476190476191,
+    "r": 0.5531914893617021,
+    "f1": 0.5842696629213483,
+    "support": 68
+  },
+  "B-HavingInPossession_res_adj": {
+    "p": 0.0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 13
+  },
+  "B-HavingInPossession_res_NOT_adj": {
+    "p": 0.0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 27
+  },
+  "B-BeingAtAPlace_res_adj": {
+    "p": 0.23076923076923078,
+    "r": 0.14285714285714285,
+    "f1": 0.17647058823529413,
+    "support": 21
+  },
+  "B-BeingAtAPlace_res_NOT_adj": {
+    "p": 0.4,
+    "r": 0.26666666666666666,
+    "f1": 0.32,
+    "support": 39
+  },
+  "B-Arriving_res_adj": {
+    "p": 0.75,
+    "r": 0.5217391304347826,
+    "f1": 0.6153846153846153,
+    "support": 23
+  },
+  "B-Arriving_res_NOT_adj": {
+    "p": 0.875,
+    "r": 0.5384615384615384,
+    "f1": 0.6666666666666667,
+    "support": 53
+  },
+  "B-Transportation_res_adj": {
+    "p": 0.6666666666666666,
+    "r": 0.3181818181818182,
+    "f1": 0.43076923076923074,
+    "support": 44
+  },
+  "B-Transportation_res_NOT_adj": {
+    "p": 0.8421052631578947,
+    "r": 0.34782608695652173,
+    "f1": 0.49230769230769234,
+    "support": 78
+  },
+  "B-Leaving_res_adj": {
+    "p": 1.0,
+    "r": 0.6666666666666666,
+    "f1": 0.8,
+    "support": 12
+  },
+  "B-Leaving_res_NOT_adj": {
+    "p": 1.0,
+    "r": 0.5333333333333333,
+    "f1": 0.6956521739130436,
+    "support": 21
+  },
+  "B-Getting_res_adj": {
+    "p": 0.5,
+    "r": 0.4838709677419355,
+    "f1": 0.4918032786885246,
+    "support": 31
+  },
+  "B-Getting_res_NOT_adj": {
+    "p": 0.5925925925925926,
+    "r": 0.5,
+    "f1": 0.5423728813559322,
+    "support": 47
+  },
+  "B-Giving_res_adj": {
+    "p": 0.3333333333333333,
+    "r": 0.16666666666666666,
+    "f1": 0.2222222222222222,
+    "support": 12
+  },
+  "B-Giving_res_NOT_adj": {
+    "p": 0.6,
+    "r": 0.15789473684210525,
+    "f1": 0.25,
+    "support": 35
+  },
+  "B-BeingEmployed_res_adj": {
+    "p": 0.0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 3
+  },
+  "B-BeingEmployed_res_NOT_adj": {
+    "p": 0.3333333333333333,
+    "r": 0.5,
+    "f1": 0.4,
+    "support": 11
+  },
+  "B-Request_res_adj": {
+    "p": 1.0,
+    "r": 0.5,
+    "f1": 0.6666666666666666,
+    "support": 28
+  },
+  "B-Request_res_NOT_adj": {
+    "p": 1.0,
+    "r": 0.5714285714285714,
+    "f1": 0.7272727272727273,
+    "support": 22
+  },
+  "B-Trade_res_adj": {
+    "p": 0.7142857142857143,
+    "r": 0.5555555555555556,
+    "f1": 0.6250000000000001,
+    "support": 18
+  },
+  "B-Trade_res_NOT_adj": {
+    "p": 0.0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 9
+  },
+  "B-TakingUnderControl_res_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 3
+  },
+  "B-TakingUnderControl_res_NOT_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 7
+  },
+  "B-Collaboration_res_adj": {
+    "p": 0.0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 6
+  },
+  "B-Collaboration_res_NOT_adj": {
+    "p": 0.0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 8
+  },
+  "B-BeingInConflict_res_adj": {
+    "p": 0.14285714285714285,
+    "r": 0.1111111111111111,
+    "f1": 0.125,
+    "support": 9
+  },
+  "B-BeingInConflict_res_NOT_adj": {
+    "p": 0.2,
+    "r": 0.25,
+    "f1": 0.22222222222222224,
+    "support": 14
+  },
+  "B-HavingInternalState-_res_adj": {
+    "p": 0.5,
+    "r": 0.125,
+    "f1": 0.2,
+    "support": 8
+  },
+  "B-HavingInternalState-_res_NOT_adj": {
+    "p": 0.5,
+    "r": 0.2,
+    "f1": 0.28571428571428575,
+    "support": 31
+  },
+  "B-Attacking_res_adj": {
+    "p": 0,
+    "r": 0,
+    "f1": 0,
+    "support": 0
+  },
+  "B-Attacking_res_NOT_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 3
+  },
+  "B-BeingDamaged_res_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 3
+  },
+  "B-BeingDamaged_res_NOT_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 6
+  },
+  "B-ForceToAct_res_adj": {
+    "p": 0.25,
+    "r": 0.07692307692307693,
+    "f1": 0.11764705882352941,
+    "support": 13
+  },
+  "B-ForceToAct_res_NOT_adj": {
+    "p": 1.0,
+    "r": 0.2,
+    "f1": 0.33333333333333337,
+    "support": 19
+  },
+  "B-Voyage_res_adj": {
+    "p": 1.0,
+    "r": 0.4,
+    "f1": 0.5714285714285715,
+    "support": 10
+  },
+  "B-Voyage_res_NOT_adj": {
+    "p": 1.0,
+    "r": 0.3333333333333333,
+    "f1": 0.5,
+    "support": 35
+  },
+  "B-Buying_res_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 3
+  },
+  "B-Buying_res_NOT_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 10
+  },
+  "B-ViolentContest_res_adj": {
+    "p": 0.0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 3
+  },
+  "B-ViolentContest_res_NOT_adj": {
+    "p": 0.0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 12
+  },
+  "B-BeingInDebt_res_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 1
+  },
+  "B-BeingInDebt_res_NOT_adj": {
+    "p": 0,
+    "r": 0,
+    "f1": 0,
+    "support": 0
+  },
+  "B-LosingPossession_res_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 3
+  },
+  "B-LosingPossession_res_NOT_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 5
+  },
+  "B-Unrest_res_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 3
+  },
+  "B-Unrest_res_NOT_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 2
+  },
+  "B-HavingInternalState+_res_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 11
+  },
+  "B-HavingInternalState+_res_NOT_adj": {
+    "p": 0,
+    "r": 0.0,
+    "f1": 0,
+    "support": 26
+  }
+}
