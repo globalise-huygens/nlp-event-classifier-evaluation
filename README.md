@@ -10,3 +10,8 @@ Contains all scores for precision, recall and f1 metrics for different classifie
 
 ### genllm
 Contains code to use and evaluate gpt5.1
+
+## models evaluated
+All classifiers evaluated were uploaded to Huggingface:
+- https://huggingface.co/collections/StellaVerkijk/robe-event-classifiers-for-globalise
+- https://huggingface.co/collections/StellaVerkijk/event-classifiers-trained-on-synthetically-augmented-data
