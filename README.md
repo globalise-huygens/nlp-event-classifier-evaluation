@@ -15,3 +15,5 @@ Contains code to use and evaluate gpt5.1
 All classifiers evaluated were uploaded to Huggingface:
 - https://huggingface.co/collections/StellaVerkijk/robe-event-classifiers-for-globalise
 - https://huggingface.co/collections/StellaVerkijk/event-classifiers-trained-on-synthetically-augmented-data
+
+The code that was used to fine-tune these models is published here: https://github.com/globalise-huygens/nlp-event-finetuning-experts
