@@ -26,35 +26,6 @@ def count_scores_sentence_level(gold, predictions):
 
     return tp, fp, fn, support
 
-def count_scores_sentence_level_lexicon(gold, predictions):
-
-    new_predictions = []
-    for region in predictions:
-        print(region)
-        new_region = []
-        for label in region:
-            print(label)
-            #if label != 'O':
-                #print(label)
-                #new_region.append(label.split('-')[1])
-            #else:
-                #new_region.append('O')
-                #continue
-            #new_predictions.append(new_region)
-
-
-    pairs = [(t, p) for t, p in zip(gold, new_predictions) if t != 'O' or p != 'O']
-
-    #print(pairs)
-
-    tp = sum(1 for t, p in pairs if t == p and t != 'O')
-    fp = sum(1 for t, p in pairs if p != 'O' and t != p)
-    fn = sum(1 for t, p in pairs if t != 'O' and t != p)
-
-    support = sum(1 for t, p in pairs if t != 'O')
-
-    return tp, fp, fn, support
-
 
 def is_o_label(gold_entry):
     """
@@ -492,4 +463,3 @@ def predict_events_aligned(words, model, tokenizer):
 
 
     return all_predicted_labels
-

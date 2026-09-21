@@ -5,23 +5,11 @@
     "f1": 0.1994301994301994,
     "support": 260
   },
-  "gen_res_NOT_adj": {
-    "p": 0.5375,
-    "r": 0.43,
-    "f1": 0.47777777777777775,
-    "support": 425
-  },
   "Communication_res_adj": {
     "p": 0.3333333333333333,
     "r": 0.35714285714285715,
     "f1": 0.3448275862068965,
     "support": 14
-  },
-  "Communication_res_NOT_adj": {
-    "p": 0.0,
-    "r": 0,
-    "f1": 0,
-    "support": 0
   },
   "Translocation_res_adj": {
     "p": 0.4166666666666667,
@@ -29,23 +17,11 @@
     "f1": 0.2702702702702703,
     "support": 25
   },
-  "Translocation_res_NOT_adj": {
-    "p": 0.6666666666666666,
-    "r": 0.34782608695652173,
-    "f1": 0.4571428571428571,
-    "support": 40
-  },
   "HavingInPossession_res_adj": {
     "p": 1.0,
     "r": 0.05555555555555555,
     "f1": 0.10526315789473684,
     "support": 18
-  },
-  "HavingInPossession_res_NOT_adj": {
-    "p": 1.0,
-    "r": 0.09090909090909091,
-    "f1": 0.16666666666666669,
-    "support": 28
   },
   "BeingAtAPlace_res_adj": {
     "p": 0.3333333333333333,
@@ -53,23 +29,11 @@
     "f1": 0.3571428571428571,
     "support": 13
   },
-  "BeingAtAPlace_res_NOT_adj": {
-    "p": 0.46153846153846156,
-    "r": 0.42857142857142855,
-    "f1": 0.4444444444444445,
-    "support": 26
-  },
   "Arriving_res_adj": {
     "p": 0.3333333333333333,
     "r": 0.2631578947368421,
     "f1": 0.29411764705882354,
     "support": 19
-  },
-  "Arriving_res_NOT_adj": {
-    "p": 0.46153846153846156,
-    "r": 0.3,
-    "f1": 0.3636363636363637,
-    "support": 41
   },
   "Transportation_res_adj": {
     "p": 0.42857142857142855,
@@ -77,23 +41,11 @@
     "f1": 0.3,
     "support": 13
   },
-  "Transportation_res_NOT_adj": {
-    "p": 0.7142857142857143,
-    "r": 0.3125,
-    "f1": 0.43478260869565216,
-    "support": 30
-  },
   "Leaving_res_adj": {
     "p": 0.8,
     "r": 0.8,
     "f1": 0.8000000000000002,
     "support": 5
-  },
-  "Leaving_res_NOT_adj": {
-    "p": 0.8,
-    "r": 0.6666666666666666,
-    "f1": 0.7272727272727272,
-    "support": 10
   },
   "Getting_res_adj": {
     "p": 1.0,
@@ -101,23 +53,11 @@
     "f1": 0.5,
     "support": 3
   },
-  "Getting_res_NOT_adj": {
-    "p": 1.0,
-    "r": 0.1,
-    "f1": 0.18181818181818182,
-    "support": 18
-  },
   "Giving_res_adj": {
     "p": 0,
     "r": 0.0,
     "f1": 0,
     "support": 15
-  },
-  "Giving_res_NOT_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 30
   },
   "BeingEmployed_res_adj": {
     "p": 0.0,
@@ -125,33 +65,15 @@
     "f1": 0,
     "support": 2
   },
-  "BeingEmployed_res_NOT_adj": {
-    "p": 0,
-    "r": 0,
-    "f1": 0,
-    "support": 3
-  },
   "Request_res_adj": {
     "p": 1.0,
     "r": 0.42105263157894735,
     "f1": 0.5925925925925926,
     "support": 19
   },
-  "Request_res_NOT_adj": {
-    "p": 1.0,
-    "r": 0.6153846153846154,
-    "f1": 0.761904761904762,
-    "support": 26
-  },
   "Trade_res_adj": {
     "p": 0,
     "r": 0.0,
-    "f1": 0,
-    "support": 4
-  },
-  "Trade_res_NOT_adj": {
-    "p": 0,
-    "r": 0,
     "f1": 0,
     "support": 4
   },
@@ -161,23 +83,11 @@
     "f1": 0,
     "support": 1
   },
-  "TakingUnderControl_res_NOT_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 19
-  },
   "Collaboration_res_adj": {
     "p": 0,
     "r": 0.0,
     "f1": 0,
     "support": 6
-  },
-  "Collaboration_res_NOT_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 14
   },
   "BeingInConflict_res_adj": {
     "p": 0,
@@ -185,23 +95,11 @@
     "f1": 0,
     "support": 5
   },
-  "BeingInConflict_res_NOT_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 13
-  },
   "HavingInternalState-_res_adj": {
     "p": 1.0,
     "r": 0.2222222222222222,
     "f1": 0.3636363636363636,
     "support": 9
-  },
-  "HavingInternalState-_res_NOT_adj": {
-    "p": 0.5,
-    "r": 0.25,
-    "f1": 0.3333333333333333,
-    "support": 47
   },
   "Attacking_res_adj": {
     "p": 0,
@@ -209,23 +107,11 @@
     "f1": 0,
     "support": 0
   },
-  "Attacking_res_NOT_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 2
-  },
   "BeingDamaged_res_adj": {
     "p": 0.0,
     "r": 0,
     "f1": 0,
     "support": 0
-  },
-  "BeingDamaged_res_NOT_adj": {
-    "p": 0.0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 1
   },
   "ForceToAct_res_adj": {
     "p": 0,
@@ -233,31 +119,13 @@
     "f1": 0,
     "support": 11
   },
-  "ForceToAct_res_NOT_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 27
-  },
   "Voyage_res_adj": {
     "p": 0.6666666666666666,
     "r": 0.6666666666666666,
     "f1": 0.6666666666666666,
     "support": 3
   },
-  "Voyage_res_NOT_adj": {
-    "p": 0.6666666666666666,
-    "r": 0.25,
-    "f1": 0.36363636363636365,
-    "support": 23
-  },
   "Buying_res_adj": {
-    "p": 0,
-    "r": 0,
-    "f1": 0,
-    "support": 0
-  },
-  "Buying_res_NOT_adj": {
     "p": 0,
     "r": 0,
     "f1": 0,
@@ -269,19 +137,7 @@
     "f1": 0,
     "support": 0
   },
-  "ViolentContest_res_NOT_adj": {
-    "p": 0,
-    "r": 0,
-    "f1": 0,
-    "support": 2
-  },
   "BeingInDebt_res_adj": {
-    "p": 0,
-    "r": 0,
-    "f1": 0,
-    "support": 0
-  },
-  "BeingInDebt_res_NOT_adj": {
     "p": 0,
     "r": 0,
     "f1": 0,
@@ -293,23 +149,11 @@
     "f1": 0,
     "support": 3
   },
-  "LosingPossession_res_NOT_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 6
-  },
   "Unrest_res_adj": {
     "p": 0,
     "r": 0,
     "f1": 0,
     "support": 0
-  },
-  "Unrest_res_NOT_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 1
   },
   "HavingInternalState+_res_adj": {
     "p": 1.0,
@@ -317,35 +161,11 @@
     "f1": 0.5,
     "support": 3
   },
-  "HavingInternalState+_res_NOT_adj": {
-    "p": 1.0,
-    "r": 1.0,
-    "f1": 1.0,
-    "support": 17
-  },
-  "translo_res_adj": {
-    "p": 0.5370370370370371,
-    "r": 0.5370370370370371,
-    "f1": 0.5370370370370371,
-    "support": 54
-  },
-  "translo_res_NOT_adj": {
-    "p": 0.58,
-    "r": 0.5272727272727272,
-    "f1": 0.5523809523809523,
-    "support": 95
-  },
   "translo_inclusive_res_adj": {
     "p": 0.7543859649122807,
     "r": 0.5512820512820513,
     "f1": 0.6370370370370372,
     "support": 78
-  },
-  "translo_inclusive_res_NOT_adj": {
-    "p": 0.5849056603773585,
-    "r": 0.4626865671641791,
-    "f1": 0.5166666666666667,
-    "support": 122
   },
   "occup_res_adj": {
     "p": 0,
@@ -353,334 +173,10 @@
     "f1": 0,
     "support": 20
   },
-  "occup_res_NOT_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 22
-  },
   "viol_res_adj": {
     "p": 0,
     "r": 0.0,
     "f1": 0,
     "support": 38
-  },
-  "viol_res_NOT_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 68
-  },
-  "B-Communication_res_adj": {
-    "p": 0.36363636363636365,
-    "r": 0.3333333333333333,
-    "f1": 0.34782608695652173,
-    "support": 12
-  },
-  "B-Communication_res_NOT_adj": {
-    "p": 0.0,
-    "r": 0,
-    "f1": 0,
-    "support": 0
-  },
-  "B-Translocation_res_adj": {
-    "p": 0.2,
-    "r": 0.10526315789473684,
-    "f1": 0.13793103448275862,
-    "support": 19
-  },
-  "B-Translocation_res_NOT_adj": {
-    "p": 0.6,
-    "r": 0.3333333333333333,
-    "f1": 0.42857142857142855,
-    "support": 32
-  },
-  "B-HavingInPossession_res_adj": {
-    "p": 0.0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 8
-  },
-  "B-HavingInPossession_res_NOT_adj": {
-    "p": 1.0,
-    "r": 0.1,
-    "f1": 0.18181818181818182,
-    "support": 20
-  },
-  "B-BeingAtAPlace_res_adj": {
-    "p": 0.35714285714285715,
-    "r": 0.5555555555555556,
-    "f1": 0.43478260869565216,
-    "support": 9
-  },
-  "B-BeingAtAPlace_res_NOT_adj": {
-    "p": 0.5,
-    "r": 0.5454545454545454,
-    "f1": 0.5217391304347826,
-    "support": 20
-  },
-  "B-Arriving_res_adj": {
-    "p": 0.2,
-    "r": 0.2727272727272727,
-    "f1": 0.23076923076923075,
-    "support": 11
-  },
-  "B-Arriving_res_NOT_adj": {
-    "p": 0.46153846153846156,
-    "r": 0.42857142857142855,
-    "f1": 0.4444444444444445,
-    "support": 28
-  },
-  "B-Transportation_res_adj": {
-    "p": 0.2857142857142857,
-    "r": 0.2857142857142857,
-    "f1": 0.2857142857142857,
-    "support": 7
-  },
-  "B-Transportation_res_NOT_adj": {
-    "p": 0.7142857142857143,
-    "r": 0.38461538461538464,
-    "f1": 0.5,
-    "support": 21
-  },
-  "B-Leaving_res_adj": {
-    "p": 0.8,
-    "r": 0.8,
-    "f1": 0.8000000000000002,
-    "support": 5
-  },
-  "B-Leaving_res_NOT_adj": {
-    "p": 0.8,
-    "r": 0.6666666666666666,
-    "f1": 0.7272727272727272,
-    "support": 10
-  },
-  "B-Getting_res_adj": {
-    "p": 1.0,
-    "r": 0.3333333333333333,
-    "f1": 0.5,
-    "support": 3
-  },
-  "B-Getting_res_NOT_adj": {
-    "p": 1.0,
-    "r": 0.14285714285714285,
-    "f1": 0.25,
-    "support": 13
-  },
-  "B-Giving_res_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 9
-  },
-  "B-Giving_res_NOT_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 20
-  },
-  "B-BeingEmployed_res_adj": {
-    "p": 0.0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 2
-  },
-  "B-BeingEmployed_res_NOT_adj": {
-    "p": 0,
-    "r": 0,
-    "f1": 0,
-    "support": 3
-  },
-  "B-Request_res_adj": {
-    "p": 1.0,
-    "r": 0.4444444444444444,
-    "f1": 0.6153846153846153,
-    "support": 18
-  },
-  "B-Request_res_NOT_adj": {
-    "p": 1.0,
-    "r": 0.6666666666666666,
-    "f1": 0.8,
-    "support": 19
-  },
-  "B-Trade_res_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 1
-  },
-  "B-Trade_res_NOT_adj": {
-    "p": 0,
-    "r": 0,
-    "f1": 0,
-    "support": 2
-  },
-  "B-TakingUnderControl_res_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 1
-  },
-  "B-TakingUnderControl_res_NOT_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 4
-  },
-  "B-Collaboration_res_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 3
-  },
-  "B-Collaboration_res_NOT_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 6
-  },
-  "B-BeingInConflict_res_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 4
-  },
-  "B-BeingInConflict_res_NOT_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 6
-  },
-  "B-HavingInternalState-_res_adj": {
-    "p": 0.5,
-    "r": 0.2,
-    "f1": 0.28571428571428575,
-    "support": 5
-  },
-  "B-HavingInternalState-_res_NOT_adj": {
-    "p": 0.5,
-    "r": 0.5,
-    "f1": 0.5,
-    "support": 18
-  },
-  "B-Attacking_res_adj": {
-    "p": 0,
-    "r": 0,
-    "f1": 0,
-    "support": 0
-  },
-  "B-Attacking_res_NOT_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 2
-  },
-  "B-BeingDamaged_res_adj": {
-    "p": 0.0,
-    "r": 0,
-    "f1": 0,
-    "support": 0
-  },
-  "B-BeingDamaged_res_NOT_adj": {
-    "p": 0.0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 1
-  },
-  "B-ForceToAct_res_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 6
-  },
-  "B-ForceToAct_res_NOT_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 11
-  },
-  "B-Voyage_res_adj": {
-    "p": 0.6666666666666666,
-    "r": 0.6666666666666666,
-    "f1": 0.6666666666666666,
-    "support": 3
-  },
-  "B-Voyage_res_NOT_adj": {
-    "p": 0.6666666666666666,
-    "r": 0.4,
-    "f1": 0.5,
-    "support": 16
-  },
-  "B-Buying_res_adj": {
-    "p": 0,
-    "r": 0,
-    "f1": 0,
-    "support": 0
-  },
-  "B-Buying_res_NOT_adj": {
-    "p": 0,
-    "r": 0,
-    "f1": 0,
-    "support": 0
-  },
-  "B-ViolentContest_res_adj": {
-    "p": 0,
-    "r": 0,
-    "f1": 0,
-    "support": 0
-  },
-  "B-ViolentContest_res_NOT_adj": {
-    "p": 0,
-    "r": 0,
-    "f1": 0,
-    "support": 2
-  },
-  "B-BeingInDebt_res_adj": {
-    "p": 0,
-    "r": 0,
-    "f1": 0,
-    "support": 0
-  },
-  "B-BeingInDebt_res_NOT_adj": {
-    "p": 0,
-    "r": 0,
-    "f1": 0,
-    "support": 0
-  },
-  "B-LosingPossession_res_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 2
-  },
-  "B-LosingPossession_res_NOT_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 3
-  },
-  "B-Unrest_res_adj": {
-    "p": 0,
-    "r": 0,
-    "f1": 0,
-    "support": 0
-  },
-  "B-Unrest_res_NOT_adj": {
-    "p": 0,
-    "r": 0.0,
-    "f1": 0,
-    "support": 1
-  },
-  "B-HavingInternalState+_res_adj": {
-    "p": 1.0,
-    "r": 0.3333333333333333,
-    "f1": 0.5,
-    "support": 3
-  },
-  "B-HavingInternalState+_res_NOT_adj": {
-    "p": 1.0,
-    "r": 1.0,
-    "f1": 1.0,
-    "support": 7
   }
 }
