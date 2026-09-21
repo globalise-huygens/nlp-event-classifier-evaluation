@@ -18,7 +18,8 @@ Install:
 Set your API key as an environment variable
 
 THIS CODE WAS WRITTEN BY CLAUDE
-DATA WAS ADDED BY AUTHORS
+in an iterative process where authors prompted and adapted.
+Data was added by authors.
 """
 
 import os
